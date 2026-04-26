@@ -1,0 +1,136 @@
+name: Crawl And Publish LH Notices
+
+on:
+  schedule:
+    # 10:00, 12:00, 14:00, 16:00, 18:00 KST
+    - cron: "0 1,3,5,7,9 * * *"
+  workflow_dispatch:
+    inputs:
+      skip_fcm:
+        description: "Skip FCM push even when new notices are detected"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+concurrency:
+  group: lh-crawl-and-publish
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+env:
+  NODE_VERSION: "22"
+  PUBLIC_DIR: public
+  DATA_DIR: data
+  TMP_DIR: tmp
+  FIREBASE_CREDENTIALS_PATH: tmp/firebase-service-account.json
+
+jobs:
+  crawl-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Prepare directories
+        run: mkdir -p "$PUBLIC_DIR" "$DATA_DIR" "$TMP_DIR" "$DATA_DIR/snapshots"
+
+      - name: Capture previous metadata
+        id: previous
+        run: |
+          if [ -f "$PUBLIC_DIR/metadata.json" ]; then
+            PREVIOUS_GENERATED_AT=$(node -e "const fs=require('fs'); const p='$PUBLIC_DIR/metadata.json'; const d=JSON.parse(fs.readFileSync(p,'utf8')); process.stdout.write(d.generatedAt || '');")
+            echo "generated_at=$PREVIOUS_GENERATED_AT" >> "$GITHUB_OUTPUT"
+          else
+            echo "generated_at=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run crawl pipeline
+        run: npm run crawl:publish
+
+      - name: Validate generated files
+        run: npm run validate:data
+
+      - name: Extract current metadata
+        id: current
+        run: |
+          CURRENT_GENERATED_AT=$(node -e "const fs=require('fs'); const d=JSON.parse(fs.readFileSync('$PUBLIC_DIR/metadata.json','utf8')); process.stdout.write(d.generatedAt || '');")
+          NOTICE_COUNT=$(node -e "const fs=require('fs'); const d=JSON.parse(fs.readFileSync('$PUBLIC_DIR/metadata.json','utf8')); process.stdout.write(String(d.noticeCount ?? 0));")
+          NEW_NOTICE_COUNT=$(node -e "const fs=require('fs'); const d=JSON.parse(fs.readFileSync('$PUBLIC_DIR/metadata.json','utf8')); process.stdout.write(String(d.newNoticeCount ?? 0));")
+          echo "generated_at=$CURRENT_GENERATED_AT" >> "$GITHUB_OUTPUT"
+          echo "notice_count=$NOTICE_COUNT" >> "$GITHUB_OUTPUT"
+          echo "new_notice_count=$NEW_NOTICE_COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Detect content changes
+        id: changes
+        run: |
+          if git diff --quiet -- "$PUBLIC_DIR" "$DATA_DIR"; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Restore Firebase credentials
+        if: steps.current.outputs.new_notice_count != '0' && github.event.inputs.skip_fcm != 'true'
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          test -n "$FIREBASE_SERVICE_ACCOUNT_JSON"
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT_JSON" > "$FIREBASE_CREDENTIALS_PATH"
+
+      - name: Send FCM notifications
+        if: steps.current.outputs.new_notice_count != '0' && github.event.inputs.skip_fcm != 'true'
+        env:
+          FIREBASE_CREDENTIALS_PATH: ${{ env.FIREBASE_CREDENTIALS_PATH }}
+        run: npm run push:fcm
+
+      - name: Commit generated data
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$PUBLIC_DIR" "$DATA_DIR"
+          git commit -m "chore: refresh LH notice data"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Job summary
+        run: |
+          {
+            echo "## LH crawl summary"
+            echo ""
+            echo "- Previous generatedAt: ${{ steps.previous.outputs.generated_at || 'none' }}"
+            echo "- Current generatedAt: ${{ steps.current.outputs.generated_at }}"
+            echo "- Notice count: ${{ steps.current.outputs.notice_count }}"
+            echo "- New notice count: ${{ steps.current.outputs.new_notice_count }}"
+            echo "- Repository data changed: ${{ steps.changes.outputs.changed }}"
+            echo "- FCM skipped: ${{ github.event.inputs.skip_fcm == 'true' }}"
+          } >> "$GITHUB_STEP_SUMMARY"

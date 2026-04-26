@@ -1,0 +1,17 @@
+{
+  "name": "lh-rental-alert-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Static data pipeline for LH public rental notice crawling, publishing, and FCM notifications.",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "crawl": "node scripts/crawl-lh.js",
+    "build:json": "node scripts/build-json.js",
+    "crawl:publish": "npm run crawl && npm run build:json",
+    "push:fcm": "node scripts/send-fcm.js",
+    "validate:data": "node scripts/validate-data.js"
+  }
+}
