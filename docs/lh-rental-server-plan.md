@@ -286,6 +286,15 @@ DB 대신 JSON 파일을 시스템의 기준 데이터로 본다.
 - `https://<github-pages-domain>/notices.json`
 - `https://<github-pages-domain>/metadata.json`
 
+현재 배포 URL:
+
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/metadata.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/categories.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/rental/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/sale/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/land/notices.json`
+
 앱 동작 방식:
 
 1. 앱 시작 시 `metadata.json` 조회

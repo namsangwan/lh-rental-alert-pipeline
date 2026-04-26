@@ -42,6 +42,11 @@
 - `https://<owner>.github.io/<repo>/notices.json`
 - `https://<owner>.github.io/<repo>/metadata.json`
 
+현재 이 프로젝트의 실제 배포 URL:
+
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/metadata.json`
+
 ## 3. Actions 권한 설정
 
 권장 설정:

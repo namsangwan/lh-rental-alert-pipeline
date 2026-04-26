@@ -1,4 +1,4 @@
-import { PATHS } from "./lib/constants.js";
+import { NOTICE_CATEGORIES, PATHS, getCategoryPaths } from "./lib/constants.js";
 import { asciiTopicSegment, readJsonFile, writeJson } from "./lib/utils.js";
 
 const REGION_TOPIC_MAP = {
@@ -39,7 +39,7 @@ function summarizeBody(title) {
 }
 
 function buildTopics(notice) {
-  const topics = ["all-notices"];
+  const topics = ["all-notices", `category-${notice.category}`];
 
   if (notice.region && notice.region !== "미상") {
     topics.push(
@@ -70,6 +70,7 @@ function buildFcmPayloads(generatedAt, newItems) {
         body: summarizeBody(notice.title),
         data: {
           noticeId: notice.id,
+          category: notice.category,
           noticeType: notice.noticeType,
           region: notice.region,
           detailUrl: notice.detailUrl,
@@ -81,66 +82,108 @@ function buildFcmPayloads(generatedAt, newItems) {
 }
 
 async function main() {
-  const latest = await readJsonFile(PATHS.latestData);
-  if (!latest) {
-    throw new Error("Missing data/latest.json. Run npm run crawl first.");
-  }
+  const allNewItems = [];
+  const categories = [];
+  let lastGeneratedAt = new Date().toISOString();
 
-  const previousPublic = await readJsonFile(PATHS.publicNotices);
-  const isBootstrapRun = !previousPublic;
-  const previousMap = new Map((previousPublic?.items ?? []).map((item) => [item.sourceNoticeKey, item]));
-
-  const newItems = [];
-  const updatedItems = [];
-
-  const publicItems = latest.items.map((item) => {
-    const previous = previousMap.get(item.sourceNoticeKey);
-    const isNew = !isBootstrapRun && !previous;
-    const isUpdated = Boolean(previous && previous.contentHash !== item.contentHash);
-
-    if (isNew) {
-      newItems.push(item);
-    } else if (isUpdated) {
-      updatedItems.push(item);
+  for (const category of NOTICE_CATEGORIES) {
+    const paths = getCategoryPaths(category.key);
+    const latest = await readJsonFile(paths.latestData);
+    if (!latest) {
+      throw new Error(`Missing ${paths.latestData}. Run npm run crawl first.`);
     }
 
-    return {
-      ...item,
-      isNew,
-      lastChangedAt:
-        isNew || isUpdated ? latest.generatedAt : previous?.lastChangedAt ?? latest.generatedAt
+    lastGeneratedAt = latest.generatedAt;
+
+    const previousPublic = await readJsonFile(paths.publicNotices);
+    const isBootstrapRun = !previousPublic;
+    const previousMap = new Map(
+      (previousPublic?.items ?? []).map((item) => [item.sourceNoticeKey, item])
+    );
+
+    const newItems = [];
+    const updatedItems = [];
+
+    const publicItems = latest.items.map((item) => {
+      const previous = previousMap.get(item.sourceNoticeKey);
+      const isNew = !isBootstrapRun && !previous;
+      const isUpdated = Boolean(previous && previous.contentHash !== item.contentHash);
+
+      if (isNew) {
+        newItems.push(item);
+      } else if (isUpdated) {
+        updatedItems.push(item);
+      }
+
+      return {
+        ...item,
+        isNew,
+        lastChangedAt:
+          isNew || isUpdated ? latest.generatedAt : previous?.lastChangedAt ?? latest.generatedAt
+      };
+    });
+
+    const noticesOutput = {
+      generatedAt: latest.generatedAt,
+      category: category.key,
+      categoryLabel: category.label,
+      count: publicItems.length,
+      items: publicItems
     };
+
+    const metadataOutput = {
+      generatedAt: latest.generatedAt,
+      category: category.key,
+      categoryLabel: category.label,
+      noticeCount: publicItems.length,
+      newNoticeCount: newItems.length,
+      updatedNoticeCount: updatedItems.length,
+      sourceUrl: latest.sourceUrl,
+      version: latest.generatedAt
+    };
+
+    const changesOutput = {
+      generatedAt: latest.generatedAt,
+      category: category.key,
+      categoryLabel: category.label,
+      newItems,
+      updatedItems
+    };
+
+    await writeJson(paths.publicNotices, noticesOutput);
+    await writeJson(paths.publicMetadata, metadataOutput);
+    await writeJson(paths.changesData, changesOutput);
+
+    if (category.key === "rental") {
+      await writeJson(PATHS.publicNotices, noticesOutput);
+      await writeJson(PATHS.publicMetadata, metadataOutput);
+      await writeJson(PATHS.changesData, changesOutput);
+    }
+
+    categories.push({
+      key: category.key,
+      label: category.label,
+      noticeCount: publicItems.length,
+      newNoticeCount: newItems.length,
+      updatedNoticeCount: updatedItems.length,
+      noticesUrl: `/${category.key}/notices.json`,
+      metadataUrl: `/${category.key}/metadata.json`
+    });
+
+    allNewItems.push(...newItems);
+
+    console.log(
+      `Built ${category.key} JSON. notices=${publicItems.length} new=${newItems.length} updated=${updatedItems.length}`
+    );
+  }
+
+  await writeJson(PATHS.categoriesIndex, {
+    generatedAt: lastGeneratedAt,
+    categories
   });
+  await writeJson(PATHS.fcmPayloadsData, buildFcmPayloads(lastGeneratedAt, allNewItems));
 
-  const noticesOutput = {
-    generatedAt: latest.generatedAt,
-    count: publicItems.length,
-    items: publicItems
-  };
-
-  const metadataOutput = {
-    generatedAt: latest.generatedAt,
-    noticeCount: publicItems.length,
-    newNoticeCount: newItems.length,
-    updatedNoticeCount: updatedItems.length,
-    sourceUrl: latest.sourceUrl,
-    version: latest.generatedAt
-  };
-
-  const changesOutput = {
-    generatedAt: latest.generatedAt,
-    newItems,
-    updatedItems
-  };
-
-  await writeJson(PATHS.publicNotices, noticesOutput);
-  await writeJson(PATHS.publicMetadata, metadataOutput);
-  await writeJson(PATHS.changesData, changesOutput);
-  await writeJson(PATHS.fcmPayloadsData, buildFcmPayloads(latest.generatedAt, newItems));
-
-  console.log(
-    `Built public JSON. notices=${publicItems.length} new=${newItems.length} updated=${updatedItems.length}`
-  );
+  console.log(`Built combined FCM payloads. new=${allNewItems.length}`);
 }
 
 main().catch((error) => {

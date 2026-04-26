@@ -24,6 +24,15 @@ node scripts/validate-data.js
 - GitHub Pages
 - Firebase Cloud Messaging topic push
 
+## 공개 JSON URL
+
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/metadata.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/categories.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/rental/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/sale/notices.json`
+- `https://namsangwan.github.io/lh-rental-alert-pipeline/land/notices.json`
+
 ## 참고 문서
 
 - `docs/lh-rental-server-plan.md`

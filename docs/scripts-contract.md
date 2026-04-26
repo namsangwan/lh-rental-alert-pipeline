@@ -31,6 +31,12 @@
 - `public/`
 - `tmp/`
 
+카테고리:
+
+- `rental`
+- `sale`
+- `land`
+
 각 디렉터리 용도:
 
 - `data/`: 내부 비교용 파일
@@ -56,17 +62,20 @@ node scripts/crawl-lh.js
 
 - LH 공고 목록 페이지를 가져온다.
 - HTML을 파싱한다.
-- 공고 배열을 정규화한다.
-- 비교 가능한 내부 원본 파일을 `data/latest.json`에 기록한다.
+- `임대`, `분양`, `토지` 공고 배열을 각각 정규화한다.
+- 비교 가능한 내부 원본 파일을 카테고리별로 기록한다.
 - 선택적으로 스냅샷 파일을 `data/snapshots/`에 남긴다.
 
 필수 출력 파일:
 
-- `data/latest.json`
+- `data/rental-latest.json`
+- `data/sale-latest.json`
+- `data/land-latest.json`
 
 선택 출력 파일:
 
-- `data/snapshots/<timestamp>.json`
+- `data/latest.json`
+- `data/snapshots/<category>-<timestamp>.json`
 
 성공 조건:
 
@@ -124,25 +133,34 @@ node scripts/build-json.js
 
 역할:
 
-- 직전 공개 데이터와 `data/latest.json`을 비교한다.
-- 신규 공고 수를 계산한다.
+- 직전 공개 데이터와 카테고리별 latest 파일을 비교한다.
+- 카테고리별 신규 공고 수를 계산한다.
 - 앱 공개용 JSON 파일을 생성한다.
 - FCM 발송 대상 정보를 내부 파일로 생성한다.
 
 입력 파일:
 
-- `data/latest.json`
-- `public/notices.json` 또는 이전 비교용 기준 파일
+- `data/rental-latest.json`
+- `data/sale-latest.json`
+- `data/land-latest.json`
+- 각 카테고리의 이전 공개 JSON
 
 필수 출력 파일:
 
-- `public/notices.json`
-- `public/metadata.json`
+- `public/rental/notices.json`
+- `public/rental/metadata.json`
+- `public/sale/notices.json`
+- `public/sale/metadata.json`
+- `public/land/notices.json`
+- `public/land/metadata.json`
+- `public/categories.json`
 - `data/fcm-payloads.json`
 
 권장 출력 파일:
 
-- `data/changes.json`
+- `data/rental-changes.json`
+- `data/sale-changes.json`
+- `data/land-changes.json`
 
 `public/metadata.json` 권장 구조:
 

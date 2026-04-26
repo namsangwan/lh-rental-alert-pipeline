@@ -2,7 +2,8 @@ import {
   LH_FILE_DOWNLOAD_URL,
   LH_NOTICE_DETAIL_URL,
   LH_NOTICE_FILE_LIST_URL,
-  LH_NOTICE_LIST_URL,
+  NOTICE_CATEGORIES,
+  getCategoryPaths,
   PATHS
 } from "./lib/constants.js";
 import {
@@ -46,9 +47,9 @@ async function fetchHtml(url) {
   return await response.text();
 }
 
-function buildDetailUrl({ panId, ccrCnntSysDsCd, uppAisTpCd, aisTpCd }) {
+function buildDetailUrl({ mi, panId, ccrCnntSysDsCd, uppAisTpCd, aisTpCd }) {
   const params = new URLSearchParams({
-    mi: "1026",
+    mi,
     panId,
     ccrCnntSysDsCd,
     uppAisTpCd
@@ -72,7 +73,7 @@ function extractCells(rowHtml) {
   return matches.map((match) => match[1]);
 }
 
-function extractRowData(rowHtml) {
+function extractRowData(rowHtml, category) {
   const cells = extractCells(rowHtml);
   const titleAnchorMatch = rowHtml.match(
     /<a\b[^>]*class="[^"]*\bwrtancInfoBtn\b[^"]*"[^>]*>[\s\S]*?<\/a>/i
@@ -112,11 +113,11 @@ function extractRowData(rowHtml) {
     status: stripHtml(cells[7]) || "미상",
     viewCount: parseNullableNumber(stripHtml(cells[8])),
     hasAttachment: Boolean(fileAnchorMatch),
-    detailUrl: buildDetailUrl({ panId, ccrCnntSysDsCd, uppAisTpCd, aisTpCd })
+    detailUrl: buildDetailUrl({ mi: category.mi, panId, ccrCnntSysDsCd, uppAisTpCd, aisTpCd })
   };
 }
 
-function extractRows(html) {
+function extractRows(html, category) {
   const tbodyMatch = html.match(
     /<div\b[^>]*class="[^"]*\bbbs_ListA\b[^"]*"[^>]*>[\s\S]*?<tbody>([\s\S]*?)<\/tbody>/i
   );
@@ -127,7 +128,7 @@ function extractRows(html) {
   const tbodyHtml = tbodyMatch[1];
   const rowMatches = [...tbodyHtml.matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi)];
   return rowMatches
-    .map((match) => extractRowData(match[0]))
+    .map((match) => extractRowData(match[0], category))
     .filter((row) => row !== null);
 }
 
@@ -190,7 +191,7 @@ function buildContentHash(item) {
   );
 }
 
-async function parseNotice(row) {
+async function parseNotice(row, category) {
   const { noticeType, noticeSubtype } = splitNoticeType(row.rawNoticeType);
   const attachments = row.hasAttachment
     ? await fetchAttachments({
@@ -202,8 +203,10 @@ async function parseNotice(row) {
     : [];
 
   const base = {
-    id: `lh-${row.panId}`,
-    source: "lh",
+    id: `${category.key}-${row.panId}`,
+    source: category.source,
+    category: category.key,
+    categoryLabel: category.label,
     sourceNoticeKey: row.panId,
     title: row.title,
     noticeType,
@@ -227,32 +230,42 @@ async function parseNotice(row) {
 async function main() {
   await ensureDir(PATHS.dataDir);
   await ensureDir(PATHS.snapshotsDir);
+  const timestamp = new Date();
+  const generatedAt = timestamp.toISOString();
 
-  const html = await fetchHtml(LH_NOTICE_LIST_URL);
-  const rows = extractRows(html);
+  for (const category of NOTICE_CATEGORIES) {
+    const html = await fetchHtml(category.listUrl);
+    const rows = extractRows(html, category);
 
-  if (rows.length === 0) {
-    throw new Error("No notice rows were parsed from the LH page.");
+    if (rows.length === 0) {
+      throw new Error(`No notice rows were parsed from the LH page for category=${category.key}.`);
+    }
+
+    const deduped = new Map();
+    for (const row of rows) {
+      const notice = await parseNotice(row, category);
+      deduped.set(notice.sourceNoticeKey, notice);
+    }
+
+    const items = Array.from(deduped.values());
+    const output = {
+      generatedAt,
+      sourceUrl: category.listUrl,
+      category: category.key,
+      categoryLabel: category.label,
+      count: items.length,
+      items
+    };
+
+    const paths = getCategoryPaths(category.key);
+    await writeJson(paths.latestData, output);
+    if (category.key === "rental") {
+      await writeJson(PATHS.latestData, output);
+    }
+    await writeJson(`${PATHS.snapshotsDir}/${category.key}-${timestampForFile(timestamp)}.json`, output);
+
+    console.log(`Crawled ${items.length} LH notices for ${category.key}.`);
   }
-
-  const deduped = new Map();
-  for (const row of rows) {
-    const notice = await parseNotice(row);
-    deduped.set(notice.sourceNoticeKey, notice);
-  }
-
-  const items = Array.from(deduped.values());
-  const output = {
-    generatedAt: new Date().toISOString(),
-    sourceUrl: LH_NOTICE_LIST_URL,
-    count: items.length,
-    items
-  };
-
-  await writeJson(PATHS.latestData, output);
-  await writeJson(`${PATHS.snapshotsDir}/${timestampForFile()}.json`, output);
-
-  console.log(`Crawled ${items.length} LH notices.`);
 }
 
 main().catch((error) => {
