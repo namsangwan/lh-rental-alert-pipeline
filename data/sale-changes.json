@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-04-26T11:14:22.046Z",
+  "generatedAt": "2026-04-27T04:33:41.460Z",
   "category": "sale",
   "categoryLabel": "분양",
   "newItems": [],
-  "updatedItems": []
+  "updatedItems": [
+    {
+      "id": "sale-0000061074",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061074",
+      "title": "인천가정2 B2블록 공공분양주택 입주자모집공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "인천광역시",
+      "status": "접수중",
+      "postedAt": "2026-04-15",
+      "deadlineAt": "2026-04-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061074&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "인천가정2B2블록공공분양주택입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66462941"
+        },
+        {
+          "name": "인천가정2B2블록공공분양주택입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66462945"
+        },
+        {
+          "name": "인천가정2B2블록공공분양팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449026"
+        },
+        {
+          "name": "1.위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449033"
+        },
+        {
+          "name": "2.개인정보수집이용및제3자제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449035"
+        }
+      ],
+      "viewCount": 32679,
+      "rawPanId": "0000061074",
+      "contentHash": "c13ca16d529ed8a9994eff5459e5023c17afc57a8817812c389bb7e61a589676"
+    }
+  ]
 }

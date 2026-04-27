@@ -1,7 +1,72 @@
 {
-  "generatedAt": "2026-04-26T11:14:22.046Z",
+  "generatedAt": "2026-04-27T04:33:41.460Z",
   "category": "land",
   "categoryLabel": "토지",
   "newItems": [],
-  "updatedItems": []
+  "updatedItems": [
+    {
+      "id": "land-BN-0007453",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007453",
+      "title": "남양주진접2 공공주택지구 협의양도인택지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "접수중",
+      "postedAt": "2026-04-15",
+      "deadlineAt": "2026-04-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007453&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "남양주진접2협의양도인택지공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66455353"
+        },
+        {
+          "name": "남양주진접2협의양도인택지공급안내팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66455355"
+        },
+        {
+          "name": "1.공급대상필지목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66455627"
+        },
+        {
+          "name": "2.상속재산분할협의서(양식).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66455653"
+        },
+        {
+          "name": "3.위임장(양식).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66455654"
+        },
+        {
+          "name": "4.지구단위계획도면.7z.001",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66455963"
+        },
+        {
+          "name": "5.지구단위계획결정(변경)조서.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456046"
+        },
+        {
+          "name": "6.지구단위계획시행지침.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456200"
+        },
+        {
+          "name": "7.토지이용계획도_변경.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456208"
+        },
+        {
+          "name": "8.국토교통부_제2025-923호_고시.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456211"
+        },
+        {
+          "name": "9.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456221"
+        }
+      ],
+      "viewCount": 2064,
+      "rawPanId": "BN-0007453",
+      "contentHash": "c9e992662ddf97aeeaa6a40973640769b3016485f11ba667fe7602cf6c79abcd"
+    }
+  ]
 }
