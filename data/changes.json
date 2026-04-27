@@ -1,376 +1,40 @@
 {
-  "generatedAt": "2026-04-27T04:33:41.460Z",
+  "generatedAt": "2026-04-27T07:37:29.553Z",
   "category": "rental",
   "categoryLabel": "임대",
-  "newItems": [],
-  "updatedItems": [
+  "newItems": [
     {
-      "id": "rental-2015122300019836",
+      "id": "rental-0000061070",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019836",
-      "title": "[정정공고]도청이전신도시 RH10-1BL 행복주택 자격완화 추가입주자 모집공고(2026.04.15)",
-      "noticeType": "행복주택",
+      "sourceNoticeKey": "0000061070",
+      "title": "오산세교18단지 분양전환 10년공공임대주택(리츠2호) 예비입주자 모집('26.04.27)",
+      "noticeType": "공공임대",
       "noticeSubtype": null,
-      "region": "충청남도",
-      "status": "접수중",
-      "postedAt": "2026-04-23",
-      "deadlineAt": "2026-04-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019836&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-04-27",
+      "deadlineAt": "2026-05-11",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=0000061070&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08",
       "attachments": [
         {
-          "name": "도청이전신도시RH10-1BL행복주택자격완화추가입주자모집공고문(26.04.15).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558388"
+          "name": "(2026.04.27)오산세교18_10년공임(리츠)예비자모집공고.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66325097"
         },
         {
-          "name": "도청이전신도시RH10-1BL행복주택자격완화추가입주자모집공고문(26.04.15).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558391"
+          "name": "(2026.04.27)오산세교18_10년공임(리츠)예비자모집공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66325116"
         },
         {
-          "name": "도청이전신도시RH10-1,2블록_팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558396"
-        },
-        {
-          "name": "260422_도청이전신도시RH10-1BL(21형예시).mp4",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558406"
-        },
-        {
-          "name": "서류제출양식(LH).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558393"
+          "name": "팸플릿(오산세교18단지)10년공공임대주택리츠.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66325070"
         }
       ],
-      "viewCount": 8264,
-      "rawPanId": "2015122300019836",
-      "contentHash": "e78a049a4ee3370000868465d55f811b1e9e1c1a7481f8976dcd75a011d8bbed"
-    },
-    {
-      "id": "rental-2015122300019833",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019833",
-      "title": "[2순위 대상주택 게시]경북서부(구미,김천) 다가구 등 매입임대주택 입주자 모집",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "경상북도",
-      "status": "접수중",
-      "postedAt": "2026-04-22",
-      "deadlineAt": "2026-04-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019833&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "26.04.08다가구등매입임대주택입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66545210"
-        },
-        {
-          "name": "26.04.08다가구등매입임대주택입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66545211"
-        },
-        {
-          "name": "26.04.08다가구등매입임대주택공급대상주택(2순위_게시용).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66553601"
-        }
-      ],
-      "viewCount": 4580,
-      "rawPanId": "2015122300019833",
-      "contentHash": "5c2871c6e9e1924e5c1bff05acbb70b1962f7b53dd8f4ed010626c0ca9ba8080"
-    },
-    {
-      "id": "rental-2015122300019810",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019810",
-      "title": "[대전·충남] 2026년 1차 든든전세주택 입주자 모집공고 (비분양전환형)",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "대전광역시 외",
-      "status": "접수중",
-      "postedAt": "2026-04-17",
-      "deadlineAt": "2026-04-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019810&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "26년_비분양전환형_든든전세매입임대_입주자모집공고문_대전충남.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66494522"
-        },
-        {
-          "name": "26년_비분양전환형_든든전세매입임대_입주자모집공고문_대전충남.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66494523"
-        },
-        {
-          "name": "26년_든든전세주택_QnA.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66494527"
-        },
-        {
-          "name": "26년_비분양전환형_든든전세매입임대_공급주택목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66494524"
-        }
-      ],
-      "viewCount": 28707,
-      "rawPanId": "2015122300019810",
-      "contentHash": "22c4e5dd60a84fb585590efd4587a7cca3c69a76b639efc50022ade64cc9b014"
-    },
-    {
-      "id": "rental-2015122300019772",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019772",
-      "title": "[대구 달성군]기존주택 등 매입임대주택 예비입주자 모집 공고",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "대구광역시",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019772&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "대구시달성군기존주택등매입임대주택예비입주자모집공고문(26.4.15).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449322"
-        },
-        {
-          "name": "대구시달성군기존주택등매입임대주택예비입주자모집공고문(26.4.15).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449324"
-        }
-      ],
-      "viewCount": 9742,
-      "rawPanId": "2015122300019772",
-      "contentHash": "9e740d6c4d5c66a8168a0e433e9c33144dec514808e3d880fdbd2d341b4487a8"
-    },
-    {
-      "id": "rental-2015122300019795",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019795",
-      "title": "양산시 행복주택 입주자격완화 예비입주자 모집공고(2026.4.15 공고)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경상남도",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019795&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "(2026.4.15)양산시행복주택입주자격완화예비입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66451317"
-        },
-        {
-          "name": "(2026.4.15)양산시행복주택입주자격완화예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66451318"
-        },
-        {
-          "name": "(물금H-1BL)홍보팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66451320"
-        },
-        {
-          "name": "양산사송H-1블록행복주택팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66451321"
-        }
-      ],
-      "viewCount": 9517,
-      "rawPanId": "2015122300019795",
-      "contentHash": "22db0ef40354f4b3cdc9ecabac9241099b4dd689ef93b759205e280f470db32a"
-    },
-    {
-      "id": "rental-2015122300019798",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019798",
-      "title": "양산 사송A1 및 사송A2 예비입주자 모집공고(2026.4.15 공고)",
-      "noticeType": "행복주택",
-      "noticeSubtype": "신혼희망",
-      "region": "경상남도",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019798&ccrCnntSysDsCd=03&uppAisTpCd=39&aisTpCd=42",
-      "attachments": [
-        {
-          "name": "(2026.4.15)양산사송A-1BL및A-2BL예비입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459181"
-        },
-        {
-          "name": "(2026.4.15)양산사송A-1BL및A-2BL예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459182"
-        },
-        {
-          "name": "(게시용)사송A-1BL행복주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459193"
-        },
-        {
-          "name": "(게시용)사송A-2블록행복주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459194"
-        }
-      ],
-      "viewCount": 6134,
-      "rawPanId": "2015122300019798",
-      "contentHash": "bf48b4bd15dce60e62163e36330055b6b61c4d305de21861b7bafecf0f66a554"
-    },
-    {
-      "id": "rental-2015122300019799",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019799",
-      "title": "창원명곡A-1BL(신혼희망타) 포엘른 행복주택 예비입주자 모집공고",
-      "noticeType": "행복주택",
-      "noticeSubtype": "신혼희망",
-      "region": "경상남도",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019799&ccrCnntSysDsCd=03&uppAisTpCd=39&aisTpCd=42",
-      "attachments": [
-        {
-          "name": "2026.04.15.창원명곡A-1(신혼희망)포엘른행복주택입주자공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459428"
-        },
-        {
-          "name": "2026.04.15.창원명곡A-1(신혼희망)포엘른행복주택입주자공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459431"
-        },
-        {
-          "name": "(게시용)창원명곡A-1BL신혼희망타운팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459443"
-        },
-        {
-          "name": "[별지](공통)필수행복주택제출서류(신혼).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66459435"
-        }
-      ],
-      "viewCount": 6837,
-      "rawPanId": "2015122300019799",
-      "contentHash": "5b1b44a5695d808b1d826ea8a0a3088c7affd2f9072556a07ab8c85c101735ea"
-    },
-    {
-      "id": "rental-2015122300019796",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019796",
-      "title": "2026.04.15. 창원시 행복주택 예비입주자 모집공고(명곡A-2,창원석동,창원가포1)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경상남도",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019796&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "2026.04.15.창원시행복주택예비입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457575"
-        },
-        {
-          "name": "2026.04.15.창원시행복주택예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457579"
-        },
-        {
-          "name": "(게시용)창원가포행복주택팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457622"
-        },
-        {
-          "name": "(게시용)창원명곡A-2블록행복주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457606"
-        },
-        {
-          "name": "(게시용)창원석동행복주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457618"
-        },
-        {
-          "name": "[별지](공통)필수행복주택제출서류.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457585"
-        }
-      ],
-      "viewCount": 14600,
-      "rawPanId": "2015122300019796",
-      "contentHash": "64543b7e22405e57d3d4a5ae0994fbc469a933bc531dd212aa71cb5455c04932"
-    },
-    {
-      "id": "rental-2015122300019829",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019829",
-      "title": "[정정공고]대곡 LH천년나무 1단지, 테크노 LH천년나무 3단지 행복주택 예비입주자 모집공고",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "대구광역시",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019829&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "대곡LH천년나무1단지,테크노LH천년나무3단지행복주택예비입주자모집공고(26.04.15).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538607"
-        },
-        {
-          "name": "대곡LH천년나무1단지,테크노LH천년나무3단지행복주택예비입주자모집공고(26.04.15).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538622"
-        },
-        {
-          "name": "[팜플렛]대구대곡2A블록(LH천년나무1단지)행복주택.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538637"
-        },
-        {
-          "name": "[팜플렛]대구테크노폴리스3단지행복주택.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538651"
-        },
-        {
-          "name": "(별첨1~4)서류제출대상자_전원_필수제출_서류(개인정보제공,자산보유,금융정보제공_등).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538659"
-        },
-        {
-          "name": "(별첨1~4작성샘플)_대구경북지역본부.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538684"
-        },
-        {
-          "name": "(별첨5)예비신혼부부_신청확인서_및_세대구성확인서(예비신혼부부만_제출).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538690"
-        },
-        {
-          "name": "(별첨6)각서(대학생계층_복학예정자만_제출).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66538694"
-        }
-      ],
-      "viewCount": 3966,
-      "rawPanId": "2015122300019829",
-      "contentHash": "851bd570c60ce4e88d0b4324b7329bc98df9febde4fb8b7efdf40b63d0b235f1"
-    },
-    {
-      "id": "rental-2015122300019813",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019813",
-      "title": "[정정공고]'2026.4.15. 광양와우·여수관문 행복주택 예비입주자 모집(입주자격완화)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "전라남도",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019813&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "'26.4.15.광양와우여수관문행복주택예비입주자모집공고문(자격완화).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66495385"
-        },
-        {
-          "name": "'26.4.15.광양와우여수관문행복주택예비입주자모집공고문(자격완화).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66495386"
-        }
-      ],
-      "viewCount": 3306,
-      "rawPanId": "2015122300019813",
-      "contentHash": "ef6a73d81ee4d951775725b00a6dd6bd0c0c09d8d4b17de47afe3fcb519046e0"
+      "viewCount": 599,
+      "rawPanId": "0000061070",
+      "contentHash": "9a7d7c962963271f9157e46f66c4e96ef74c73028c0a893cb6a6ec33129467e5"
     }
-  ]
+  ],
+  "updatedItems": []
 }
