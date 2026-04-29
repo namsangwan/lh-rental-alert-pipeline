@@ -1,7 +1,165 @@
 {
-  "generatedAt": "2026-04-28T11:09:02.574Z",
+  "generatedAt": "2026-04-29T04:33:17.091Z",
   "category": "rental",
   "categoryLabel": "임대",
-  "newItems": [],
-  "updatedItems": []
+  "newItems": [
+    {
+      "id": "rental-2015122300019851",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019851",
+      "title": "춘천효자8 영구임대주택 예비입주자 모집공고",
+      "noticeType": "영구임대",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-04-29",
+      "deadlineAt": "2026-05-15",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019851&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
+      "attachments": [
+        {
+          "name": "춘천효자8영구임대주택예비입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66631968"
+        },
+        {
+          "name": "춘천효자8영구임대주택예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66631971"
+        }
+      ],
+      "viewCount": 434,
+      "rawPanId": "2015122300019851",
+      "contentHash": "d0ff8ebdc9c3dd2630e74d5ab866f4d0b9171a5a2aef8ec24acff55925a5c10b"
+    },
+    {
+      "id": "rental-2015122300019781",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019781",
+      "title": "공주,당진,태안,홍성 국민임대 소득완화 예비입주자모집",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "충청남도",
+      "status": "공고중",
+      "postedAt": "2026-04-29",
+      "deadlineAt": "2026-05-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019781&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "공주당진태안홍성국민임대소득완화입주자모집.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66422729"
+        },
+        {
+          "name": "공주당진태안홍성국민임대소득완화입주자모집.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66422737"
+        },
+        {
+          "name": "공사양식(필수).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66422806"
+        }
+      ],
+      "viewCount": 694,
+      "rawPanId": "2015122300019781",
+      "contentHash": "ea17ed4ed51d627bc88e3212a7835a4149288cffec8376219da2fae7aaf5686c"
+    },
+    {
+      "id": "rental-2015122300019738",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019738",
+      "title": "도청이전신도시 RH10-2BL 국민임대 자격완화 추가모집 공고(2026.04.29)",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "충청남도",
+      "status": "공고중",
+      "postedAt": "2026-04-29",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019738&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "도청이전신도시RH10-2BL국민임대추가모집공고문(26.04.29).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66387482"
+        },
+        {
+          "name": "도청이전신도시RH10-2BL국민임대추가모집공고문(26.04.29).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66387549"
+        },
+        {
+          "name": "도청이전신도시RH10-2팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66465808"
+        },
+        {
+          "name": "서류제출양식(LH).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66465750"
+        }
+      ],
+      "viewCount": 331,
+      "rawPanId": "2015122300019738",
+      "contentHash": "355d5f8d2865148cb79aa8a1b69dd0672811dd357c231481e34c55b50ec9229d"
+    },
+    {
+      "id": "rental-2015122300019848",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019848",
+      "title": "[강원지역본부] 일반 매입임대주택 예비입주자 모집공고(춘천시, 홍천군)",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-04-29",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019848&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "붙임.입주자모집공고문(춘천시,홍천군).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66603260"
+        },
+        {
+          "name": "붙임.입주자모집공고문(춘천시,홍천군).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66603261"
+        }
+      ],
+      "viewCount": 539,
+      "rawPanId": "2015122300019848",
+      "contentHash": "e5559be7c35e932ced54f64392d1b9a4a1a40feb2337ad0d10bca34f3babb2db"
+    }
+  ],
+  "updatedItems": [
+    {
+      "id": "rental-2015122300019857",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019857",
+      "title": "[정정공고]삼척당저 행복주택 예비입주자 모집",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "접수중",
+      "postedAt": "2026-04-28",
+      "deadlineAt": "2026-04-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019857&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "(260415)삼척당저행복주택예비입주자모집공고문_최종.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66629926"
+        },
+        {
+          "name": "(260415)삼척당저행복주택예비입주자모집공고문_최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66629931"
+        },
+        {
+          "name": "서류양식.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66629947"
+        }
+      ],
+      "viewCount": 935,
+      "rawPanId": "2015122300019857",
+      "contentHash": "3ee49e76ebe0694bddabca1b13b2274d768aaac12136de8282a0fae43a176dd2"
+    }
+  ]
 }
