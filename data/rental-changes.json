@@ -1,179 +1,39 @@
 {
-  "generatedAt": "2026-04-29T11:01:10.174Z",
+  "generatedAt": "2026-04-30T04:35:54.429Z",
   "category": "rental",
   "categoryLabel": "임대",
   "newItems": [
     {
-      "id": "rental-2015122300019855",
+      "id": "rental-2015122300019868",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019855",
-      "title": "[제주지역본부] 고령자 매입임대주택 예비입주자 모집 공고(제주시)",
+      "sourceNoticeKey": "2015122300019868",
+      "title": "인천광역시, 경기도 부천시 다자녀 매입임대주택 예비입주자 모집 공고",
       "noticeType": "매입임대",
       "noticeSubtype": null,
-      "region": "전국",
+      "region": "인천광역시 외",
       "status": "공고중",
-      "postedAt": "2026-04-29",
-      "deadlineAt": "2026-05-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019855&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-12",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019868&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
       "attachments": [
         {
-          "name": "20260429(고령자매입임대)표준예비입주자모집공고문(제주시).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628511"
+          "name": "26-2차다자녀매입임대주택예비입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66644482"
         },
         {
-          "name": "20260429(고령자매입임대)표준예비입주자모집공고문(제주시).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628512"
+          "name": "26-2차다자녀매입임대주택예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66644480"
         },
         {
-          "name": "20260429고령자매입임대주택공급대상주택목록(제주시).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628516"
+          "name": "26-2차다자녀매입임대주택공급대상주택목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66644486"
         }
       ],
-      "viewCount": 250,
-      "rawPanId": "2015122300019855",
-      "contentHash": "ef0acd2dff704b83e952f66fed10b587fd79b2e5ef8f571f9ea00940d1a3166a"
-    },
-    {
-      "id": "rental-2015122300019854",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019854",
-      "title": "[제주지역본부] 다자녀 매입임대주택 예비입주자 모집 공고(서귀포시)",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "전국",
-      "status": "공고중",
-      "postedAt": "2026-04-29",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019854&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "20260429(다자녀매입임대)표준예비입주자모집공고문(서귀포시).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628437"
-        },
-        {
-          "name": "20260429(다자녀매입임대)표준예비입주자모집공고문(서귀포시).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628447"
-        },
-        {
-          "name": "20260429다자녀매입임대주택공급대상주택목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628448"
-        }
-      ],
-      "viewCount": 130,
-      "rawPanId": "2015122300019854",
-      "contentHash": "75c9e8e147136917d6b4bb672f702b51a1e60f88049e6219d401b6e9c6412c11"
-    },
-    {
-      "id": "rental-2015122300019856",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019856",
-      "title": "[제주지역본부] 고령자 매입임대주택 예비입주자 모집 공고(서귀포시)",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "전국",
-      "status": "공고중",
-      "postedAt": "2026-04-29",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019856&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "20260429(고령자매입임대)표준예비입주자모집공고문(서귀포시).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628532"
-        },
-        {
-          "name": "20260429(고령자매입임대)표준예비입주자모집공고문(서귀포시).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628533"
-        },
-        {
-          "name": "20260429고령자매입임대주택공급대상주택목록(서귀포시).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628534"
-        }
-      ],
-      "viewCount": 208,
-      "rawPanId": "2015122300019856",
-      "contentHash": "be0bc5a79ad98e001b75339569fdd12604565d6e1a7d47fd747e85919288afe8"
-    },
-    {
-      "id": "rental-2015122300019846",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019846",
-      "title": "[경기남부권 용인시 및 이천시 행복주택 예비입주자 모집(2026.04.29.)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-04-29",
-      "deadlineAt": "2026-05-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019846&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "(게시용)(26.04.29)경기남부용인시및이천시행복주택예비입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656543"
-        },
-        {
-          "name": "(게시용)(26.04.29)경기남부용인시및이천시행복주택예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656544"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부1](필수)개인정보수집이용및제3자제공동의서등.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656083"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부2](대학생복학예정자용)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656090"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부3](예비신혼부부신청시)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656094"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부4]위임장(현장_대리인_신청시)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656115"
-        }
-      ],
-      "viewCount": 1593,
-      "rawPanId": "2015122300019846",
-      "contentHash": "341053bdbe7483e82028b59d9f8d6fe97076d5fa4b19ba151dbb75f48399cab7"
-    },
-    {
-      "id": "rental-2015122300019870",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019870",
-      "title": "[전국] 2026년 1차 일반 매입임대주택 입주자 모집 공고",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "부산광역시 외",
-      "status": "공고중",
-      "postedAt": "2026-04-29",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019870&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "(260429)2026년1차입주자모집공고문(게시용).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66660096"
-        },
-        {
-          "name": "(260429)2026년1차입주자모집공고문(게시용).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66660097"
-        },
-        {
-          "name": "26.1차기존주택등매입임대주택공급대상주택목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66660102"
-        }
-      ],
-      "viewCount": 2118,
-      "rawPanId": "2015122300019870",
-      "contentHash": "f581b1611a2f8874d820b73f57abd485e39f5f1c703ced03a7b0643ac4e69443"
+      "viewCount": 1646,
+      "rawPanId": "2015122300019868",
+      "contentHash": "5b4131cf0b28edb84f1ac206cd3efcb235570dc02b036a3cfc1aa6258253ad17"
     }
   ],
   "updatedItems": []

@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-04-29T11:01:10.174Z",
+  "generatedAt": "2026-04-30T04:35:54.429Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "sale-0000061079",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061079",
+      "title": "청주지북 B1블록 공공분양주택 잔여세대 추가 입주자모집공고(선착순 동호지정)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "충청북도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2027-03-31",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061079&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662874"
+        },
+        {
+          "name": "청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662881"
+        },
+        {
+          "name": "청주지북_B1블록_공공분양주택_팸플릿(잔여세대_추가_입주자모집(선착순_동호지정)_공고용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662892"
+        },
+        {
+          "name": "(양식)개인정보수집·이용_및_제3자제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662920"
+        },
+        {
+          "name": "(양식)위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662925"
+        },
+        {
+          "name": "청주지북_B1블록_공공분양주택_잔여_동호표.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662919"
+        }
+      ],
+      "viewCount": 873,
+      "rawPanId": "0000061079",
+      "contentHash": "c9c023a506e6779892141ba0a4edded8d648e7e993e285158748caf129e83278"
+    }
+  ],
   "updatedItems": []
 }

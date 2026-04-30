@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-29T11:01:10.174Z",
+  "generatedAt": "2026-04-30T04:35:54.429Z",
   "categories": [
     {
       "key": "rental",
       "label": "임대",
       "noticeCount": 50,
-      "newNoticeCount": 5,
+      "newNoticeCount": 1,
       "updatedNoticeCount": 0,
       "noticesUrl": "/rental/notices.json",
       "metadataUrl": "/rental/metadata.json"
@@ -13,8 +13,8 @@
     {
       "key": "sale",
       "label": "분양",
-      "noticeCount": 7,
-      "newNoticeCount": 0,
+      "noticeCount": 8,
+      "newNoticeCount": 1,
       "updatedNoticeCount": 0,
       "noticesUrl": "/sale/notices.json",
       "metadataUrl": "/sale/metadata.json"
@@ -22,8 +22,8 @@
     {
       "key": "land",
       "label": "토지",
-      "noticeCount": 36,
-      "newNoticeCount": 0,
+      "noticeCount": 38,
+      "newNoticeCount": 2,
       "updatedNoticeCount": 0,
       "noticesUrl": "/land/notices.json",
       "metadataUrl": "/land/metadata.json"

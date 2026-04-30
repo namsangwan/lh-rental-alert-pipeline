@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-04-29T11:01:10.174Z",
+  "generatedAt": "2026-04-30T04:35:54.429Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "id": "sale-0000061079",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061079",
+      "title": "청주지북 B1블록 공공분양주택 잔여세대 추가 입주자모집공고(선착순 동호지정)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "충청북도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2027-03-31",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061079&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662874"
+        },
+        {
+          "name": "청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662881"
+        },
+        {
+          "name": "청주지북_B1블록_공공분양주택_팸플릿(잔여세대_추가_입주자모집(선착순_동호지정)_공고용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662892"
+        },
+        {
+          "name": "(양식)개인정보수집·이용_및_제3자제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662920"
+        },
+        {
+          "name": "(양식)위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662925"
+        },
+        {
+          "name": "청주지북_B1블록_공공분양주택_잔여_동호표.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662919"
+        }
+      ],
+      "viewCount": 873,
+      "rawPanId": "0000061079",
+      "contentHash": "c9c023a506e6779892141ba0a4edded8d648e7e993e285158748caf129e83278",
+      "isNew": true,
+      "lastChangedAt": "2026-04-30T04:35:54.429Z"
+    },
     {
       "id": "sale-2015122300019837",
       "source": "lh-sale",
@@ -36,7 +82,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558434"
         }
       ],
-      "viewCount": 4685,
+      "viewCount": 5076,
       "rawPanId": "2015122300019837",
       "contentHash": "91f74298eff13f64690b398d2f7eab86d090bde8a23d2bfac4e7e0c6daf7414e",
       "isNew": false,
@@ -78,7 +124,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66556940"
         }
       ],
-      "viewCount": 15432,
+      "viewCount": 16688,
       "rawPanId": "0000061077",
       "contentHash": "c07de825fe9eb5a8704ac7caca9d9ddd62c55a8af6f6aede3b486a6b314aecdf",
       "isNew": false,
@@ -128,7 +174,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469573"
         }
       ],
-      "viewCount": 5017,
+      "viewCount": 5410,
       "rawPanId": "2015122300019785",
       "contentHash": "f4d794ae27df25c78958c18b28c8d1d86a9db5912ee79f28da6c80fe6b23a152",
       "isNew": false,
@@ -170,7 +216,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449035"
         }
       ],
-      "viewCount": 39584,
+      "viewCount": 41725,
       "rawPanId": "0000061074",
       "contentHash": "d9187a4b33009104456a75760e15338cc35a1b9e379db9217169c032bdd43bd3",
       "isNew": false,
@@ -204,7 +250,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66232026"
         }
       ],
-      "viewCount": 5767,
+      "viewCount": 5879,
       "rawPanId": "2015122300019650",
       "contentHash": "f005ff4694f46c33285824749a1590cd70d8d9303627a1f7836a4642f49fce4e",
       "isNew": false,
@@ -234,7 +280,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66128540"
         }
       ],
-      "viewCount": 9492,
+      "viewCount": 9639,
       "rawPanId": "2015122300019408",
       "contentHash": "91f3325cf0a685681e55eb29ad43d5303c8577a29ddb5efefc0ad1e975b09ba8",
       "isNew": false,
@@ -268,7 +314,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66170859"
         }
       ],
-      "viewCount": 7244,
+      "viewCount": 7386,
       "rawPanId": "2015122300019618",
       "contentHash": "817fb878225739b7ec15cb006bc1c09dfdb41f964b1fc0a121a901782cf752ab",
       "isNew": false,
