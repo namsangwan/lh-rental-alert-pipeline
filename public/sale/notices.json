@@ -1,58 +1,164 @@
 {
-  "generatedAt": "2026-04-30T07:31:20.138Z",
+  "generatedAt": "2026-04-30T10:59:46.234Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 12,
+  "count": 15,
   "items": [
     {
-      "id": "sale-0000061082",
+      "id": "sale-0000061080",
       "source": "lh-sale",
       "category": "sale",
       "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061082",
-      "title": "남양주왕숙2 A-3BL 공공분양주택 입주자모집공고",
+      "sourceNoticeKey": "0000061080",
+      "title": "왕숙 아테라(남양주왕숙2 A-1BL) 공공분양주택(민간참여형) 입주자모집공고",
       "noticeType": "분양주택",
       "noticeSubtype": null,
       "region": "경기도",
       "status": "공고중",
       "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061082&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "deadlineAt": "2026-05-28",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061080&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
       "attachments": [
         {
-          "name": "20260430_남양주왕숙2A3블록입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680729"
+          "name": "★260430_왕숙2지구아테라입주자모집공고(최종).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66682346"
         },
         {
-          "name": "20260430_남양주왕숙2A3블록입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680738"
+          "name": "★260430_왕숙2지구아테라입주자모집공고(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66682424"
+        }
+      ],
+      "viewCount": 9003,
+      "rawPanId": "0000061080",
+      "contentHash": "b1b9f7b9b259c1cf6c41871f4d27b48ede0b9e231e28491f941289e1e3ceb5aa",
+      "isNew": true,
+      "lastChangedAt": "2026-04-30T10:59:46.234Z"
+    },
+    {
+      "id": "sale-2015122300019840",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300019840",
+      "title": "진해 청안해오름 잔여주택 일반매각 선착순 동호지정 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-27",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019840&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "진해청안해오름잔여주택일반매각공고문(2026.04.30.).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637595"
         },
         {
-          "name": "20260430_남양주왕숙2A-3블록공공분양_팸플릿_저용량.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681445"
+          "name": "진해청안해오름잔여주택일반매각공고문(2026.04.30.).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637591"
+        },
+        {
+          "name": "붙임_주택상태확인서,위임장양식(청안해오름).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637605"
+        }
+      ],
+      "viewCount": 87,
+      "rawPanId": "2015122300019840",
+      "contentHash": "db3c1e4ef1180c5134d298e25c0e25c0221dd59845917c41240f7ab3eb592faa",
+      "isNew": true,
+      "lastChangedAt": "2026-04-30T10:59:46.234Z"
+    },
+    {
+      "id": "sale-2015122300019839",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300019839",
+      "title": "진해석동 우림필유 잔여주택 일반매각 선착순 동호지정 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-27",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019839&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "진해석동우림필유잔여주택일반매각공고문(2026.04.30.).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637634"
+        },
+        {
+          "name": "진해석동우림필유잔여주택일반매각공고문(2026.04.30.).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637631"
+        },
+        {
+          "name": "붙임_주택상태확인서,위임장양식(우림필유).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637641"
+        }
+      ],
+      "viewCount": 82,
+      "rawPanId": "2015122300019839",
+      "contentHash": "b035cbedaa6eca9a6631424787f6e6aa392d7b3f289cf00572738a5c82f06f91",
+      "isNew": true,
+      "lastChangedAt": "2026-04-30T10:59:46.234Z"
+    },
+    {
+      "id": "sale-0000061083",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061083",
+      "title": "인천계양 A9블록 신혼희망타운(공공분양) 입주자모집공고",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "인천광역시",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-28",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061083&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "인천계양A9블록신혼희망타운(공공분양)입주자모집공고문(안)_260430.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66682095"
+        },
+        {
+          "name": "인천계양A9블록신혼희망타운(공공분양)입주자모집공고문(안)_260430.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66682088"
+        },
+        {
+          "name": "인천계양A9블록신희타(공공분양)_팸플릿_0430_최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680175"
         },
         {
           "name": "1.위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681611"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669944"
         },
         {
           "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681633"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669953"
         },
         {
           "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681635"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669957"
         },
         {
-          "name": "3.주택취득자금조달및입주계획서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681640"
+          "name": "3-1.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669964"
+        },
+        {
+          "name": "3-2.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서-작성방법.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669968"
+        },
+        {
+          "name": "4.자산보유사실확인서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669972"
         }
       ],
-      "viewCount": 1888,
-      "rawPanId": "0000061082",
-      "contentHash": "f117c5143b871ca675e9b016a4e4b8202b6a4a005f0689a4379530d66093b158",
+      "viewCount": 3359,
+      "rawPanId": "0000061083",
+      "contentHash": "ee23456665b0ce3c426dd8b7b3113eab2151a385125c25dd26303f9b1afeea99",
       "isNew": true,
-      "lastChangedAt": "2026-04-30T07:31:20.138Z"
+      "lastChangedAt": "2026-04-30T10:59:46.234Z"
     },
     {
       "id": "sale-0000061081",
@@ -78,10 +184,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678975"
         }
       ],
-      "viewCount": 1981,
+      "viewCount": 11615,
       "rawPanId": "0000061081",
       "contentHash": "7d24f5ac0b4a029c5b1b5284fe84cf6ea722410bdffc4c49d6f2187ed29e943f",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-04-30T07:31:20.138Z"
     },
     {
@@ -136,10 +242,60 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66645698"
         }
       ],
-      "viewCount": 448,
+      "viewCount": 1937,
       "rawPanId": "0000061078",
       "contentHash": "379e2f5fbb5a4c353a219c6ba838678ead32d21cae8e497c61e3b1e3869677c3",
-      "isNew": true,
+      "isNew": false,
+      "lastChangedAt": "2026-04-30T07:31:20.138Z"
+    },
+    {
+      "id": "sale-0000061082",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061082",
+      "title": "남양주왕숙2 A-3BL 공공분양주택 입주자모집공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-29",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061082&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "20260430_남양주왕숙2A3블록입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680729"
+        },
+        {
+          "name": "20260430_남양주왕숙2A3블록입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680738"
+        },
+        {
+          "name": "20260430_남양주왕숙2A-3블록공공분양_팸플릿_저용량.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681445"
+        },
+        {
+          "name": "1.위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681611"
+        },
+        {
+          "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681633"
+        },
+        {
+          "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681635"
+        },
+        {
+          "name": "3.주택취득자금조달및입주계획서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681640"
+        }
+      ],
+      "viewCount": 9931,
+      "rawPanId": "0000061082",
+      "contentHash": "f117c5143b871ca675e9b016a4e4b8202b6a4a005f0689a4379530d66093b158",
+      "isNew": false,
       "lastChangedAt": "2026-04-30T07:31:20.138Z"
     },
     {
@@ -178,10 +334,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66492561"
         }
       ],
-      "viewCount": 286,
+      "viewCount": 416,
       "rawPanId": "2015122300019811",
       "contentHash": "6a02f1403e6baed18f7c19f8e48ac06b9a4515bb06656b04afe1ffbc0de218cd",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-04-30T07:31:20.138Z"
     },
     {
@@ -224,7 +380,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662919"
         }
       ],
-      "viewCount": 1221,
+      "viewCount": 1416,
       "rawPanId": "0000061079",
       "contentHash": "c9c023a506e6779892141ba0a4edded8d648e7e993e285158748caf129e83278",
       "isNew": false,
@@ -262,7 +418,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558434"
         }
       ],
-      "viewCount": 5165,
+      "viewCount": 5215,
       "rawPanId": "2015122300019837",
       "contentHash": "91f74298eff13f64690b398d2f7eab86d090bde8a23d2bfac4e7e0c6daf7414e",
       "isNew": false,
@@ -304,7 +460,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66556940"
         }
       ],
-      "viewCount": 17207,
+      "viewCount": 17651,
       "rawPanId": "0000061077",
       "contentHash": "c07de825fe9eb5a8704ac7caca9d9ddd62c55a8af6f6aede3b486a6b314aecdf",
       "isNew": false,
@@ -354,53 +510,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469573"
         }
       ],
-      "viewCount": 5517,
+      "viewCount": 5637,
       "rawPanId": "2015122300019785",
       "contentHash": "f4d794ae27df25c78958c18b28c8d1d86a9db5912ee79f28da6c80fe6b23a152",
       "isNew": false,
       "lastChangedAt": "2026-04-26T11:14:22.046Z"
-    },
-    {
-      "id": "sale-0000061074",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061074",
-      "title": "인천가정2 B2블록 공공분양주택 입주자모집공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "접수중",
-      "postedAt": "2026-04-15",
-      "deadlineAt": "2026-04-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061074&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "인천가정2B2블록입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66615667"
-        },
-        {
-          "name": "인천가정2B2블록입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66615670"
-        },
-        {
-          "name": "인천가정2B2블록공공분양팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449026"
-        },
-        {
-          "name": "1.위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449033"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66449035"
-        }
-      ],
-      "viewCount": 42640,
-      "rawPanId": "0000061074",
-      "contentHash": "d9187a4b33009104456a75760e15338cc35a1b9e379db9217169c032bdd43bd3",
-      "isNew": false,
-      "lastChangedAt": "2026-04-27T07:37:29.553Z"
     },
     {
       "id": "sale-2015122300019650",
@@ -430,7 +544,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66232026"
         }
       ],
-      "viewCount": 5908,
+      "viewCount": 5934,
       "rawPanId": "2015122300019650",
       "contentHash": "f005ff4694f46c33285824749a1590cd70d8d9303627a1f7836a4642f49fce4e",
       "isNew": false,
@@ -460,7 +574,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66128540"
         }
       ],
-      "viewCount": 9692,
+      "viewCount": 9742,
       "rawPanId": "2015122300019408",
       "contentHash": "91f3325cf0a685681e55eb29ad43d5303c8577a29ddb5efefc0ad1e975b09ba8",
       "isNew": false,
@@ -494,7 +608,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66170859"
         }
       ],
-      "viewCount": 7433,
+      "viewCount": 7476,
       "rawPanId": "2015122300019618",
       "contentHash": "817fb878225739b7ec15cb006bc1c09dfdb41f964b1fc0a121a901782cf752ab",
       "isNew": false,

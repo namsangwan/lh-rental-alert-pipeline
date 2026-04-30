@@ -1,304 +1,133 @@
 {
-  "generatedAt": "2026-04-30T07:31:20.138Z",
+  "generatedAt": "2026-04-30T10:59:46.234Z",
   "category": "rental",
   "categoryLabel": "임대",
   "newItems": [
     {
-      "id": "rental-2015122300019609",
+      "id": "rental-2015122300019885",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019609",
-      "title": "대곡역 롯데캐슬 엘클라씨 행복주택 입주자 모집 공고",
+      "sourceNoticeKey": "2015122300019885",
+      "title": "[정정공고][제주지역본부] 다자녀 매입임대주택 예비입주자 모집 공고(서귀포시)",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "제주특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019885&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "20260429(다자녀매입임대)표준예비입주자모집공고문(서귀포시)(정정공고).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677481"
+        },
+        {
+          "name": "20260429(다자녀매입임대)표준예비입주자모집공고문(서귀포시)(정정공고).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677483"
+        },
+        {
+          "name": "20260429다자녀매입임대주택공급대상주택목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677494"
+        }
+      ],
+      "viewCount": 269,
+      "rawPanId": "2015122300019885",
+      "contentHash": "c5115c2f9d6a49400c0c93293192dd72404b893caad0ada68df56091129da7f9"
+    },
+    {
+      "id": "rental-2015122300019865",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019865",
+      "title": "양산시 기존주택 등 매입임대주택 예비입주자 모집",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-22",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019865&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "입주자모집공고문(2026년양산시매입임대주택).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66642334"
+        },
+        {
+          "name": "입주자모집공고문(2026년양산시매입임대주택).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66642335"
+        }
+      ],
+      "viewCount": 453,
+      "rawPanId": "2015122300019865",
+      "contentHash": "fbebd65228b41d738115158029eeef6ccbc381b2ba91d95466f565afaa84dbe8"
+    },
+    {
+      "id": "rental-2015122300019847",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019847",
+      "title": "대전광역시 유성구(도안2,봉산3,장대) 행복주택 예비입주자 모집",
       "noticeType": "행복주택",
       "noticeSubtype": null,
-      "region": "경기도",
+      "region": "대전광역시",
       "status": "공고중",
       "postedAt": "2026-04-30",
       "deadlineAt": "2026-05-13",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019609&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019847&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
       "attachments": [
         {
-          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66513357"
+          "name": "(게시용)대전광역시유성구행복주택(도안2,봉산3,장대)모집공고문(공고일26.04.30).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66684073"
         },
         {
-          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66513360"
+          "name": "(게시용)대전광역시유성구행복주택(도안2,봉산3,장대)모집공고문(공고일26.04.30).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66684076"
         },
         {
-          "name": "대곡역롯데캐슬엘클라씨행복주택_팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66513361"
+          "name": "(게시용)대전도안2,봉산3,장대행복주택신청관련양식.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66684082"
         }
       ],
-      "viewCount": 640,
-      "rawPanId": "2015122300019609",
-      "contentHash": "fded8508b7da32119f544f41bcebd2831b93a9573cab64d3a5ca2d133b43eb72"
-    },
-    {
-      "id": "rental-2015122300019872",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019872",
-      "title": "의왕시 신혼희망타운 행복주택 예비입주자 모집",
-      "noticeType": "행복주택",
-      "noticeSubtype": "신혼희망",
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-13",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019872&ccrCnntSysDsCd=03&uppAisTpCd=39&aisTpCd=42",
-      "attachments": [
-        {
-          "name": "20260430의왕시신혼희망타운예비.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66652256"
-        },
-        {
-          "name": "20260430의왕시신혼희망타운예비.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66652260"
-        },
-        {
-          "name": "★의왕고천A-2블록신혼희망타운행복주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66652263"
-        },
-        {
-          "name": "의왕초평_A-3블록_신혼희망타운_행복주택_팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66652265"
-        },
-        {
-          "name": "(별첨1~4)전원_필수제출_서류(개인정보제공,자산보유,금융정보제공_등).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66652278"
-        },
-        {
-          "name": "(별첨5)예비신혼부부_신청확인서_및_세대구성확인서(예비신혼부부만_제출).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66652280"
-        }
-      ],
-      "viewCount": 293,
-      "rawPanId": "2015122300019872",
-      "contentHash": "9eae9b9918748d5482f6c45200131575d1f26aab4568fdb097e7bfbe6f2a595e"
-    },
-    {
-      "id": "rental-2015122300019884",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019884",
-      "title": "남양주별내A25(퍼스트포레) 신혼희망타운 행복주택 예비입주자모집(26.4.30공고)",
-      "noticeType": "행복주택",
-      "noticeSubtype": "신혼희망",
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019884&ccrCnntSysDsCd=03&uppAisTpCd=39&aisTpCd=42",
-      "attachments": [
-        {
-          "name": "남양주별내A25(퍼스트포레)신혼희망타운행복주택예비입주자모집(26.4.30공고).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677165"
-        },
-        {
-          "name": "남양주별내A25(퍼스트포레)신혼희망타운행복주택예비입주자모집(26.4.30공고).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677166"
-        },
-        {
-          "name": "남양주별내A25블럭_행복주택_팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677343"
-        },
-        {
-          "name": "(양식1-필수)개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677245"
-        },
-        {
-          "name": "(양식2-필수)금융정보등제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677246"
-        },
-        {
-          "name": "(양식3-필수)자산보유사실확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677247"
-        },
-        {
-          "name": "(양식4-필수)예비입주자중복선정불가및대기자명부제외사항확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677248"
-        },
-        {
-          "name": "(양식5-해당자만)예비신혼부부신청확인서및세대구성확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677250"
-        },
-        {
-          "name": "(양식6-해당자만)무상거주사실확인서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677251"
-        },
-        {
-          "name": "대행접수신청서(행복)(26.04.30공고).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677269"
-        }
-      ],
-      "viewCount": 1729,
-      "rawPanId": "2015122300019884",
-      "contentHash": "f48c5360449a2ad442ddc4a4b3a07c0afdd3a5405def6d5d126be59f943bab07"
-    },
-    {
-      "id": "rental-2015122300019886",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019886",
-      "title": "구리,남양주시 행복주택 예비입주자모집(26.04.30공고)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019886&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "구리,남양주시행복주택예비입주자모집(26.04.30공고).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677748"
-        },
-        {
-          "name": "구리,남양주시행복주택예비입주자모집(26.04.30공고).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677749"
-        },
-        {
-          "name": "구리수택행복주택_팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677784"
-        },
-        {
-          "name": "남양주A24BL(별가람1-8단지)팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677785"
-        },
-        {
-          "name": "남양주별내행복주택리츠(A1-2BL)팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677786"
-        },
-        {
-          "name": "(양식1-필수)개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677764"
-        },
-        {
-          "name": "(양식2-필수)금융정보등제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677765"
-        },
-        {
-          "name": "(양식3-필수)자산보유사실확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677766"
-        },
-        {
-          "name": "(양식4-필수)예비입주자중복선정불가및대기자명부제외사항확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677767"
-        },
-        {
-          "name": "(양식5-해당자만)대학생_복학예정자용.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677768"
-        },
-        {
-          "name": "(양식5-해당자만)예비신혼부부신청확인서및세대구성확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677769"
-        },
-        {
-          "name": "(양식6-해당자만)무상거주사실확인서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677770"
-        }
-      ],
-      "viewCount": 2167,
-      "rawPanId": "2015122300019886",
-      "contentHash": "3a272f075e53399e70e6c3617b8625d8e09bd4a283eb73eace53bd0e8811be6f"
-    },
-    {
-      "id": "rental-2015122300019887",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019887",
-      "title": "남양주 장현5 2BL 행복주택 예비입주자 입주자격완화 모집(2026.04.30.공고)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019887&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "남양주장현52BL행복주택예비입주자입주자격완화모집(2026.04.30.공고).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678292"
-        },
-        {
-          "name": "남양주장현52BL행복주택예비입주자입주자격완화모집(2026.04.30.공고).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678293"
-        },
-        {
-          "name": "남양주장현52BL행복주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678317"
-        },
-        {
-          "name": "(양식1-필수)개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678309"
-        },
-        {
-          "name": "(양식2-필수)금융정보등제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678310"
-        },
-        {
-          "name": "(양식3-필수)자산보유사실확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678311"
-        },
-        {
-          "name": "(양식4-필수)예비입주자중복선정불가및대기자명부제외사항확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678312"
-        },
-        {
-          "name": "(양식5-해당자만)대학생_복학예정자용.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678313"
-        },
-        {
-          "name": "(양식5-해당자만)예비신혼부부신청확인서및세대구성확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678314"
-        },
-        {
-          "name": "(양식6-해당자만)무상거주사실확인서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678316"
-        }
-      ],
-      "viewCount": 1067,
-      "rawPanId": "2015122300019887",
-      "contentHash": "be6d035dcd377b48c064cf063faff5bff48503d79ed2958d9d81874c97cad4ad"
-    },
-    {
-      "id": "rental-2015122300019881",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019881",
-      "title": "[영주가흥1] 영구임대주택 예비입주자 모집공고",
-      "noticeType": "영구임대",
-      "noticeSubtype": null,
-      "region": "경상북도",
-      "status": "공고중",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-06-10",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019881&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
-      "attachments": [
-        {
-          "name": "260430)영구임대주택예비입주자_지자체모집공고문(영주가흥).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66671379"
-        },
-        {
-          "name": "260430)영구임대주택예비입주자_지자체모집공고문(영주가흥).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66671384"
-        },
-        {
-          "name": "영구임대주택입주신청서식(공고).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66671389"
-        }
-      ],
-      "viewCount": 153,
-      "rawPanId": "2015122300019881",
-      "contentHash": "6f228d65f8a3756f0f05732381b8ef09d03d08cff33571ed0d7a3581f746a8ba"
+      "viewCount": 367,
+      "rawPanId": "2015122300019847",
+      "contentHash": "12c4eb533a8307743b726cd44a7530f60d021774e7a58af5a95842fb112ae764"
     }
   ],
-  "updatedItems": []
+  "updatedItems": [
+    {
+      "id": "rental-2015122300019854",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019854",
+      "title": "[제주지역본부] 다자녀 매입임대주택 예비입주자 모집 공고(서귀포시)",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "제주특별자치도",
+      "status": "정정공고중",
+      "postedAt": "2026-04-29",
+      "deadlineAt": "2026-05-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019854&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "20260429(다자녀매입임대)표준예비입주자모집공고문(서귀포시).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628437"
+        },
+        {
+          "name": "20260429(다자녀매입임대)표준예비입주자모집공고문(서귀포시).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628447"
+        },
+        {
+          "name": "20260429다자녀매입임대주택공급대상주택목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66628448"
+        }
+      ],
+      "viewCount": 734,
+      "rawPanId": "2015122300019854",
+      "contentHash": "7f2eb040f11854c583201db7c57bc863c6c6554e0fd313be23b39e19411a9485"
+    }
+  ]
 }
