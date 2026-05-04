@@ -1,73 +1,7 @@
 {
-  "generatedAt": "2026-05-04T07:50:12.272Z",
+  "generatedAt": "2026-05-04T11:09:57.816Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "newItems": [
-    {
-      "id": "sale-2015122300019849",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300019849",
-      "title": "[정정공고][재게시] 효천LH천년나무2단지(효천하우스디) 잔여세대 일반매각 공고(상시, 유주택)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "광주광역시",
-      "status": "공고중",
-      "postedAt": "2026-05-04",
-      "deadlineAt": "2026-12-31",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019849&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "효천LH천년나무2단지(효천하우스디)잔여세대일반매각공고(순번추첨동호지정).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66609849"
-        },
-        {
-          "name": "효천LH천년나무2단지(효천하우스디)잔여세대일반매각공고(순번추첨동호지정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66609850"
-        },
-        {
-          "name": "위임장양식(대리인계약시제출).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66629526"
-        }
-      ],
-      "viewCount": 111,
-      "rawPanId": "2015122300019849",
-      "contentHash": "1af10dc1d771c4ad33ba757c5ae9120d16860f71606bb7d41ba9bd6c348eb4e5"
-    }
-  ],
-  "updatedItems": [
-    {
-      "id": "sale-2015122300019650",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300019650",
-      "title": "[재게시] 효천LH천년나무2단지(효천하우스디) 잔여세대 일반매각 공고(상시, 유주택)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "광주광역시",
-      "status": "정정공고중",
-      "postedAt": "2026-03-31",
-      "deadlineAt": "2026-12-31",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019650&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "효천LH천년나무2단지(효천하우스디)잔여세대일반매각공고(순번추첨동호지정).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66232719"
-        },
-        {
-          "name": "효천LH천년나무2단지(효천하우스디)잔여세대일반매각공고(순번추첨동호지정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66232028"
-        },
-        {
-          "name": "위임장양식(대리인계약시제출).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66232026"
-        }
-      ],
-      "viewCount": 6338,
-      "rawPanId": "2015122300019650",
-      "contentHash": "56b04f04fb74172262788edc7fb36eac2581f58309631f665e328ecc74d97f9f"
-    }
-  ]
+  "newItems": [],
+  "updatedItems": []
 }
