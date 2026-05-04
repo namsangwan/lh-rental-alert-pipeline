@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-05-04T04:43:28.466Z",
+  "generatedAt": "2026-05-04T07:50:12.272Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "sale-2015122300019849",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300019849",
+      "title": "[정정공고][재게시] 효천LH천년나무2단지(효천하우스디) 잔여세대 일반매각 공고(상시, 유주택)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "광주광역시",
+      "status": "공고중",
+      "postedAt": "2026-05-04",
+      "deadlineAt": "2026-12-31",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019849&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "효천LH천년나무2단지(효천하우스디)잔여세대일반매각공고(순번추첨동호지정).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66609849"
+        },
+        {
+          "name": "효천LH천년나무2단지(효천하우스디)잔여세대일반매각공고(순번추첨동호지정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66609850"
+        },
+        {
+          "name": "위임장양식(대리인계약시제출).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66629526"
+        }
+      ],
+      "viewCount": 111,
+      "rawPanId": "2015122300019849",
+      "contentHash": "1af10dc1d771c4ad33ba757c5ae9120d16860f71606bb7d41ba9bd6c348eb4e5",
+      "isNew": true,
+      "lastChangedAt": "2026-05-04T07:50:12.272Z"
+    },
     {
       "id": "sale-0000061080",
       "source": "lh-sale",
@@ -28,7 +62,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66682424"
         }
       ],
-      "viewCount": 35102,
+      "viewCount": 36925,
       "rawPanId": "0000061080",
       "contentHash": "b1b9f7b9b259c1cf6c41871f4d27b48ede0b9e231e28491f941289e1e3ceb5aa",
       "isNew": false,
@@ -62,7 +96,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637605"
         }
       ],
-      "viewCount": 671,
+      "viewCount": 704,
       "rawPanId": "2015122300019840",
       "contentHash": "db3c1e4ef1180c5134d298e25c0e25c0221dd59845917c41240f7ab3eb592faa",
       "isNew": false,
@@ -96,7 +130,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66637641"
         }
       ],
-      "viewCount": 588,
+      "viewCount": 618,
       "rawPanId": "2015122300019839",
       "contentHash": "b035cbedaa6eca9a6631424787f6e6aa392d7b3f289cf00572738a5c82f06f91",
       "isNew": false,
@@ -154,41 +188,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669972"
         }
       ],
-      "viewCount": 11091,
+      "viewCount": 11609,
       "rawPanId": "0000061083",
       "contentHash": "ee23456665b0ce3c426dd8b7b3113eab2151a385125c25dd26303f9b1afeea99",
       "isNew": false,
       "lastChangedAt": "2026-04-30T10:59:46.234Z"
-    },
-    {
-      "id": "sale-0000061081",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061081",
-      "title": "고양 창릉 우미 린 그레니티(고양창릉 S-1BL) 공공분양주택(민간참여형) 입주자모집공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061081&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(260430)2026000128_고양창릉우미린그레니티(본청약)입주자모집공고.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678982"
-        },
-        {
-          "name": "(260430)2026000128_고양창릉우미린그레니티(본청약)입주자모집공고.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678975"
-        }
-      ],
-      "viewCount": 30340,
-      "rawPanId": "0000061081",
-      "contentHash": "7d24f5ac0b4a029c5b1b5284fe84cf6ea722410bdffc4c49d6f2187ed29e943f",
-      "isNew": false,
-      "lastChangedAt": "2026-04-30T07:31:20.138Z"
     },
     {
       "id": "sale-0000061078",
@@ -242,7 +246,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66645698"
         }
       ],
-      "viewCount": 6928,
+      "viewCount": 7352,
       "rawPanId": "0000061078",
       "contentHash": "379e2f5fbb5a4c353a219c6ba838678ead32d21cae8e497c61e3b1e3869677c3",
       "isNew": false,
@@ -292,9 +296,39 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681640"
         }
       ],
-      "viewCount": 28134,
+      "viewCount": 29566,
       "rawPanId": "0000061082",
       "contentHash": "f117c5143b871ca675e9b016a4e4b8202b6a4a005f0689a4379530d66093b158",
+      "isNew": false,
+      "lastChangedAt": "2026-04-30T07:31:20.138Z"
+    },
+    {
+      "id": "sale-0000061081",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061081",
+      "title": "고양 창릉 우미 린 그레니티(고양창릉 S-1BL) 공공분양주택(민간참여형) 입주자모집공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-28",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061081&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(260430)2026000128_고양창릉우미린그레니티(본청약)입주자모집공고.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678982"
+        },
+        {
+          "name": "(260430)2026000128_고양창릉우미린그레니티(본청약)입주자모집공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66678975"
+        }
+      ],
+      "viewCount": 31737,
+      "rawPanId": "0000061081",
+      "contentHash": "7d24f5ac0b4a029c5b1b5284fe84cf6ea722410bdffc4c49d6f2187ed29e943f",
       "isNew": false,
       "lastChangedAt": "2026-04-30T07:31:20.138Z"
     },
@@ -334,7 +368,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66492561"
         }
       ],
-      "viewCount": 1366,
+      "viewCount": 1514,
       "rawPanId": "2015122300019811",
       "contentHash": "6a02f1403e6baed18f7c19f8e48ac06b9a4515bb06656b04afe1ffbc0de218cd",
       "isNew": false,
@@ -380,7 +414,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662919"
         }
       ],
-      "viewCount": 2815,
+      "viewCount": 2953,
       "rawPanId": "0000061079",
       "contentHash": "c9c023a506e6779892141ba0a4edded8d648e7e993e285158748caf129e83278",
       "isNew": false,
@@ -418,7 +452,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558434"
         }
       ],
-      "viewCount": 5886,
+      "viewCount": 5950,
       "rawPanId": "2015122300019837",
       "contentHash": "91f74298eff13f64690b398d2f7eab86d090bde8a23d2bfac4e7e0c6daf7414e",
       "isNew": false,
@@ -460,7 +494,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66556940"
         }
       ],
-      "viewCount": 20517,
+      "viewCount": 20887,
       "rawPanId": "0000061077",
       "contentHash": "c07de825fe9eb5a8704ac7caca9d9ddd62c55a8af6f6aede3b486a6b314aecdf",
       "isNew": false,
@@ -510,7 +544,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469573"
         }
       ],
-      "viewCount": 6745,
+      "viewCount": 6882,
       "rawPanId": "2015122300019785",
       "contentHash": "f4d794ae27df25c78958c18b28c8d1d86a9db5912ee79f28da6c80fe6b23a152",
       "isNew": false,
@@ -526,7 +560,7 @@
       "noticeType": "분양주택",
       "noticeSubtype": null,
       "region": "광주광역시",
-      "status": "공고중",
+      "status": "정정공고중",
       "postedAt": "2026-03-31",
       "deadlineAt": "2026-12-31",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019650&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
@@ -544,11 +578,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66232026"
         }
       ],
-      "viewCount": 6297,
+      "viewCount": 6338,
       "rawPanId": "2015122300019650",
-      "contentHash": "f005ff4694f46c33285824749a1590cd70d8d9303627a1f7836a4642f49fce4e",
+      "contentHash": "56b04f04fb74172262788edc7fb36eac2581f58309631f665e328ecc74d97f9f",
       "isNew": false,
-      "lastChangedAt": "2026-04-26T11:14:22.046Z"
+      "lastChangedAt": "2026-05-04T07:50:12.272Z"
     },
     {
       "id": "sale-2015122300019408",
@@ -574,7 +608,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66128540"
         }
       ],
-      "viewCount": 10140,
+      "viewCount": 10164,
       "rawPanId": "2015122300019408",
       "contentHash": "91f3325cf0a685681e55eb29ad43d5303c8577a29ddb5efefc0ad1e975b09ba8",
       "isNew": false,
@@ -608,7 +642,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66170859"
         }
       ],
-      "viewCount": 7912,
+      "viewCount": 8011,
       "rawPanId": "2015122300019618",
       "contentHash": "817fb878225739b7ec15cb006bc1c09dfdb41f964b1fc0a121a901782cf752ab",
       "isNew": false,
