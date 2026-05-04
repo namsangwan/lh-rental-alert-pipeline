@@ -1,7 +1,185 @@
 {
-  "generatedAt": "2026-05-03T10:11:40.563Z",
+  "generatedAt": "2026-05-04T04:43:28.466Z",
   "category": "rental",
   "categoryLabel": "임대",
-  "newItems": [],
-  "updatedItems": []
+  "newItems": [
+    {
+      "id": "rental-2015122300019883",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019883",
+      "title": "[정정공고][전국] 2026년 1차 일반 매입임대주택 입주자 모집 공고",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "부산광역시 외",
+      "status": "공고중",
+      "postedAt": "2026-05-04",
+      "deadlineAt": "2026-05-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019883&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "(정정)(260429)2026년1차입주자모집공고문(게시용).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66691469"
+        },
+        {
+          "name": "(정정)(260429)2026년1차입주자모집공고문(게시용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66691476"
+        },
+        {
+          "name": "(정정)26.1차기존주택등매입임대주택공급대상주택목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66691477"
+        }
+      ],
+      "viewCount": 7764,
+      "rawPanId": "2015122300019883",
+      "contentHash": "63621ede05d5a635dd8321c899169fca403acd874124ad4112161abf446fb8b8"
+    },
+    {
+      "id": "rental-2015122300019893",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019893",
+      "title": "[정정공고]대곡역 롯데캐슬 엘클라씨 행복주택 입주자 모집 공고",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019893&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66693829"
+        },
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66693836"
+        },
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택_팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66693846"
+        }
+      ],
+      "viewCount": 740,
+      "rawPanId": "2015122300019893",
+      "contentHash": "c4bd7bee9adf229033e4a178d508e589b355cdc22183804ccf9c8cdb612ea30a"
+    }
+  ],
+  "updatedItems": [
+    {
+      "id": "rental-2015122300019609",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019609",
+      "title": "대곡역 롯데캐슬 엘클라씨 행복주택 입주자 모집 공고",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "정정공고중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019609&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66513357"
+        },
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66513360"
+        },
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택_팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66513361"
+        }
+      ],
+      "viewCount": 17381,
+      "rawPanId": "2015122300019609",
+      "contentHash": "07fced562b6442ce1e022473f47e6c9d62f33e4d603cf95be18c24a1216c2519"
+    },
+    {
+      "id": "rental-2015122300019870",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019870",
+      "title": "[전국] 2026년 1차 일반 매입임대주택 입주자 모집 공고",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "부산광역시 외",
+      "status": "정정공고중",
+      "postedAt": "2026-04-29",
+      "deadlineAt": "2026-05-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019870&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "(260429)2026년1차입주자모집공고문(게시용).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66660096"
+        },
+        {
+          "name": "(260429)2026년1차입주자모집공고문(게시용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66660097"
+        },
+        {
+          "name": "26.1차기존주택등매입임대주택공급대상주택목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66660102"
+        }
+      ],
+      "viewCount": 54475,
+      "rawPanId": "2015122300019870",
+      "contentHash": "1349455c9d99c403e213b1fe1fbfc370739f825f26e1e26eb82608a02ca59224"
+    },
+    {
+      "id": "rental-2015122300019816",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019816",
+      "title": "2026 전세임대형 든든주택 1, 2순위 입주자 모집 공고",
+      "noticeType": "전세임대",
+      "noticeSubtype": null,
+      "region": "전국",
+      "status": "접수중",
+      "postedAt": "2026-04-21",
+      "deadlineAt": "2026-05-08",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019816&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=17",
+      "attachments": [
+        {
+          "name": "[공고문]2026년전세임대형든든주택1,2순위입주자모집_최종.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66521075"
+        },
+        {
+          "name": "[공고문]2026년전세임대형든든주택1,2순위입주자모집_최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66521078"
+        },
+        {
+          "name": "1.2026년전세임대형든든주택주요문의사항QnA.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66521040"
+        },
+        {
+          "name": "2.개인정보수집이용및제3자제공동의서(양식)_전세임대.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66515328"
+        },
+        {
+          "name": "3.예비신혼부부세대구성확인서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66515420"
+        },
+        {
+          "name": "4.예비신혼부부전세임대신청위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66515428"
+        },
+        {
+          "name": "5.예비신혼부부전세임대신청확인서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66515436"
+        }
+      ],
+      "viewCount": 136688,
+      "rawPanId": "2015122300019816",
+      "contentHash": "9b23cceb883490df55975510beeacf96c9ca2b7415fdd21378550c6eb68d77e7"
+    }
+  ]
 }

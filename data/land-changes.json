@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-05-03T10:11:40.563Z",
+  "generatedAt": "2026-05-04T04:43:28.466Z",
   "category": "land",
   "categoryLabel": "토지",
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "land-BN-0007458",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007458",
+      "title": "울산다운2 미매각토지 통합 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "울산광역시",
+      "status": "공고중",
+      "postedAt": "2026-05-04",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007458&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "1-1.울산다운2미매각토지통합공고(260504_123필지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679928"
+        },
+        {
+          "name": "1-2.울산다운2미매각토지통합공급안내팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679971"
+        },
+        {
+          "name": "2.공급대상토지목록(123필지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679996"
+        },
+        {
+          "name": "3.토지사용장애사항(울산다운2미매각토지공고_260504).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680001"
+        },
+        {
+          "name": "4-1.장애사항관련도면(다운2,1).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680037"
+        },
+        {
+          "name": "4-2.장애사항관련도면(다운2,2).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680039"
+        },
+        {
+          "name": "5.지구관련도면(울산다운2).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680103"
+        },
+        {
+          "name": "6.토지취득자금조달및토지이용계획서(양식).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680128"
+        }
+      ],
+      "viewCount": 50,
+      "rawPanId": "BN-0007458",
+      "contentHash": "f8bcd01e309ca231fa67b2d3f3ec0e63dafaa9500e814c617663470e69b4817c"
+    }
+  ],
   "updatedItems": []
 }
