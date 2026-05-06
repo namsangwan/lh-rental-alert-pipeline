@@ -1,7 +1,124 @@
 {
-  "generatedAt": "2026-05-06T04:36:28.686Z",
+  "generatedAt": "2026-05-06T07:38:47.083Z",
   "category": "land",
   "categoryLabel": "토지",
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "land-BN-0007466",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007466",
+      "title": "영종하늘도시 유통업무시설용지 재공급 공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "인천광역시",
+      "status": "공고중",
+      "postedAt": "2026-05-06",
+      "deadlineAt": "2026-05-18",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007466&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "1.인천영종유통업무시설용지공급공고문(안).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66704971"
+        },
+        {
+          "name": "(유1)공사계획평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66705180"
+        },
+        {
+          "name": "(유1)블럭횡단면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66705167"
+        },
+        {
+          "name": "(유1)연약지반처리평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66705160"
+        },
+        {
+          "name": "붙임3_공급대상필지세부내역.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66705211"
+        },
+        {
+          "name": "붙임5_지구단위계획발췌(유통업무시설용지일부).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66705192"
+        },
+        {
+          "name": "유통용지운남동1710-3자동크리넷인입관.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66705061"
+        }
+      ],
+      "viewCount": 28,
+      "rawPanId": "BN-0007466",
+      "contentHash": "a94d12e1fefc3df053c068d137ce6c01b47394f8cdc41546157dbc94f096cf77"
+    },
+    {
+      "id": "land-BN-0007464",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007464",
+      "title": "인천남동도시첨단산업단지 지원시설용지 4차 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "인천광역시",
+      "status": "공고중",
+      "postedAt": "2026-05-06",
+      "deadlineAt": "2026-05-21",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007464&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "붙임01.인천남동도시첨단지원시설용지(실수요자)4차공급공고문(26.5.6).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677791"
+        },
+        {
+          "name": "붙임02.인천남동도시첨단지원시설용지팜플렛(4차).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612560"
+        },
+        {
+          "name": "붙임03.인천남동도시첨단지원시설용지(실수요자)4차공급공고대상필지목록(26.5.6).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612565"
+        },
+        {
+          "name": "붙임04.지구단위계획결정도서(26.02월).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66721826"
+        },
+        {
+          "name": "붙임05.토지이용계획(26.02월).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612408"
+        },
+        {
+          "name": "붙임06.교통영향평가(26.02월).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612425"
+        },
+        {
+          "name": "붙임07.재해영향평가(25.11월,변경없음).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612465"
+        },
+        {
+          "name": "붙임08.환경보전방안검토서(26.02월).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612474"
+        },
+        {
+          "name": "붙임09.지적도(26.02월).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612488"
+        },
+        {
+          "name": "붙임10.기타관련도면(26.02월).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612502"
+        },
+        {
+          "name": "붙임11.[제출양식]토지취득자금조달및토지이용계획서(작성예시포함).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612517"
+        },
+        {
+          "name": "붙임12.[참고]인지세납부안내문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66612532"
+        }
+      ],
+      "viewCount": 49,
+      "rawPanId": "BN-0007464",
+      "contentHash": "48e6739f1e33abcdbf10ff297dce8817953129c3a28a8202a92164fee22c6911"
+    }
+  ],
   "updatedItems": []
 }
