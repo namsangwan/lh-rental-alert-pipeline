@@ -1,132 +1,98 @@
 {
-  "generatedAt": "2026-05-06T07:38:47.083Z",
+  "generatedAt": "2026-05-06T11:10:55.606Z",
   "category": "rental",
   "categoryLabel": "임대",
   "newItems": [
     {
-      "id": "rental-2015122300019859",
+      "id": "rental-2015122300019880",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019859",
-      "title": "용인마평 국민임대주택 예비입주자 모집(2026.05,06)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019859&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(260506)용인마평국민임대예비입주자표준모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677174"
-        },
-        {
-          "name": "(260506)용인마평국민임대예비입주자표준모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66677173"
-        }
-      ],
-      "viewCount": 390,
-      "rawPanId": "2015122300019859",
-      "contentHash": "58f380c3f7ed26c9a23759b60574134dbfb44d01a58915149e0c780ecfcc4ad0"
-    },
-    {
-      "id": "rental-2015122300019871",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019871",
-      "title": "오산시 지역 국민임대주택 입주자격완화 예비입주자 모집-소득·자산 적용배제(2026.05.06.)",
+      "sourceNoticeKey": "2015122300019880",
+      "title": "평택시.안성시 지역 국민임대 입주자격완화 예비입주자 모집공고(2026.05.06)",
       "noticeType": "국민임대",
       "noticeSubtype": null,
       "region": "경기도",
       "status": "공고중",
       "postedAt": "2026-05-06",
       "deadlineAt": "2026-05-20",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019871&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019880&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
       "attachments": [
         {
-          "name": "오산시지역국민임대주택예비입주자모집공고(입주자격완화)-2026.05.06.공고.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66648848"
+          "name": "260506_평택시.안성시국민임대입주자격완화예비입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669789"
         },
         {
-          "name": "오산시지역국민임대주택예비입주자모집공고(입주자격완화)-2026.05.06.공고.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66648851"
+          "name": "260506_평택시.안성시국민임대입주자격완화예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669790"
+        },
+        {
+          "name": "양식_260506_개인정보제공동의등(국임)완화.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669796"
+        },
+        {
+          "name": "소사벌1,2평면도.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669804"
+        },
+        {
+          "name": "소사벌3평면도.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669807"
+        },
+        {
+          "name": "소사벌4평면(260506공고).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669810"
+        },
+        {
+          "name": "안성금화평면도.JPG",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669816"
+        },
+        {
+          "name": "안중1평면도.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66669814"
         }
       ],
-      "viewCount": 487,
-      "rawPanId": "2015122300019871",
-      "contentHash": "c424e14b578c173c8927c5a1ce2f16a988b689389dcdae446e929f7864691c85"
+      "viewCount": 1460,
+      "rawPanId": "2015122300019880",
+      "contentHash": "35e106b5f1c4d7d4ed6c8b9a3cd03e5db1174a8c828a39f4576e8e4334933d99"
     },
     {
-      "id": "rental-2015122300019892",
+      "id": "rental-2015122300019900",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019892",
-      "title": "군포·안산·의왕지역 국민임대주택 예비입주자 모집(2026.05.06)",
+      "sourceNoticeKey": "2015122300019900",
+      "title": "고양시 국민임대 예비입주자 모집공고('26.05.06.)",
       "noticeType": "국민임대",
       "noticeSubtype": null,
       "region": "경기도",
       "status": "공고중",
       "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-26",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019892&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "deadlineAt": "2026-06-01",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019900&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
       "attachments": [
         {
-          "name": "20260506안양권예비입주자모집.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66686817"
+          "name": "2026년고양시국민임대예비입주자모집공고_26.05.06..hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66719562"
         },
         {
-          "name": "20260506안양권예비입주자모집.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66686818"
+          "name": "2026년고양시국민임대예비입주자모집공고_26.05.06..pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66719561"
         },
         {
-          "name": "(별첨1~4)전원_필수제출_서류(개인정보제공,자산보유,금융정보제공_등).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66686820"
+          "name": "[양식]동의서및위임장등.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66719565"
         },
         {
-          "name": "(별첨5)예비신혼부부_신청확인서_및_세대구성확인서(예비신혼부부만_제출).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66686821"
-        },
-        {
-          "name": "(별첨6)위임장(해당자만_제출).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66686822"
+          "name": "단지별평면도.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66719566"
         }
       ],
-      "viewCount": 668,
-      "rawPanId": "2015122300019892",
-      "contentHash": "90ff12dbcb20f4ba4b94e38d2ad64dea14184ac7bc168a5f0a690ce8dd71b0b8"
-    },
-    {
-      "id": "rental-2015122300019889",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019889",
-      "title": "인천삼산4 국민임대주택 예비입주자 모집(45.32)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-22",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019889&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "국민임대예비입주자표준모집공고문(mymy버전)_인천삼산426.5.6공고.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681015"
-        },
-        {
-          "name": "국민임대예비입주자표준모집공고문(mymy버전)_인천삼산426.5.6공고.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66681016"
-        }
-      ],
-      "viewCount": 435,
-      "rawPanId": "2015122300019889",
-      "contentHash": "fb6aac8b5ebd5c60543f04285d9b623f34a55587e044bc110aab6b503d884fc8"
-    },
+      "viewCount": 3522,
+      "rawPanId": "2015122300019900",
+      "contentHash": "92917364025f8ee93eeb37180343a519f528ef19153332bf2646938b6d443891"
+    }
+  ],
+  "updatedItems": [
     {
       "id": "rental-2015122300019899",
       "source": "lh-rental",
@@ -139,7 +105,7 @@
       "region": "경기도",
       "status": "공고중",
       "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-22",
+      "deadlineAt": "2026-05-29",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019899&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
       "attachments": [
         {
@@ -171,73 +137,9 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66711977"
         }
       ],
-      "viewCount": 402,
+      "viewCount": 1467,
       "rawPanId": "2015122300019899",
-      "contentHash": "c67e7feb298ee854772ffdadf742b74e7d45bddeb9d67827b3bd84738853b0ab"
-    },
-    {
-      "id": "rental-2015122300019878",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019878",
-      "title": "시흥능곡지구 국민임대주택 예비입주자 모집(능곡2,5,6,7,9,13)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-26",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019878&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "시흥능곡단지국민임대주택예비입주자모집공고문(20260506).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66665281"
-        },
-        {
-          "name": "시흥능곡단지국민임대주택예비입주자모집공고문(20260506).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66665288"
-        }
-      ],
-      "viewCount": 340,
-      "rawPanId": "2015122300019878",
-      "contentHash": "f574f3486c53160a62f12f7cf125763d143708b06ca72391a8590b48f9210f0b"
-    },
-    {
-      "id": "rental-2015122300019866",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019866",
-      "title": "'26년 5월 인천시 남동구 국민임대주택 예비입주자 모집 공고(2026.05.06)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-19",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019866&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "인천시남동구지역_국민임대주택_예비입주자모집(26.3.16).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66643075"
-        },
-        {
-          "name": "인천시남동구지역_국민임대주택_예비입주자모집(26.3.16).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66643078"
-        },
-        {
-          "name": "제출서류양식(현장대행).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66643085"
-        },
-        {
-          "name": "제출서류양식(현장대행).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66643089"
-        }
-      ],
-      "viewCount": 331,
-      "rawPanId": "2015122300019866",
-      "contentHash": "473668dc607ba630d5b4822c1b5e45fe254dd2604d30a8e2a9d09cabd1f97d60"
+      "contentHash": "2287ebc54129593adb8266aad337b189c88a49f1890e8263c5c9c06bfcb29e04"
     },
     {
       "id": "rental-2015122300019879",
@@ -255,179 +157,17 @@
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019879&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
       "attachments": [
         {
-          "name": "(260506)국민임대예비입주자표준모집공고문화성태안6812_.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66667254"
+          "name": "(260506)국민임대예비입주자표준모집공고문화성태안6812.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66731735"
         },
         {
-          "name": "(260506)국민임대예비입주자표준모집공고문화성태안6812_.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66667255"
+          "name": "(260506)국민임대예비입주자표준모집공고문화성태안6812.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66731734"
         }
       ],
-      "viewCount": 352,
+      "viewCount": 1656,
       "rawPanId": "2015122300019879",
-      "contentHash": "37dcb9cbd1de97bd724b0e0ab8916a2f35bd90ecb78f7cbaf3c871216eb1787e"
-    },
-    {
-      "id": "rental-2015122300019876",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019876",
-      "title": "평택안중2 국민임대주택 예비입주자모집 (2026.05.06공고분)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-22",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019876&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "평택지역(안중)국민임대주택표준입주자모집공고문(26.05.06공고).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66665254"
-        },
-        {
-          "name": "평택지역(안중)국민임대주택표준입주자모집공고문(26.05.06공고).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66665255"
-        }
-      ],
-      "viewCount": 152,
-      "rawPanId": "2015122300019876",
-      "contentHash": "2d18c5d742786d3afca3b87d4c94cbce38df22d99918935c1aacd2cd3184e198"
-    },
-    {
-      "id": "rental-2015122300019901",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019901",
-      "title": "[정정공고][경기남부권 용인시 및 이천시 행복주택 예비입주자 모집(2026.04.29.)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019901&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "(게시용)(26.04.29)경기남부용인시및이천시행복주택예비입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66726986"
-        },
-        {
-          "name": "(게시용)(26.04.29)경기남부용인시및이천시행복주택예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66726987"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부1](필수)개인정보수집이용및제3자제공동의서등.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66726102"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부2](대학생복학예정자용)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66726107"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부3](예비신혼부부신청시)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66726111"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부4]위임장(현장_대리인_신청시)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66726117"
-        }
-      ],
-      "viewCount": 457,
-      "rawPanId": "2015122300019901",
-      "contentHash": "1bf80cf60c392f0e075f46f43a4045aff57312f9918206102e3bccf905cc24ff"
-    },
-    {
-      "id": "rental-2015122300019882",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019882",
-      "title": "파주시 국민임대 예비입주자 모집공고(26.05.06)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-05-06",
-      "deadlineAt": "2026-05-27",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019882&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(260506)파주시_국민임대_예비입주자_공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66675646"
-        },
-        {
-          "name": "(260506)파주시_국민임대_예비입주자_공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66675647"
-        },
-        {
-          "name": "(260506)평면도_파주시국민임대.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66676573"
-        },
-        {
-          "name": "(양식)개인정보수집이용및제3자제공동의서등.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66675657"
-        },
-        {
-          "name": "(예비신혼부부용)신청확인서및세대구성확인서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66675658"
-        },
-        {
-          "name": "위임장(해당자만_제출).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66675659"
-        }
-      ],
-      "viewCount": 1610,
-      "rawPanId": "2015122300019882",
-      "contentHash": "c2da3388e8393170b2f9bf38849dab2517ab9eaccaee931e37bf4f63219120ce"
-    }
-  ],
-  "updatedItems": [
-    {
-      "id": "rental-2015122300019846",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300019846",
-      "title": "[경기남부권 용인시 및 이천시 행복주택 예비입주자 모집(2026.04.29.)",
-      "noticeType": "행복주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "정정공고중",
-      "postedAt": "2026-04-29",
-      "deadlineAt": "2026-05-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019846&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
-      "attachments": [
-        {
-          "name": "(게시용)(26.04.29)경기남부용인시및이천시행복주택예비입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656543"
-        },
-        {
-          "name": "(게시용)(26.04.29)경기남부용인시및이천시행복주택예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656544"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부1](필수)개인정보수집이용및제3자제공동의서등.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656083"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부2](대학생복학예정자용)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656090"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부3](예비신혼부부신청시)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656094"
-        },
-        {
-          "name": "[행복주택제출서류양식][첨부4]위임장(현장_대리인_신청시)_해당자만_제출.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66656115"
-        }
-      ],
-      "viewCount": 32734,
-      "rawPanId": "2015122300019846",
-      "contentHash": "8bc2f7e9d1ca94b7342b3abed85e591ce4ea87cca14c8ca2c0bc9637ee539db3"
+      "contentHash": "2397e63e39ba154c60889837ba362d6d510516fcc8d8b8b51316f7567eb7b63b"
     }
   ]
 }
