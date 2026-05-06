@@ -1,7 +1,253 @@
 {
-  "generatedAt": "2026-05-05T10:51:18.569Z",
+  "generatedAt": "2026-05-06T04:36:28.686Z",
   "category": "rental",
   "categoryLabel": "임대",
-  "newItems": [],
-  "updatedItems": []
+  "newItems": [
+    {
+      "id": "rental-2015122300019869",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019869",
+      "title": "동해천곡5 영구임대주택 예비입주자 모집 공고",
+      "noticeType": "영구임대",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-05-06",
+      "deadlineAt": "2026-06-10",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019869&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
+      "attachments": [
+        {
+          "name": "동해천곡5영구임대예비입주자모집공고(26.05.06.)_501동.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66661363"
+        },
+        {
+          "name": "동해천곡5영구임대예비입주자모집공고(26.05.06.)_501동.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66661366"
+        }
+      ],
+      "viewCount": 384,
+      "rawPanId": "2015122300019869",
+      "contentHash": "8274aeae0d6651281928878c2b43a563b9af672b0c839395d9673745a9cc7638"
+    },
+    {
+      "id": "rental-2015122300019875",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019875",
+      "title": "익산어양4단지 50년 공공임대주택 예비입주자 모집",
+      "noticeType": "공공임대",
+      "noticeSubtype": null,
+      "region": "전북특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-05-06",
+      "deadlineAt": "2026-05-20",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019875&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08",
+      "attachments": [
+        {
+          "name": "예비입주자모집공고문(26.05.06.).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66658911"
+        },
+        {
+          "name": "예비입주자모집공고문(26.05.06.).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66658914"
+        }
+      ],
+      "viewCount": 522,
+      "rawPanId": "2015122300019875",
+      "contentHash": "a049ae562eb34701f22e3fbb2d3b17ad8830e5dac233a56e92d9584cba3b2b64"
+    }
+  ],
+  "updatedItems": [
+    {
+      "id": "rental-0000061073",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "0000061073",
+      "title": "파주운정3 A30BL 10년 공공임대주택리츠 예비입주자모집(무순위)",
+      "noticeType": "공공임대",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "접수중",
+      "postedAt": "2026-04-24",
+      "deadlineAt": "2026-05-07",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=0000061073&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08",
+      "attachments": [
+        {
+          "name": "파주운정3A30BL분양전환공공임대주택리츠예비입주자모집공고(26.04.24).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66506979"
+        },
+        {
+          "name": "파주운정3A30BL분양전환공공임대주택리츠예비입주자모집공고(26.04.24).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66506990"
+        },
+        {
+          "name": "파주운정A30_초롱꽃7_팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66507051"
+        },
+        {
+          "name": "(양식)개인정보수집이용및제3자제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66507010"
+        }
+      ],
+      "viewCount": 56554,
+      "rawPanId": "0000061073",
+      "contentHash": "caa2c16ca6382bf2b61e2d13188f48298cedc584e5674657eec37a8da50efd20"
+    },
+    {
+      "id": "rental-2015122300019815",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019815",
+      "title": "[정정공고]춘천시, 홍천군 지역 행복주택 예비입주자 모집공고",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "접수중",
+      "postedAt": "2026-04-20",
+      "deadlineAt": "2026-05-07",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019815&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "(26.04.15)춘천시,홍천군행복주택예비입주자모집공고문(정정).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66500915"
+        },
+        {
+          "name": "(26.04.15)춘천시,홍천군행복주택예비입주자모집공고문(정정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66500916"
+        },
+        {
+          "name": "서류제출양식.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66500923"
+        }
+      ],
+      "viewCount": 9479,
+      "rawPanId": "2015122300019815",
+      "contentHash": "e476944cec3ff330d99e98088bf305f5e2c9615e2afd1d79d71277948124ae8d"
+    },
+    {
+      "id": "rental-2015122300019801",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019801",
+      "title": "경북서부권 김천삼락 행복주택 입주자격완화 예비입주자 모집",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경상북도",
+      "status": "접수중",
+      "postedAt": "2026-04-16",
+      "deadlineAt": "2026-05-11",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019801&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "260416김천삼락행복주택입주자격완화예비입주자모집.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66477259"
+        },
+        {
+          "name": "260416김천삼락행복주택입주자격완화예비입주자모집.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66477260"
+        },
+        {
+          "name": "김천삼락행복주택.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66457002"
+        },
+        {
+          "name": "(양식)행복주택.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456984"
+        },
+        {
+          "name": "(양식)행복주택_샘플.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66456986"
+        }
+      ],
+      "viewCount": 5640,
+      "rawPanId": "2015122300019801",
+      "contentHash": "74b1a9209eb7caa95e90707fe1a5a03b5a9de369d384b8763782d75f70398539"
+    },
+    {
+      "id": "rental-2015122300019805",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019805",
+      "title": "[정정공고]경북서부권 구미시, 김천시, 의성군 행복주택 예비입주자 모집",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경상북도",
+      "status": "접수중",
+      "postedAt": "2026-04-15",
+      "deadlineAt": "2026-05-08",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019805&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "260415구미시김천시의성군행복주택예비입주자모집.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468132"
+        },
+        {
+          "name": "260415구미시김천시의성군행복주택예비입주자모집.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468133"
+        },
+        {
+          "name": "경북의성행복주택.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468172"
+        },
+        {
+          "name": "구미송정포레행복주택.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468155"
+        },
+        {
+          "name": "김천평화행복주택.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468159"
+        },
+        {
+          "name": "(양식)행복주택.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468102"
+        },
+        {
+          "name": "(양식)행복주택_샘플.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66468103"
+        }
+      ],
+      "viewCount": 10629,
+      "rawPanId": "2015122300019805",
+      "contentHash": "190bd54fa9b9c95e569032f7a0e781403c4567c186de2f28d77fbe5278660037"
+    },
+    {
+      "id": "rental-2015122300019804",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019804",
+      "title": "[정정공고]양주시 행복주택 입주자격완화 선계약후검증 예비입주자 모집공고('26.04.14.)",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "접수중",
+      "postedAt": "2026-04-15",
+      "deadlineAt": "2026-05-08",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019804&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "양주시행복주택입주자격완화선계약후검증예비자모집공고('26.04.14.).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66466299"
+        },
+        {
+          "name": "양주시행복주택입주자격완화선계약후검증예비자모집공고('26.04.14.).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66466300"
+        },
+        {
+          "name": "팜플렛-행복주택.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66466306"
+        }
+      ],
+      "viewCount": 41154,
+      "rawPanId": "2015122300019804",
+      "contentHash": "dc7c041d3c6b1f434ed15310e3c7493c00569c6fb65028d2086318fdadf13531"
+    }
+  ]
 }
