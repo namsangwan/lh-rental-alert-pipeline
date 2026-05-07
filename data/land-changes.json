@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-05-07T04:37:27.103Z",
+  "generatedAt": "2026-05-07T07:45:50.610Z",
   "category": "land",
   "categoryLabel": "토지",
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "land-BN-0007474",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007474",
+      "title": "평택고덕국제화계획지구 근린상업용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-05-07",
+      "deadlineAt": "2026-05-21",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007474&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "공고문(고덕근상).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733933"
+        },
+        {
+          "name": "평택고덕상업리플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733942"
+        },
+        {
+          "name": "관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733952"
+        },
+        {
+          "name": "시행지침.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733959"
+        },
+        {
+          "name": "필지유의사항(고덕근상).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733966"
+        }
+      ],
+      "viewCount": 20,
+      "rawPanId": "BN-0007474",
+      "contentHash": "1d95f5d136c4196c42bcc0675cfec6535ad1038a6baced08850c364e13068aa1"
+    }
+  ],
   "updatedItems": []
 }
