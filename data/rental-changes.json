@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-05-08T06:55:39.638Z",
+  "generatedAt": "2026-05-08T08:25:53.117Z",
   "category": "rental",
   "categoryLabel": "임대",
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "rental-2015122300019916",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019916",
+      "title": "고령자복지주택(영덕영해, 경주안강) 예비입주자 모집",
+      "noticeType": "영구임대",
+      "noticeSubtype": null,
+      "region": "경상북도",
+      "status": "공고중",
+      "postedAt": "2026-05-08",
+      "deadlineAt": "2026-06-05",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019916&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
+      "attachments": [
+        {
+          "name": "영덕영해,경주안강_고령자복지주택_예비입주자모집(26.05.08공고).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764215"
+        },
+        {
+          "name": "영덕영해,경주안강_고령자복지주택_예비입주자모집(26.05.08공고).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764271"
+        },
+        {
+          "name": "경주안강_고령자복지주택_팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764301"
+        },
+        {
+          "name": "영덕영해_고령자복지주택_팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764327"
+        }
+      ],
+      "viewCount": 227,
+      "rawPanId": "2015122300019916",
+      "contentHash": "a53a7408e1b327e9b8a1df147b2af0813e90a6eee40284a74f0cf5db224886d5"
+    }
+  ],
   "updatedItems": []
 }
