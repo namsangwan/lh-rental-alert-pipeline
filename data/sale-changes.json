@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-05-10T10:20:07.824Z",
+  "generatedAt": "2026-05-11T05:01:36.503Z",
   "category": "sale",
   "categoryLabel": "분양",
   "newItems": [],
-  "updatedItems": []
+  "updatedItems": [
+    {
+      "id": "sale-2015122300019837",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300019837",
+      "title": "대신 롯데캐슬 공가세대 일반매각 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "부산광역시",
+      "status": "접수중",
+      "postedAt": "2026-04-24",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019837&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "대신롯데캐슬공가세대일반매각공고문(260424)_최종.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66572512"
+        },
+        {
+          "name": "대신롯데캐슬공가세대일반매각공고문(260424)_최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66572513"
+        },
+        {
+          "name": "대신롯데캐슬단지배치도및평면도.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66572514"
+        },
+        {
+          "name": "(양식)개인정보제공동의서및무주택서약서등.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66558434"
+        }
+      ],
+      "viewCount": 7749,
+      "rawPanId": "2015122300019837",
+      "contentHash": "51b31544f43c9af7a7af17a0f1d8d7fad03f354a3cc6cd077ea4535f29215357"
+    },
+    {
+      "id": "sale-2015122300019785",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300019785",
+      "title": "센트럴파크 대현 잔여세대 일반매각 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "대구광역시",
+      "status": "접수중",
+      "postedAt": "2026-04-22",
+      "deadlineAt": "2026-05-12",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300019785&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(첨부)공고문_센트럴파크대현잔여세대일반매각.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66508227"
+        },
+        {
+          "name": "(첨부)공고문_센트럴파크대현잔여세대일반매각.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66508228"
+        },
+        {
+          "name": "붙임_평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469579"
+        },
+        {
+          "name": "1.개인정보수집이용및제3자제공동의서.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469148"
+        },
+        {
+          "name": "2.무주택서약서.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469149"
+        },
+        {
+          "name": "3.위임장.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469150"
+        },
+        {
+          "name": "4.주택상태확인서(계약체결시작성).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66469573"
+        }
+      ],
+      "viewCount": 10654,
+      "rawPanId": "2015122300019785",
+      "contentHash": "ee9946c046c6306c77c1006d498055e0896b1ca53c1df87e1441620370b49ed9"
+    }
+  ]
 }

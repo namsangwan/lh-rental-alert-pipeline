@@ -1,7 +1,116 @@
 {
-  "generatedAt": "2026-05-10T10:20:07.824Z",
+  "generatedAt": "2026-05-11T05:01:36.503Z",
   "category": "land",
   "categoryLabel": "토지",
-  "newItems": [],
+  "newItems": [
+    {
+      "id": "land-BN-0007477",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007477",
+      "title": "시흥장현, 시흥거모, 시흥하중 업무시설용지 공급공고[1년 거치 포함 3년 무이자]",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-05-11",
+      "deadlineAt": "2026-05-27",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007477&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "시흥장현,시흥거모,시흥하중업무시설용지공급공고문[1년거치포함3년무이자할부].pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66769128"
+        },
+        {
+          "name": "시흥장현,시흥거모,시흥하중업무시설용지팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764492"
+        },
+        {
+          "name": "시흥거모참고자료1.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764661"
+        },
+        {
+          "name": "시흥거모참고자료2.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764670"
+        },
+        {
+          "name": "시흥장현참고자료1.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764507"
+        },
+        {
+          "name": "시흥장현참고자료2.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764626"
+        },
+        {
+          "name": "시흥하중참고자료1.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764674"
+        },
+        {
+          "name": "시흥하중참고자료2.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764687"
+        },
+        {
+          "name": "토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66764859"
+        }
+      ],
+      "viewCount": 99,
+      "rawPanId": "BN-0007477",
+      "contentHash": "2b8d7c0504d91f226877ceedd84808777cd903bd71fac7da1765d67b4d840493"
+    },
+    {
+      "id": "land-BN-0007476",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007476",
+      "title": "울산효문 지원시설 및 주차장용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "울산광역시",
+      "status": "공고중",
+      "postedAt": "2026-05-11",
+      "deadlineAt": "2026-05-19",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007476&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "1.울산효문지원시설및주차장용지공급공고문(안).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733808"
+        },
+        {
+          "name": "2.토지세부내역및장애사항(효문4필지,260511).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733105"
+        },
+        {
+          "name": "3.관련도면(1).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733112"
+        },
+        {
+          "name": "3.관련도면(2).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733119"
+        },
+        {
+          "name": "3.관련도면(3).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66733126"
+        },
+        {
+          "name": "4.효문지구관련자료.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66732924"
+        },
+        {
+          "name": "5.입주신청서류(한국산업단지공단).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66732913"
+        },
+        {
+          "name": "6.토지취득자금조달및토지이용계획서(양식).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66732911"
+        }
+      ],
+      "viewCount": 50,
+      "rawPanId": "BN-0007476",
+      "contentHash": "5eeab2f8a9991ca333aee12b808f8f6e204d0c3f6c6adc496f7e951606852c7d"
+    }
+  ],
   "updatedItems": []
 }

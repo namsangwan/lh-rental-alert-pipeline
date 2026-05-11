@@ -1,7 +1,141 @@
 {
-  "generatedAt": "2026-05-10T10:20:07.824Z",
+  "generatedAt": "2026-05-11T05:01:36.503Z",
   "category": "rental",
   "categoryLabel": "임대",
-  "newItems": [],
-  "updatedItems": []
+  "newItems": [
+    {
+      "id": "rental-2015122300019913",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019913",
+      "title": "파주시 중소기업체 기관공급(행복주택)",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-05-11",
+      "deadlineAt": "2026-05-22",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019913&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "파주시_중소기업_기관공급_모집공고문_최종.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66761537"
+        },
+        {
+          "name": "파주시_중소기업_기관공급_모집공고문_최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66761538"
+        },
+        {
+          "name": "(문의사항안내용)LH_임대주택_파주시_중소기업_기관공급.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66757578"
+        },
+        {
+          "name": "파주시_중소기업_기관공급_평면도.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66757557"
+        }
+      ],
+      "viewCount": 264,
+      "rawPanId": "2015122300019913",
+      "contentHash": "fb8457ca285bae27ac1c70212ea3b123d077976673c0cc7e12477964822e4a9c"
+    }
+  ],
+  "updatedItems": [
+    {
+      "id": "rental-2015122300019893",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019893",
+      "title": "[정정공고]대곡역 롯데캐슬 엘클라씨 행복주택 입주자 모집 공고",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "접수중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019893&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66693829"
+        },
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66693836"
+        },
+        {
+          "name": "대곡역롯데캐슬엘클라씨행복주택_팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66693846"
+        }
+      ],
+      "viewCount": 27380,
+      "rawPanId": "2015122300019893",
+      "contentHash": "cc713c5540bbce169dd0a5868a73d10f3a23f757abbea91a7c50422cb47212d2"
+    },
+    {
+      "id": "rental-2015122300019847",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019847",
+      "title": "대전광역시 유성구(도안2,봉산3,장대) 행복주택 예비입주자 모집",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "대전광역시",
+      "status": "접수중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019847&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "(게시용)대전광역시유성구행복주택(도안2,봉산3,장대)모집공고문(공고일26.04.30).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66684073"
+        },
+        {
+          "name": "(게시용)대전광역시유성구행복주택(도안2,봉산3,장대)모집공고문(공고일26.04.30).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66684076"
+        },
+        {
+          "name": "(게시용)대전도안2,봉산3,장대행복주택신청관련양식.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66684082"
+        }
+      ],
+      "viewCount": 27466,
+      "rawPanId": "2015122300019847",
+      "contentHash": "d02af5d5260a7eb1f2abc60fde0bdb5a4d3c3f27c76fb10f9cab70bbbbd57d05"
+    },
+    {
+      "id": "rental-2015122300019868",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300019868",
+      "title": "인천광역시, 경기도 부천시 다자녀 매입임대주택 예비입주자 모집 공고",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "인천광역시 외",
+      "status": "접수중",
+      "postedAt": "2026-04-30",
+      "deadlineAt": "2026-05-12",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019868&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "26-2차다자녀매입임대주택예비입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66644482"
+        },
+        {
+          "name": "26-2차다자녀매입임대주택예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66644480"
+        },
+        {
+          "name": "26-2차다자녀매입임대주택공급대상주택목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66644486"
+        }
+      ],
+      "viewCount": 22191,
+      "rawPanId": "2015122300019868",
+      "contentHash": "99e3c39cc5eab590212fcf812e4eb0de76d5f7962e5bcedf28797a94e6dd19e6"
+    }
+  ]
 }
