@@ -1,265 +1,57 @@
 {
-  "generatedAt": "2026-05-11T10:40:51.894Z",
-  "newNoticeCount": 5,
+  "generatedAt": "2026-05-12T04:40:51.862Z",
+  "newNoticeCount": 1,
   "messages": [
     {
       "topic": "all-notices",
-      "title": "[LH 신규공고] 전라남도 영구임대 공고가 등록되었어요",
-      "body": "나주용산1 영구임대주택 예비입주자 모집 (입주자모집공고일 : 2026. 05. 11.) 공고를 확인해보세요.",
+      "title": "[LH 신규공고] 인천광역시 분양주택 공고가 등록되었어요",
+      "body": "인천영종 A24블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정) 공고를 확인해보세요.",
       "data": {
-        "noticeId": "rental-2015122300019924",
-        "category": "rental",
-        "noticeType": "영구임대",
-        "region": "전라남도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019924&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "category-rental",
-      "title": "[LH 신규공고] 전라남도 영구임대 공고가 등록되었어요",
-      "body": "나주용산1 영구임대주택 예비입주자 모집 (입주자모집공고일 : 2026. 05. 11.) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "rental-2015122300019924",
-        "category": "rental",
-        "noticeType": "영구임대",
-        "region": "전라남도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019924&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "region-jeonnam",
-      "title": "[LH 신규공고] 전라남도 영구임대 공고가 등록되었어요",
-      "body": "나주용산1 영구임대주택 예비입주자 모집 (입주자모집공고일 : 2026. 05. 11.) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "rental-2015122300019924",
-        "category": "rental",
-        "noticeType": "영구임대",
-        "region": "전라남도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019924&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "type-permanent-rental",
-      "title": "[LH 신규공고] 전라남도 영구임대 공고가 등록되었어요",
-      "body": "나주용산1 영구임대주택 예비입주자 모집 (입주자모집공고일 : 2026. 05. 11.) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "rental-2015122300019924",
-        "category": "rental",
-        "noticeType": "영구임대",
-        "region": "전라남도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300019924&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "all-notices",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주고읍 및 양주옥정 주거전용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007487",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007487&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "category-land",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주고읍 및 양주옥정 주거전용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007487",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007487&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "region-gyeonggi",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주고읍 및 양주옥정 주거전용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007487",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007487&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "type-type-1224f1d8a70b",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주고읍 및 양주옥정 주거전용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007487",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007487&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "all-notices",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주옥정 점포겸용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007488",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007488&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "category-land",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주옥정 점포겸용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007488",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007488&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "region-gyeonggi",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주옥정 점포겸용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007488",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007488&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "type-type-1224f1d8a70b",
-      "title": "[LH 신규공고] 경기도 토지 공고가 등록되었어요",
-      "body": "양주옥정 점포겸용 단독주택용지 공급공고 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007488",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007488&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "all-notices",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(2순위) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007484",
-        "category": "land",
-        "noticeType": "토지",
+        "noticeId": "sale-0000061088",
+        "category": "sale",
+        "noticeType": "분양주택",
         "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007484&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
+        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061088&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+        "generatedAt": "2026-05-12T04:40:51.862Z"
       }
     },
     {
-      "topic": "category-land",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(2순위) 공고를 확인해보세요.",
+      "topic": "category-sale",
+      "title": "[LH 신규공고] 인천광역시 분양주택 공고가 등록되었어요",
+      "body": "인천영종 A24블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정) 공고를 확인해보세요.",
       "data": {
-        "noticeId": "land-BN-0007484",
-        "category": "land",
-        "noticeType": "토지",
+        "noticeId": "sale-0000061088",
+        "category": "sale",
+        "noticeType": "분양주택",
         "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007484&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
+        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061088&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+        "generatedAt": "2026-05-12T04:40:51.862Z"
       }
     },
     {
       "topic": "region-incheon",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(2순위) 공고를 확인해보세요.",
+      "title": "[LH 신규공고] 인천광역시 분양주택 공고가 등록되었어요",
+      "body": "인천영종 A24블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정) 공고를 확인해보세요.",
       "data": {
-        "noticeId": "land-BN-0007484",
-        "category": "land",
-        "noticeType": "토지",
+        "noticeId": "sale-0000061088",
+        "category": "sale",
+        "noticeType": "분양주택",
         "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007484&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
+        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061088&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+        "generatedAt": "2026-05-12T04:40:51.862Z"
       }
     },
     {
-      "topic": "type-type-1224f1d8a70b",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(2순위) 공고를 확인해보세요.",
+      "topic": "type-type-ffeed132d353",
+      "title": "[LH 신규공고] 인천광역시 분양주택 공고가 등록되었어요",
+      "body": "인천영종 A24블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정) 공고를 확인해보세요.",
       "data": {
-        "noticeId": "land-BN-0007484",
-        "category": "land",
-        "noticeType": "토지",
+        "noticeId": "sale-0000061088",
+        "category": "sale",
+        "noticeType": "분양주택",
         "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007484&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "all-notices",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(1순위) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007483",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007483&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "category-land",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(1순위) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007483",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007483&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "region-incheon",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(1순위) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007483",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007483&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
-      }
-    },
-    {
-      "topic": "type-type-1224f1d8a70b",
-      "title": "[LH 신규공고] 인천광역시 토지 공고가 등록되었어요",
-      "body": "인천영종하늘도시 공동주택용지 A41BL 공급 공고(1순위) 공고를 확인해보세요.",
-      "data": {
-        "noticeId": "land-BN-0007483",
-        "category": "land",
-        "noticeType": "토지",
-        "region": "인천광역시",
-        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007483&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-        "generatedAt": "2026-05-11T10:40:51.894Z"
+        "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061088&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+        "generatedAt": "2026-05-12T04:40:51.862Z"
       }
     }
   ]
