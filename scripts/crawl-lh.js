@@ -3,7 +3,6 @@ import {
   LH_NOTICE_DETAIL_URL,
   LH_NOTICE_FILE_LIST_URL,
   NOTICE_CATEGORIES,
-  getCategoryPaths,
   PATHS
 } from "./lib/constants.js";
 import {
@@ -230,15 +229,15 @@ async function parseNotice(row, category) {
 async function main() {
   await ensureDir(PATHS.dataDir);
   await ensureDir(PATHS.snapshotsDir);
-  const timestamp = new Date();
-  const generatedAt = timestamp.toISOString();
+  const now = new Date();
+  const generatedAt = now.toISOString();
 
   for (const category of NOTICE_CATEGORIES) {
     const html = await fetchHtml(category.listUrl);
     const rows = extractRows(html, category);
 
     if (rows.length === 0) {
-      throw new Error(`No notice rows were parsed from the LH page for category=${category.key}.`);
+      throw new Error(`No notice rows were parsed from the LH page for ${category.key}.`);
     }
 
     const deduped = new Map();
@@ -257,12 +256,12 @@ async function main() {
       items
     };
 
-    const paths = getCategoryPaths(category.key);
-    await writeJson(paths.latestData, output);
+    await writeJson(`data/${category.key}-latest.json`, output);
+    await writeJson(`${PATHS.snapshotsDir}/${category.key}-${timestampForFile(now)}.json`, output);
+
     if (category.key === "rental") {
       await writeJson(PATHS.latestData, output);
     }
-    await writeJson(`${PATHS.snapshotsDir}/${category.key}-${timestampForFile(timestamp)}.json`, output);
 
     console.log(`Crawled ${items.length} LH notices for ${category.key}.`);
   }

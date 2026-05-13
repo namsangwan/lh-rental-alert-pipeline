@@ -84,7 +84,7 @@ function buildFcmPayloads(generatedAt, newItems) {
 async function main() {
   const allNewItems = [];
   const categories = [];
-  let lastGeneratedAt = new Date().toISOString();
+  let generatedAt = new Date().toISOString();
 
   for (const category of NOTICE_CATEGORIES) {
     const paths = getCategoryPaths(category.key);
@@ -93,8 +93,7 @@ async function main() {
       throw new Error(`Missing ${paths.latestData}. Run npm run crawl first.`);
     }
 
-    lastGeneratedAt = latest.generatedAt;
-
+    generatedAt = latest.generatedAt;
     const previousPublic = await readJsonFile(paths.publicNotices);
     const isBootstrapRun = !previousPublic;
     const previousMap = new Map(
@@ -171,17 +170,16 @@ async function main() {
     });
 
     allNewItems.push(...newItems);
-
     console.log(
       `Built ${category.key} JSON. notices=${publicItems.length} new=${newItems.length} updated=${updatedItems.length}`
     );
   }
 
   await writeJson(PATHS.categoriesIndex, {
-    generatedAt: lastGeneratedAt,
+    generatedAt,
     categories
   });
-  await writeJson(PATHS.fcmPayloadsData, buildFcmPayloads(lastGeneratedAt, allNewItems));
+  await writeJson(PATHS.fcmPayloadsData, buildFcmPayloads(generatedAt, allNewItems));
 
   console.log(`Built combined FCM payloads. new=${allNewItems.length}`);
 }
