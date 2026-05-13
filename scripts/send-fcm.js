@@ -61,11 +61,20 @@ async function sendTopicMessage(accessToken, projectId, message) {
       body: JSON.stringify({
         message: {
           topic: message.topic,
-          notification: {
-            title: message.title,
-            body: message.body
+          data: message.data,
+          android: {
+            priority: "high"
           },
-          data: message.data
+          apns: {
+            headers: {
+              "apns-priority": "10"
+            },
+            payload: {
+              aps: {
+                "content-available": 1
+              }
+            }
+          }
         }
       })
     }

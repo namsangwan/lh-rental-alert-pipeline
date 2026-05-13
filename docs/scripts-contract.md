@@ -180,17 +180,28 @@ node scripts/build-json.js
 ```json
 {
   "generatedAt": "2026-04-26T03:00:00Z",
-  "newNoticeCount": 2,
+  "newNoticeCount": 1,
   "messages": [
     {
       "topic": "all-notices",
       "title": "[LH 신규공고] 경기도 행복주택 공고가 등록되었어요",
       "body": "부천원종 A1블록 행복주택 예비입주자 모집 공고를 확인해보세요.",
       "data": {
+        "eventType": "NEW_NOTICE",
         "noticeId": "lh-abc123",
+        "sourceNoticeKey": "abc123",
+        "category": "rental",
+        "categoryLabel": "임대",
         "noticeType": "행복주택",
+        "noticeSubtype": "",
         "region": "경기도",
-        "detailUrl": "https://apply.lh.or.kr/..."
+        "status": "공고중",
+        "postedAt": "2026-04-25",
+        "deadlineAt": "2026-05-03",
+        "detailUrl": "https://apply.lh.or.kr/...",
+        "generatedAt": "2026-04-26T03:00:00Z",
+        "notificationTitle": "[LH 신규공고] 임대 경기도 공고가 등록되었어요",
+        "notificationBody": "부천원종 A1블록 행복주택 예비입주자 모집 공고를 확인해보세요."
       }
     }
   ]
@@ -201,6 +212,8 @@ node scripts/build-json.js
 
 - `newNoticeCount`는 `metadata.json`과 `fcm-payloads.json`에서 일치해야 한다.
 - 신규 공고가 없으면 `messages`는 빈 배열이어야 한다.
+- FCM은 `data-only` 메시지로 보내며 앱이 `data.category`를 보고 `rental`, `sale`, `land` 중 표시 여부를 판단한다.
+- 서버는 신규 공고 1건당 `all-notices` topic 메시지 1개를 만든다.
 
 ## 5. `npm run push:fcm`
 

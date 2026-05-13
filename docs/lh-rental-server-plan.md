@@ -317,22 +317,21 @@ DB 대신 JSON 파일을 시스템의 기준 데이터로 본다.
 
 상시 서버와 DB가 없으면, 서버가 각 사용자별 토큰과 개인별 관심 조건을 보관하기 어렵다.
 
-그래서 초기 버전에서는 아래 둘 중 하나를 선택하는 것이 현실적이다.
+그래서 초기 버전에서는 앱이 공통 topic을 구독하고, 앱 내부 설정으로 알림 노출 여부를 결정한다.
 
-1. 모든 사용자에게 동일한 "새 공고 있음" 푸시 발송
-2. 앱에서 FCM topic을 직접 구독하고, GitHub Actions가 topic으로 발송
-
-추천은 2번이다.
-
-예:
+권장 topic:
 
 - `all-notices`
-- `region-seoul`
-- `region-gyeonggi`
-- `type-happyhouse`
-- `type-publicrental`
 
-즉, 사용자가 앱 안에서 관심 지역/유형을 고르면 앱이 해당 topic을 구독하고, GitHub Actions는 신규 공고 유형에 맞는 topic으로 메시지를 보내는 방식이다.
+FCM payload에는 아래 필드를 반드시 넣는다.
+
+- `category`: `rental`, `sale`, `land`
+- `categoryLabel`: `임대`, `분양`, `토지`
+- `notificationTitle`
+- `notificationBody`
+- `detailUrl`
+
+서버는 `data-only` 메시지를 보내고, 안드로이드 앱은 수신 후 사용자 설정을 확인해 필요한 알림만 직접 표시한다.
 
 ### 10.3 푸시 메시지 예시
 

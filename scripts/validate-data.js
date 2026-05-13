@@ -15,6 +15,10 @@ async function main() {
   assert(categoriesIndex, "Missing public/categories.json");
   assert(Array.isArray(categoriesIndex.categories), "categories.json must contain categories[]");
   assert(Array.isArray(payloads.messages), "fcm-payloads.messages must be an array");
+  assert(
+    payloads.messages.every((message) => message.topic === "all-notices"),
+    "All FCM messages must target all-notices for app-side filtering"
+  );
 
   let totalNewNoticeCount = 0;
 
@@ -48,6 +52,17 @@ async function main() {
     totalNewNoticeCount === payloads.newNoticeCount,
     "Sum of category newNoticeCount must match fcm-payloads.newNoticeCount"
   );
+  assert(
+    payloads.messages.length === payloads.newNoticeCount,
+    "Data-only FCM messages must have one message per new notice"
+  );
+
+  for (const message of payloads.messages) {
+    assert(Boolean(message.data?.category), "Each FCM message must include data.category");
+    assert(Boolean(message.data?.categoryLabel), "Each FCM message must include data.categoryLabel");
+    assert(Boolean(message.data?.notificationTitle), "Each FCM message must include data.notificationTitle");
+    assert(Boolean(message.data?.notificationBody), "Each FCM message must include data.notificationBody");
+  }
 
   console.log("Data validation passed.");
 }
