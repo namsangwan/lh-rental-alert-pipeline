@@ -1,46 +1,157 @@
 {
-  "generatedAt": "2026-05-12T11:24:34.227Z",
+  "generatedAt": "2026-05-13T04:52:41.538Z",
   "category": "land",
   "categoryLabel": "토지",
   "newItems": [
     {
-      "id": "land-BN-0007492",
+      "id": "land-BN-0007435",
       "source": "lh-land",
       "category": "land",
       "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007492",
-      "title": "[취소공고] 양주회천지구 업무시설용지 선착순 수의계약 공급공고",
+      "sourceNoticeKey": "BN-0007435",
+      "title": "인천검단지구 주거전용 단독주택용지(E1,E2) 재공급공고",
       "noticeType": "토지",
       "noticeSubtype": null,
-      "region": "전국",
-      "status": "접수마감",
-      "postedAt": "2026-05-12",
-      "deadlineAt": "2026-05-12",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007492&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [],
-      "viewCount": 12,
-      "rawPanId": "BN-0007492",
-      "contentHash": "474624ccd03ce070b1f517614e84c68006f84475eb3f84296e9c4713fabb58a2"
+      "region": "인천광역시",
+      "status": "공고중",
+      "postedAt": "2026-05-13",
+      "deadlineAt": "2026-06-09",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007435&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "(붙임1)인천검단지구주거전용단독주택용지(E1,E2)재공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66809933"
+        },
+        {
+          "name": "(붙임2)인천검단지구주거전용단독주택용지팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66809948"
+        },
+        {
+          "name": "(붙임3)주거전용단독주택용지(E1,E2)필지세부내역(2026.05).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66810133"
+        },
+        {
+          "name": "(붙임4)토지취득자금조달및토지이용계획서(작성예시,양식).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66810145"
+        }
+      ],
+      "viewCount": 76,
+      "rawPanId": "BN-0007435",
+      "contentHash": "69f30c636ec00e2661e78fa5765b4d45578a346fd1111c0658e6151c3b5cfd4e"
     },
     {
-      "id": "land-BN-0007491",
+      "id": "land-BN-0007475",
       "source": "lh-land",
       "category": "land",
       "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007491",
-      "title": "[취소공고] 양주회천 복합용지 선착순 수의계약 공급공고",
+      "sourceNoticeKey": "BN-0007475",
+      "title": "오산세교2 주거전용 단독주택용지 공급 공고",
       "noticeType": "토지",
       "noticeSubtype": null,
-      "region": "전국",
-      "status": "접수마감",
-      "postedAt": "2026-05-12",
-      "deadlineAt": "2026-05-12",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007491&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [],
-      "viewCount": 5,
-      "rawPanId": "BN-0007491",
-      "contentHash": "ab71aa4e655a108708f986429c0868eafe9c8bd418555758913a8bcb060ff301"
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-05-13",
+      "deadlineAt": "2026-05-27",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007475&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "오산세교2주거전용단독주택용지공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66797643"
+        },
+        {
+          "name": "오산세교2단독주택용지팜플렛최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66797718"
+        },
+        {
+          "name": "(251230)국토교통부고시제2025-948호(오산세교2지구택지개발사업지구지정(10차)개발계획(19차)및실시계획(18차)변경승인).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798457"
+        },
+        {
+          "name": "(붙임)토지공급유의사항(세교2-RA3).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66797769"
+        },
+        {
+          "name": "오산세교2종합개선안도_6차변경.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798509"
+        },
+        {
+          "name": "오산세교2지구_13차_도시계획시설결정도_변경-A0_5000도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798421"
+        },
+        {
+          "name": "오산세교2지구_13차_용도지역결정도_변경.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798345"
+        },
+        {
+          "name": "지구단위계획시행지침(오산세교2).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798491"
+        },
+        {
+          "name": "토지사용장애사항(세교2-RA3).xls",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798321"
+        },
+        {
+          "name": "토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66798542"
+        }
+      ],
+      "viewCount": 113,
+      "rawPanId": "BN-0007475",
+      "contentHash": "e6a885203e874d912462f013dcdb0097029872c27c7a86ae7b045c3ca359e0bd"
     }
   ],
-  "updatedItems": []
+  "updatedItems": [
+    {
+      "id": "land-BN-0007458",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007458",
+      "title": "울산다운2 미매각토지 통합 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "울산광역시",
+      "status": "접수중",
+      "postedAt": "2026-05-04",
+      "deadlineAt": "2026-05-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007458&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "1-1.울산다운2미매각토지통합공고(260504_123필지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679928"
+        },
+        {
+          "name": "1-2.울산다운2미매각토지통합공급안내팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679971"
+        },
+        {
+          "name": "2.공급대상토지목록(123필지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679996"
+        },
+        {
+          "name": "3.토지사용장애사항(울산다운2미매각토지공고_260504).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680001"
+        },
+        {
+          "name": "4-1.장애사항관련도면(다운2,1).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680037"
+        },
+        {
+          "name": "4-2.장애사항관련도면(다운2,2).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680039"
+        },
+        {
+          "name": "5.지구관련도면(울산다운2).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680103"
+        },
+        {
+          "name": "6.토지취득자금조달및토지이용계획서(양식).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66680128"
+        }
+      ],
+      "viewCount": 643,
+      "rawPanId": "BN-0007458",
+      "contentHash": "091a4413533d2994dc12bb18fbf83aca81345a4732a7c161f4a4ff700ef3e9d4"
+    }
+  ]
 }
