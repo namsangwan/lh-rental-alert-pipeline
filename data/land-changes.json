@@ -1,389 +1,124 @@
 {
-  "generatedAt": "2026-05-14T04:51:44.418Z",
+  "generatedAt": "2026-05-14T07:47:51.240Z",
   "category": "land",
   "categoryLabel": "토지",
   "newItems": [
     {
-      "id": "land-BN-0007499",
+      "id": "land-BN-0007506",
       "source": "lh-land",
       "category": "land",
       "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007499",
-      "title": "춘천우두지구 상업용지 수의계약 공급 공고[중개알선대상토지포함]",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "상담요청",
-      "postedAt": "2026-05-14",
-      "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007499&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "(공고문)춘천우두지구상업용지수의계약공급공고_260514.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66842920"
-        },
-        {
-          "name": "(카달로그)춘천우두지구카달로그(상업용지).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66840265"
-        },
-        {
-          "name": "01.공급대상토지목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66835926"
-        },
-        {
-          "name": "02.지구단위계획시행지침(상업용지_발췌본).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66835935"
-        },
-        {
-          "name": "03.획지및건축물에관한지구단위계획지침도_변경-171213.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836085"
-        },
-        {
-          "name": "04.건축물의배치에관한계획(변경)_160707.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836094"
-        },
-        {
-          "name": "05.지반조사보고서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836098"
-        },
-        {
-          "name": "06.시추조사위치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836101"
-        },
-        {
-          "name": "07.종합개선안도(변경신고)-1507.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836105"
-        },
-        {
-          "name": "08.[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836114"
-        },
-        {
-          "name": "09.토지자금조달계획서매뉴얼_고객용.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836146"
-        },
-        {
-          "name": "10.토지판매알선장려금제도안내.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66836150"
-        }
-      ],
-      "viewCount": 26,
-      "rawPanId": "BN-0007499",
-      "contentHash": "66d004030f9bea5593ae76d93feb9c58d763d25c7f5f1ca0fca5e96864c74638"
-    },
-    {
-      "id": "land-BN-0007498",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007498",
-      "title": "남원주역세권 개발 투자선도지구 상업용지 수의계약 공급공고[중개알선대상토지포함]",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "상담요청",
-      "postedAt": "2026-05-14",
-      "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007498&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "(공고문)남원주역세권상업업무용지수의계약-중개알선대상토지_260514.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834829"
-        },
-        {
-          "name": "01.공급대상토지목록_상업업무용지.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834833"
-        },
-        {
-          "name": "02.지구단위계획_시행지침(발췌본).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834853"
-        },
-        {
-          "name": "03.토지이용장애사항설명서(상업용지).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834857"
-        },
-        {
-          "name": "04.건축물및기타사항에관한지구단위계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834862"
-        },
-        {
-          "name": "05.용도지역·지구의세분에관한도시관리계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834867"
-        },
-        {
-          "name": "06-1.남원주토지이용계획도.JPG",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834876"
-        },
-        {
-          "name": "06.남원주역세권사업지구위치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834870"
-        },
-        {
-          "name": "07.종합개선안도(변경심의2020.10).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834884"
-        },
-        {
-          "name": "08.획지의규모와조성에관한지구단위계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834894"
-        },
-        {
-          "name": "09.토지자금조달계획서매뉴얼_고객용.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834900"
-        },
-        {
-          "name": "10.[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834906"
-        },
-        {
-          "name": "11.토지판매알선장려금제도안내.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834911"
-        }
-      ],
-      "viewCount": 19,
-      "rawPanId": "BN-0007498",
-      "contentHash": "445ec1209e1180656d75b887e6f09064c785f4fce7f95f8817cd8792f4a2c51b"
-    },
-    {
-      "id": "land-BN-0007497",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007497",
-      "title": "남원주역세권 점포겸용 단독주택용지 수의계약 공급 공고[중개알선대상토지포함]",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "상담요청",
-      "postedAt": "2026-05-14",
-      "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007497&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "(공고문)남원주역세권단독주택용지수의계약공고-중개알선대상토지_260514.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66833677"
-        },
-        {
-          "name": "1-1.공급토지위치도(단독주택용지2필지).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834276"
-        },
-        {
-          "name": "1.공급대상토지목록_단독주택용지.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834708"
-        },
-        {
-          "name": "2.지구단위계획_시행지침(발췌본).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834278"
-        },
-        {
-          "name": "3.토지이용장애사항설명서(단독주택).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834291"
-        },
-        {
-          "name": "4.건축물및기타사항에관한지구단위계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834300"
-        },
-        {
-          "name": "5.용도지역·지구의세분에관한도시관리계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834308"
-        },
-        {
-          "name": "6.남원주역세권사업지구위치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834332"
-        },
-        {
-          "name": "7.종합개선안도(변경심의2020.10).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834342"
-        },
-        {
-          "name": "8.획지의규모와조성에관한지구단위계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834355"
-        },
-        {
-          "name": "9.토지판매알선장려금제도안내.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66834386"
-        }
-      ],
-      "viewCount": 25,
-      "rawPanId": "BN-0007497",
-      "contentHash": "77912fdcc41c05ffd1ff05b06e88a5cf72a654fc16b248a7463eeddfce89bb76"
-    },
-    {
-      "id": "land-BN-0007504",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007504",
-      "title": "부산기장지구 근린생활용지 신규입찰 공급 공고",
+      "sourceNoticeKey": "BN-0007506",
+      "title": "[정정공고] 부산기장지구 근린생활용지 신규입찰 공급 공고",
       "noticeType": "토지",
       "noticeSubtype": null,
       "region": "부산광역시",
       "status": "공고중",
       "postedAt": "2026-05-14",
       "deadlineAt": "2026-05-28",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007504&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007506&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [
         {
-          "name": "(0514)부산기장근린생활용지공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66843327"
+          "name": "(정정)부산기장근린생활용지공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66856366"
         },
         {
           "name": "부산기장공공지원민간임대주택공급촉진지구지구지정변경(2차)및지구계획변경(5차)승인,지형도면등.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66844145"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66856374"
         },
         {
           "name": "부산기장지구도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66844146"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66856396"
         },
         {
           "name": "부산기장지구승인서및지구단위계획등.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66844148"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66856402"
         },
         {
           "name": "평면도.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66844147"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66856404"
         }
       ],
-      "viewCount": 32,
-      "rawPanId": "BN-0007504",
-      "contentHash": "426f8572771a31b3c713aabc674aab11105ba4d545831c4403ac26bea65c9ba7"
+      "viewCount": 13,
+      "rawPanId": "BN-0007506",
+      "contentHash": "ae6db3c6523b9ff328fb1484c4eb96585139a2ccd5b64073170c53e5459fa511"
     },
     {
-      "id": "land-BN-0007496",
+      "id": "land-BN-0007502",
       "source": "lh-land",
       "category": "land",
       "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007496",
-      "title": "김포마송 근린생활시설용지 선착순 수의계약 공급공고",
+      "sourceNoticeKey": "BN-0007502",
+      "title": "광주선운2 공공주택지구 단독주택용지 및 주유소용지 공급공고",
       "noticeType": "토지",
       "noticeSubtype": null,
-      "region": "경기도",
-      "status": "상담요청",
+      "region": "광주광역시",
+      "status": "공고중",
       "postedAt": "2026-05-14",
-      "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007496&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "deadlineAt": "2026-05-28",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007502&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [
         {
-          "name": "(붙임)김포마송근린생활시설용지선착순수의계약공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66837906"
+          "name": "공급공고문(광주선운2단독주택용지및주유소용지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839518"
         },
         {
-          "name": "개발계획평면도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838247"
+          "name": "팸플릿_광주선운2(단독주택용지및주유소용지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839527"
         },
         {
-          "name": "공사계획평면도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838249"
+          "name": "(양식)토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839531"
         },
         {
-          "name": "교통영향평가개선대책및종합개선안도.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838251"
+          "name": "1.국토교통부고시제2025-355호(광주선운2공공주택지구지구계획변경(5차)승인).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839550"
         },
         {
-          "name": "국토교통부고시제2019-992호(김포마송택지개발사업개발계획변경_17차_및실시계획_15차_변경승인).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838386"
+          "name": "2.광주선운2토지이용계획도_변경(3,000)_5차(변경없음).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839559"
         },
         {
-          "name": "김포도시관리계획(용도지역지구단위계획)결정(변경)고시문(2024-96호).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838260"
+          "name": "3.광주선운2지구단위계획구역결정(변경)도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839566"
         },
         {
-          "name": "도시관리계획결정조서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838221"
+          "name": "4.광주선운2용도지역지구결정(변경)도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839576"
         },
         {
-          "name": "지구단위계획결정조서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66837982"
+          "name": "5.광주선운2지구단위계획결정조서(5차변경-변경없음).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839579"
         },
         {
-          "name": "지구단위계획시행지침(김포마송).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66837977"
+          "name": "6.광주선운2지구단위계획시행지침(합본).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839585"
         },
         {
-          "name": "토지이용계획도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66838235"
+          "name": "7.광주선운2가구및획지의규모와조성에관한도시관리계획(변경)도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839589"
+        },
+        {
+          "name": "8.광주선운2건축물사항에관한도시관리계획(변경)도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839591"
+        },
+        {
+          "name": "9.광주선운2공사계획평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839594"
+        },
+        {
+          "name": "광주선운2종합개선안도_변경신고(3차).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66839598"
+        },
+        {
+          "name": "토지이용제한사항및공급시유의사항(광주선운2단독주택용지및주유소용지).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66851464"
         }
       ],
-      "viewCount": 31,
-      "rawPanId": "BN-0007496",
-      "contentHash": "4ac12e058d2cfe5ea82f7258daddff968f993f6f18878f67741330b8cb26ed01"
+      "viewCount": 53,
+      "rawPanId": "BN-0007502",
+      "contentHash": "f3bffd8f4b9ecc3013198e105534d96bee7ef66bc186ced42cdec43c6d674f46"
     }
   ],
-  "updatedItems": [
-    {
-      "id": "land-BN-0007468",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007468",
-      "title": "경산대임 협의양도인택지(주거전용 단독주택용지) 공급 공고(1차)",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경상북도",
-      "status": "접수마감",
-      "postedAt": "2026-04-30",
-      "deadlineAt": "2026-05-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007468&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "(260430)경산대임_협택_공급_공고문_최종본.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679963"
-        },
-        {
-          "name": "(신청안내)경산대임지구협택청약플러스신청안내(1차2차)_0430.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679774"
-        },
-        {
-          "name": "1.제출서류양식등.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66671119"
-        },
-        {
-          "name": "10.횡단면도.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662569"
-        },
-        {
-          "name": "2-1.지구단위계획결정(변경)조서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662539"
-        },
-        {
-          "name": "2-2.지구단위계획시행지침.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662542"
-        },
-        {
-          "name": "3.토지이용계획도(변경).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662548"
-        },
-        {
-          "name": "4.토지이용장애사항표시도면(법면없음).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662550"
-        },
-        {
-          "name": "5.공사계획평면도(단독).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662553"
-        },
-        {
-          "name": "6.건축물에관한계획(변경).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662557"
-        },
-        {
-          "name": "7.가구및획지계획(변경).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662558"
-        },
-        {
-          "name": "8.방음벽계획평면도(변경될수있음).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662562"
-        },
-        {
-          "name": "9.연약지반처리.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662563"
-        },
-        {
-          "name": "경산대임분양현황도_260430.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66679776"
-        }
-      ],
-      "viewCount": 2310,
-      "rawPanId": "BN-0007468",
-      "contentHash": "c389c98cf7a68a660fafc9c7aa70881dcf954b2883278ad7ad8f30e4ecd448de"
-    }
-  ]
+  "updatedItems": []
 }
