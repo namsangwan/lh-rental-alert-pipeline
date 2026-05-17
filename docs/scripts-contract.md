@@ -38,7 +38,7 @@
 
 각 디렉터리 용도:
 
-- `data/`: 내부 비교용 파일
+- `data/`: workflow 실행 중 생성되는 내부 임시 파일
 - `public/`: GitHub Pages 공개 파일
 - `tmp/`: 런타임 임시 파일
 

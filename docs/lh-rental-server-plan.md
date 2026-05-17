@@ -137,7 +137,7 @@
 
 설명:
 
-- `data/`: 내부 비교용 산출물
+- `data/`: workflow 실행 중 생성되는 내부 임시 산출물
 - `public/`: GitHub Pages에 실제 공개할 파일
 
 ## 6. 데이터 흐름

@@ -7,7 +7,7 @@
 대상 기능:
 
 - 정기 크롤링
-- JSON 생성 및 커밋
+- 공개 JSON 생성 및 커밋
 - GitHub Pages 배포
 - FCM topic 푸시 발송
 
@@ -60,7 +60,8 @@
 
 이유:
 
-- workflow가 `data/`와 `public/` 파일을 커밋하고 push해야 한다.
+- workflow가 GitHub Pages에 배포할 `public/` 파일을 커밋하고 push해야 한다.
+- `data/*.json`은 workflow 실행 중 임시로 생성되는 내부 산출물이므로 커밋하지 않는다.
 
 ## 4. GitHub Secrets 설정
 
