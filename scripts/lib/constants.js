@@ -33,7 +33,6 @@ export const NOTICE_CATEGORIES = [
 
 export const PATHS = {
   dataDir: "data",
-  snapshotsDir: "data/snapshots",
   latestData: "data/latest.json",
   changesData: "data/changes.json",
   fcmPayloadsData: "data/fcm-payloads.json",

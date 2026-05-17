@@ -12,7 +12,6 @@ import {
   parseNullableNumber,
   sha256,
   stripHtml,
-  timestampForFile,
   writeJson
 } from "./lib/utils.js";
 
@@ -228,7 +227,6 @@ async function parseNotice(row, category) {
 
 async function main() {
   await ensureDir(PATHS.dataDir);
-  await ensureDir(PATHS.snapshotsDir);
   const now = new Date();
   const generatedAt = now.toISOString();
 
@@ -257,7 +255,6 @@ async function main() {
     };
 
     await writeJson(`data/${category.key}-latest.json`, output);
-    await writeJson(`${PATHS.snapshotsDir}/${category.key}-${timestampForFile(now)}.json`, output);
 
     if (category.key === "rental") {
       await writeJson(PATHS.latestData, output);

@@ -50,7 +50,7 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
 
       - name: Prepare directories
-        run: mkdir -p "$PUBLIC_DIR" "$DATA_DIR" "$TMP_DIR" "$DATA_DIR/snapshots"
+        run: mkdir -p "$PUBLIC_DIR" "$DATA_DIR" "$TMP_DIR"
 
       - name: Capture previous metadata
         id: previous

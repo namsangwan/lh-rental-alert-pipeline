@@ -27,7 +27,6 @@
 기본 디렉터리:
 
 - `data/`
-- `data/snapshots/`
 - `public/`
 - `tmp/`
 
@@ -40,7 +39,6 @@
 각 디렉터리 용도:
 
 - `data/`: 내부 비교용 파일
-- `data/snapshots/`: 디버깅용 스냅샷
 - `public/`: GitHub Pages 공개 파일
 - `tmp/`: 런타임 임시 파일
 
@@ -64,7 +62,6 @@ node scripts/crawl-lh.js
 - HTML을 파싱한다.
 - `임대`, `분양`, `토지` 공고 배열을 각각 정규화한다.
 - 비교 가능한 내부 원본 파일을 카테고리별로 기록한다.
-- 선택적으로 스냅샷 파일을 `data/snapshots/`에 남긴다.
 
 필수 출력 파일:
 
@@ -75,7 +72,6 @@ node scripts/crawl-lh.js
 선택 출력 파일:
 
 - `data/latest.json`
-- `data/snapshots/<category>-<timestamp>.json`
 
 성공 조건:
 
