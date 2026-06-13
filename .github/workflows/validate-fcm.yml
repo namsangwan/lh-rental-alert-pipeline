@@ -1,0 +1,44 @@
+name: Validate FCM Configuration
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/validate-fcm.yml"
+      - "scripts/send-fcm.js"
+
+permissions:
+  contents: read
+
+env:
+  NODE_VERSION: "22"
+  FIREBASE_CREDENTIALS_PATH: tmp/firebase-service-account.json
+  FCM_EXPECTED_PROJECT_ID: hybrid-essence-565
+  FCM_VALIDATE_ONLY: "true"
+
+jobs:
+  validate-fcm:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Prepare validation payload
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          test -n "$FIREBASE_SERVICE_ACCOUNT_JSON"
+          mkdir -p data tmp
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT_JSON" > "$FIREBASE_CREDENTIALS_PATH"
+          node -e "const fs=require('fs'); const payload={generatedAt:new Date().toISOString(),newNoticeCount:1,messages:[{topic:'all-notices',data:{eventType:'CONFIG_TEST',notificationTitle:'FCM configuration test',notificationBody:'Validation only; this message will not be delivered.'}}]}; fs.writeFileSync('data/fcm-payloads.json', JSON.stringify(payload, null, 2) + '\n');"
+
+      - name: Validate Firebase credentials and FCM API
+        run: npm run push:fcm

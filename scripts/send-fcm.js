@@ -50,6 +50,7 @@ async function fetchAccessToken(serviceAccount) {
 }
 
 async function sendTopicMessage(accessToken, projectId, message) {
+  const validateOnly = process.env.FCM_VALIDATE_ONLY === "true";
   const response = await fetch(
     `https://fcm.googleapis.com/v1/projects/${projectId}/messages:send`,
     {
@@ -59,6 +60,7 @@ async function sendTopicMessage(accessToken, projectId, message) {
         "content-type": "application/json; charset=UTF-8"
       },
       body: JSON.stringify({
+        validate_only: validateOnly,
         message: {
           topic: message.topic,
           data: message.data,
@@ -104,10 +106,19 @@ async function main() {
     throw new Error("Invalid Firebase service account JSON.");
   }
 
+  const expectedProjectId = process.env.FCM_EXPECTED_PROJECT_ID;
+  if (expectedProjectId && serviceAccount.project_id !== expectedProjectId) {
+    throw new Error(
+      `Firebase project mismatch: expected ${expectedProjectId}, received ${serviceAccount.project_id}.`
+    );
+  }
+
+  const validateOnly = process.env.FCM_VALIDATE_ONLY === "true";
   const accessToken = await fetchAccessToken(serviceAccount);
   for (const message of payloads.messages) {
     const response = await sendTopicMessage(accessToken, serviceAccount.project_id, message);
-    console.log(`Sent FCM message to topic=${message.topic} name=${response.name}`);
+    const action = validateOnly ? "Validated" : "Sent";
+    console.log(`${action} FCM message to topic=${message.topic} name=${response.name}`);
   }
 }
 
