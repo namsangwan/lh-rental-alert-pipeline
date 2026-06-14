@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T10:05:35.730Z",
+  "generatedAt": "2026-06-14T05:56:56.175Z",
   "category": "land",
   "categoryLabel": "토지",
   "count": 50,
@@ -24,7 +24,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67243544"
         }
       ],
-      "viewCount": 110,
+      "viewCount": 136,
       "rawPanId": "BN-0007643",
       "contentHash": "33d520d120f8f78693ada30d2851f994875edefa7ec26f7152bc475a730109cf",
       "isNew": false,
@@ -74,7 +74,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67238488"
         }
       ],
-      "viewCount": 78,
+      "viewCount": 114,
       "rawPanId": "BN-0007589",
       "contentHash": "d1e10296f93bcdb8316427046dfda940e95edfbabba777631541f326eaf8519b",
       "isNew": false,
@@ -136,7 +136,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67238645"
         }
       ],
-      "viewCount": 26,
+      "viewCount": 30,
       "rawPanId": "BN-0007639",
       "contentHash": "0d70cbe48338360d548ea57896752f9811e848d6e3417fcdb18597f2e142d1d2",
       "isNew": false,
@@ -202,7 +202,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67210940"
         }
       ],
-      "viewCount": 44,
+      "viewCount": 60,
       "rawPanId": "BN-0007626",
       "contentHash": "ff87ff738f5bd9ed8144fba966be6b89086208d52f82c5c406527716804cc306",
       "isNew": false,
@@ -223,51 +223,9 @@
       "deadlineAt": "2026-06-12",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007637&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 12,
+      "viewCount": 13,
       "rawPanId": "BN-0007637",
       "contentHash": "d490146e15fbdbd0debce98a18d343301c08b20d2536b779b8e07b4493507d14",
-      "isNew": false,
-      "lastChangedAt": "2026-06-12T05:54:07.708Z"
-    },
-    {
-      "id": "land-BN-0007633",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007633",
-      "title": "평택고덕국제화계획지구 점포겸용 단독주택용지 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-12",
-      "deadlineAt": "2026-06-25",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007633&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "공고문(고덕점포겸용).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227247"
-        },
-        {
-          "name": "평택고덕단독리플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227292"
-        },
-        {
-          "name": "관련도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227300"
-        },
-        {
-          "name": "시행지침.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227306"
-        },
-        {
-          "name": "필지유의사항(고덕점포겸용).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227308"
-        }
-      ],
-      "viewCount": 176,
-      "rawPanId": "BN-0007633",
-      "contentHash": "bd353deee23b28f05d1e53fe536ddf92aeead9f003ebbaea643cc29851ac64fd",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
     },
@@ -311,9 +269,51 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67233502"
         }
       ],
-      "viewCount": 52,
+      "viewCount": 70,
       "rawPanId": "BN-0007635",
       "contentHash": "484e090ee941e96d996975cce15190308a343096abe4ef7537bad8f1240d9a49",
+      "isNew": false,
+      "lastChangedAt": "2026-06-12T05:54:07.708Z"
+    },
+    {
+      "id": "land-BN-0007633",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007633",
+      "title": "평택고덕국제화계획지구 점포겸용 단독주택용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-12",
+      "deadlineAt": "2026-06-25",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007633&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "공고문(고덕점포겸용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227247"
+        },
+        {
+          "name": "평택고덕단독리플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227292"
+        },
+        {
+          "name": "관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227300"
+        },
+        {
+          "name": "시행지침.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227306"
+        },
+        {
+          "name": "필지유의사항(고덕점포겸용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227308"
+        }
+      ],
+      "viewCount": 225,
+      "rawPanId": "BN-0007633",
+      "contentHash": "bd353deee23b28f05d1e53fe536ddf92aeead9f003ebbaea643cc29851ac64fd",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
     },
@@ -357,7 +357,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67237731"
         }
       ],
-      "viewCount": 138,
+      "viewCount": 157,
       "rawPanId": "BN-0007640",
       "contentHash": "4088a846fffb48fd68fde3988c796c9271a708235b1053321f4a42c666b2f3c2",
       "isNew": false,
@@ -407,7 +407,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227179"
         }
       ],
-      "viewCount": 47,
+      "viewCount": 59,
       "rawPanId": "BN-0007632",
       "contentHash": "016255780009bd7a52552abe10ba8bc7614f08f5d7028ea25479128cbe982925",
       "isNew": false,
@@ -461,7 +461,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67225644"
         }
       ],
-      "viewCount": 153,
+      "viewCount": 185,
       "rawPanId": "BN-0007630",
       "contentHash": "be1eef3033648fef44c53e779b9345cd0727e2a624627f38d5378e0687c87177",
       "isNew": false,
@@ -531,7 +531,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67192137"
         }
       ],
-      "viewCount": 39,
+      "viewCount": 48,
       "rawPanId": "BN-0007622",
       "contentHash": "d306cc74d4ea6e3c49eb57d246aa78c41caec690c396356aaa88a5e3f194e126",
       "isNew": false,
@@ -557,57 +557,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67234314"
         }
       ],
-      "viewCount": 108,
+      "viewCount": 115,
       "rawPanId": "BN-0007638",
       "contentHash": "30baac12342c4e0216394cc9cbe0269bf8d6c3abfaad0d0c95b788fde6ebd816",
       "isNew": false,
       "lastChangedAt": "2026-06-12T11:05:10.306Z"
-    },
-    {
-      "id": "land-BN-0007628",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007628",
-      "title": "화성동탄2 업무시설용지 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-12",
-      "deadlineAt": "2026-06-19",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007628&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "화성동탄2업무시설용지공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221195"
-        },
-        {
-          "name": "1.[국토교통부고시2026-190호]화성동탄(2)택지개발지구개발계획(26차)및실시계획(27차)변경승인.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221218"
-        },
-        {
-          "name": "2.지구관련도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221234"
-        },
-        {
-          "name": "3.토지사용장애사항(화성동탄2업무시설용지).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221353"
-        },
-        {
-          "name": "4.현장관련도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221421"
-        },
-        {
-          "name": "5.[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67222400"
-        }
-      ],
-      "viewCount": 131,
-      "rawPanId": "BN-0007628",
-      "contentHash": "6d7a06bc487a945a62851246f68eb16473a1cc1091fe761c2a37dae195b67816",
-      "isNew": false,
-      "lastChangedAt": "2026-06-12T05:54:07.708Z"
     },
     {
       "id": "land-BN-0007617",
@@ -657,9 +611,55 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172213"
         }
       ],
-      "viewCount": 211,
+      "viewCount": 246,
       "rawPanId": "BN-0007617",
       "contentHash": "25000ae3f01fa5cb15aa349facb281076ce5638a5585443541bac8ba2e4c9d32",
+      "isNew": false,
+      "lastChangedAt": "2026-06-12T05:54:07.708Z"
+    },
+    {
+      "id": "land-BN-0007628",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007628",
+      "title": "화성동탄2 업무시설용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-12",
+      "deadlineAt": "2026-06-19",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007628&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "화성동탄2업무시설용지공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221195"
+        },
+        {
+          "name": "1.[국토교통부고시2026-190호]화성동탄(2)택지개발지구개발계획(26차)및실시계획(27차)변경승인.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221218"
+        },
+        {
+          "name": "2.지구관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221234"
+        },
+        {
+          "name": "3.토지사용장애사항(화성동탄2업무시설용지).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221353"
+        },
+        {
+          "name": "4.현장관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67221421"
+        },
+        {
+          "name": "5.[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67222400"
+        }
+      ],
+      "viewCount": 149,
+      "rawPanId": "BN-0007628",
+      "contentHash": "6d7a06bc487a945a62851246f68eb16473a1cc1091fe761c2a37dae195b67816",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
     },
@@ -711,7 +711,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67224593"
         }
       ],
-      "viewCount": 159,
+      "viewCount": 166,
       "rawPanId": "BN-0007629",
       "contentHash": "65ae3f68a89e08bc9d42d6ed1a6c7daf83e0e4900e357496677bc3555558a7d6",
       "isNew": false,
@@ -765,7 +765,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67212488"
         }
       ],
-      "viewCount": 120,
+      "viewCount": 129,
       "rawPanId": "BN-0007627",
       "contentHash": "071748a615dedac0d9e8776fbadf9709ef996db19dee6d542d43b74b65f2b047",
       "isNew": false,
@@ -803,7 +803,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67199829"
         }
       ],
-      "viewCount": 178,
+      "viewCount": 185,
       "rawPanId": "BN-0007625",
       "contentHash": "29afd44d7eea74e5e7a1bf6700df3361eedf84afbf175abc4bab015207a8b9e8",
       "isNew": false,
@@ -824,7 +824,7 @@
       "deadlineAt": "2026-06-09",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007624&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 197,
+      "viewCount": 202,
       "rawPanId": "BN-0007624",
       "contentHash": "f5e18386462fcd55c98604f2aac3b281bc23ab58e7d0e045b51efcb753b8ae03",
       "isNew": false,
@@ -894,7 +894,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67176615"
         }
       ],
-      "viewCount": 347,
+      "viewCount": 371,
       "rawPanId": "BN-0007619",
       "contentHash": "8bcaac41c2e4c3b9ee716ecd947e962e9ba900a93a3e535455d2d9d7095ccdf5",
       "isNew": false,
@@ -972,7 +972,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67149230"
         }
       ],
-      "viewCount": 752,
+      "viewCount": 781,
       "rawPanId": "BN-0007532",
       "contentHash": "3c87cca0f985d0fae19cbf79b8db122fafffdaa4b6046a41a9330d1b4d17d188",
       "isNew": false,
@@ -1022,7 +1022,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152312"
         }
       ],
-      "viewCount": 259,
+      "viewCount": 267,
       "rawPanId": "BN-0007613",
       "contentHash": "13ef569cb9ae11af79deb7b6bab5e179b2b33210c1a7c3c1975d5787273919f1",
       "isNew": false,
@@ -1064,7 +1064,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173284"
         }
       ],
-      "viewCount": 172,
+      "viewCount": 182,
       "rawPanId": "BN-0007571",
       "contentHash": "b0b01f05e660c58566a55b0f7fa26319265c7e1e369ff024016dd85b2442e978",
       "isNew": false,
@@ -1122,7 +1122,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178310"
         }
       ],
-      "viewCount": 347,
+      "viewCount": 366,
       "rawPanId": "BN-0007620",
       "contentHash": "e4db72854acf39f2157f00321b99d789691eb068c5fd8997bdde66014066f9fa",
       "isNew": false,
@@ -1176,7 +1176,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67174512"
         }
       ],
-      "viewCount": 210,
+      "viewCount": 233,
       "rawPanId": "BN-0007616",
       "contentHash": "5118cf030caa4aaa0f2c9cb6c1f70034f758e03f8d00892202703c7d19318e7b",
       "isNew": false,
@@ -1222,7 +1222,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67174987"
         }
       ],
-      "viewCount": 261,
+      "viewCount": 279,
       "rawPanId": "BN-0007555",
       "contentHash": "d44a22b2a4a415c53beee295b6e3c8c1b22115d2fe0821e874cd70090f6bc1ba",
       "isNew": false,
@@ -1276,7 +1276,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173195"
         }
       ],
-      "viewCount": 243,
+      "viewCount": 271,
       "rawPanId": "BN-0007615",
       "contentHash": "1f4fd02f37190cf0c045a3ebf877f5ffa9d3023c93e4c21e117ba2646177b5cf",
       "isNew": false,
@@ -1322,7 +1322,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113660"
         }
       ],
-      "viewCount": 119,
+      "viewCount": 120,
       "rawPanId": "BN-0007588",
       "contentHash": "5521feea9c5db3d54dbdb181a4b3c5ab5138600ff0214d48734d73cc14428cb4",
       "isNew": false,
@@ -1372,7 +1372,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67146362"
         }
       ],
-      "viewCount": 480,
+      "viewCount": 498,
       "rawPanId": "BN-0007611",
       "contentHash": "691e5025d9e346c6dc7e7c97b31cb00a3a28600cccae3f57003f9c4e63e0d9b7",
       "isNew": false,
@@ -1442,7 +1442,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145991"
         }
       ],
-      "viewCount": 868,
+      "viewCount": 891,
       "rawPanId": "BN-0007607",
       "contentHash": "a5cc7d998a519af31a58da9deda52b15e990ac952ab91aea854a98611d94d1b1",
       "isNew": false,
@@ -1472,7 +1472,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152118"
         }
       ],
-      "viewCount": 199,
+      "viewCount": 204,
       "rawPanId": "BN-0007612",
       "contentHash": "ba77659d6d1b1c0985542499c49599e96496ae905e6d2878cb13517c49243b0a",
       "isNew": false,
@@ -1502,7 +1502,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152596"
         }
       ],
-      "viewCount": 93,
+      "viewCount": 95,
       "rawPanId": "BN-0007614",
       "contentHash": "e483c12135e5ed6b29b62eb7d3883b67ecb2a6c328a97b47a099bb5eaca55dbf",
       "isNew": false,
@@ -1552,7 +1552,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67149226"
         }
       ],
-      "viewCount": 457,
+      "viewCount": 470,
       "rawPanId": "BN-0007578",
       "contentHash": "fde94106b941e7f0bad2ab4c51dbc48bfd6b2c7076d5b574701f1f752d159428",
       "isNew": false,
@@ -1614,7 +1614,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142357"
         }
       ],
-      "viewCount": 708,
+      "viewCount": 758,
       "rawPanId": "BN-0007606",
       "contentHash": "180eb254a0bcc28831a519d6d24a496dcefb442f0ee6c8fae79fb8ffbc5bc813",
       "isNew": false,
@@ -1635,7 +1635,7 @@
       "deadlineAt": "2026-06-05",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007610&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 38,
+      "viewCount": 39,
       "rawPanId": "BN-0007610",
       "contentHash": "f6a325d281a0e59b8913f3d0bbbde5c42cb58d01b357f3f57637e1d9804a591c",
       "isNew": false,
@@ -1697,7 +1697,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67139469"
         }
       ],
-      "viewCount": 158,
+      "viewCount": 162,
       "rawPanId": "BN-0007608",
       "contentHash": "a5f4cb33ba9b28b15f43be196e588077ffbfbaa21df98e35edd90431a061b2cc",
       "isNew": false,
@@ -1718,7 +1718,7 @@
       "deadlineAt": "2026-06-05",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007609&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 37,
+      "viewCount": 38,
       "rawPanId": "BN-0007609",
       "contentHash": "b272341e4d00e2dafd92e423195c118ad8927938e82b5380492dd51d1d7db8d3",
       "isNew": false,
@@ -1756,7 +1756,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142858"
         }
       ],
-      "viewCount": 356,
+      "viewCount": 374,
       "rawPanId": "BN-0007601",
       "contentHash": "019205e9cae9fdd36bd35f8152820e057a5e936b1c36efec26f63f99ec6b0890",
       "isNew": false,
@@ -1834,7 +1834,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67135135"
         }
       ],
-      "viewCount": 432,
+      "viewCount": 445,
       "rawPanId": "BN-0007605",
       "contentHash": "5aa388382fa3261775383c35f890cc4dbf03b1c9ca2a302f52b14945880da7b7",
       "isNew": false,
@@ -1924,7 +1924,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67133783"
         }
       ],
-      "viewCount": 250,
+      "viewCount": 256,
       "rawPanId": "BN-0007604",
       "contentHash": "43c78a8bf6287a74fd30fa1e9c5e3ea8aeb02f9db0fdbb6c3b67dbe564c21079",
       "isNew": false,
@@ -1962,7 +1962,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67130110"
         }
       ],
-      "viewCount": 170,
+      "viewCount": 173,
       "rawPanId": "BN-0007593",
       "contentHash": "66c6ab0e7b1d4266504092f22a553999addcff552c4aa8cd976245efec80f8ee",
       "isNew": false,
@@ -2028,7 +2028,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67127795"
         }
       ],
-      "viewCount": 1945,
+      "viewCount": 1958,
       "rawPanId": "BN-0007602",
       "contentHash": "d1819ed2b9b5cc71e37433b0b1105b85bf062fbf98410d3669d37bae08dce624",
       "isNew": false,
@@ -2062,7 +2062,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67123570"
         }
       ],
-      "viewCount": 79,
+      "viewCount": 81,
       "rawPanId": "BN-0007599",
       "contentHash": "74b38a5035329a68edbf7ef48d99a8bae6f4c17c05aaaf85f99a0fbb276e6ba4",
       "isNew": false,
@@ -2104,7 +2104,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67109188"
         }
       ],
-      "viewCount": 578,
+      "viewCount": 597,
       "rawPanId": "BN-0007595",
       "contentHash": "a665dac09d1a3228c36c03a9ae8823291d065e307be9868427377ceedddbb573",
       "isNew": false,
@@ -2146,7 +2146,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67115550"
         }
       ],
-      "viewCount": 249,
+      "viewCount": 263,
       "rawPanId": "BN-0007597",
       "contentHash": "bd78613e898e693dad6a7e0d804548c8aa7c8ff871acdec7ae0014fcd69d7699",
       "isNew": false,
@@ -2192,7 +2192,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67112199"
         }
       ],
-      "viewCount": 421,
+      "viewCount": 427,
       "rawPanId": "BN-0007596",
       "contentHash": "63873124b3d521446413b825d11e4f49c2ea3ca0ee3abeb30019c455c1b206a3",
       "isNew": false,
@@ -2238,7 +2238,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67114258"
         }
       ],
-      "viewCount": 301,
+      "viewCount": 303,
       "rawPanId": "BN-0007598",
       "contentHash": "c9184e74d1089b883a5df958e37e26237b1f481fdafd51251015d89e8f23fbe7",
       "isNew": false,
@@ -2284,7 +2284,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67112133"
         }
       ],
-      "viewCount": 141,
+      "viewCount": 143,
       "rawPanId": "BN-0007584",
       "contentHash": "c8d94d546a5bbf982624d098974f63cd164983642ed425571d8c96bc987b27ce",
       "isNew": false,
@@ -2350,7 +2350,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67089067"
         }
       ],
-      "viewCount": 299,
+      "viewCount": 314,
       "rawPanId": "BN-0007587",
       "contentHash": "edef98ea3324761be51fa7f4205029ac1ee6b4244ffc3ee0d91a8da39d86d09f",
       "isNew": false,
@@ -2404,7 +2404,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67110667"
         }
       ],
-      "viewCount": 178,
+      "viewCount": 183,
       "rawPanId": "BN-0007594",
       "contentHash": "cca75b5564d9d1f4330090e80942ef20c94b28b6f05e5b90f1639f1b4c21414d",
       "isNew": false,
@@ -2458,7 +2458,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67105128"
         }
       ],
-      "viewCount": 77,
+      "viewCount": 78,
       "rawPanId": "BN-0007591",
       "contentHash": "fbf7e65cbe5e5b4038274b6e11f85755f0bbcca44b83193a8ff8e938433fdbc7",
       "isNew": false,
