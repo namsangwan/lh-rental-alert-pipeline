@@ -1,9 +1,287 @@
 {
-  "generatedAt": "2026-06-17T11:54:19.004Z",
+  "generatedAt": "2026-06-18T06:01:05.633Z",
   "category": "land",
   "categoryLabel": "토지",
   "count": 50,
   "items": [
+    {
+      "id": "land-BN-0007600",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007600",
+      "title": "오산세교 가용잔지 공급공고(인접토지 소유자 대상)",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "상담요청",
+      "postedAt": "2026-06-18",
+      "deadlineAt": null,
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007600&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "(260618)오산세교보유잔지매각공고문(안).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67296495"
+        },
+        {
+          "name": "잔지신청서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67203819"
+        },
+        {
+          "name": "토지자금조달계획서매뉴얼_민원인용.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67203825"
+        }
+      ],
+      "viewCount": 37,
+      "rawPanId": "BN-0007600",
+      "contentHash": "4b86d27861625a3157648ad3bf16501d577ba5165e577676272a9a1b2df092fe",
+      "isNew": true,
+      "lastChangedAt": "2026-06-18T06:01:05.633Z"
+    },
+    {
+      "id": "land-BN-0007662",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007662",
+      "title": "[토지리턴제]고양삼송 의료시설용지 공급공고(1년 6개월 거치, 5년 무이자)",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-18",
+      "deadlineAt": "2026-07-09",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007662&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "고양삼송의료시설용지공급공고문(토지리턴제).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307568"
+        },
+        {
+          "name": "(붙임1)지구단위계획결정도서.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307784"
+        },
+        {
+          "name": "(붙임2)고양삼송토지이용계획도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307790"
+        },
+        {
+          "name": "(붙임3)공사계획평면도PDF자료.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307791"
+        },
+        {
+          "name": "(붙임4)용도지역결정에관한도시관리계획결정도(고양삼송).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307793"
+        },
+        {
+          "name": "(붙임5)건축물및기타사항에관한결정도(고양삼송).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307799"
+        },
+        {
+          "name": "(붙임6)가구및획지계획결정도(고양삼송).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307802"
+        },
+        {
+          "name": "(붙임7)도시관리계획결정조서및결정도(고양삼송).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307811"
+        },
+        {
+          "name": "(붙임8)교통영향평가종합개선안도.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307814"
+        },
+        {
+          "name": "(붙임9)고도제한도(삼송지구).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307817"
+        }
+      ],
+      "viewCount": 29,
+      "rawPanId": "BN-0007662",
+      "contentHash": "ab8abd14eb8433a135071676f0cfe01a7ba45ed1f8fd0b21b347264aa26ca331",
+      "isNew": true,
+      "lastChangedAt": "2026-06-18T06:01:05.633Z"
+    },
+    {
+      "id": "land-BN-0007659",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007659",
+      "title": "원주태장2 도시개발사업지구 근린생활시설용지 및 준주거용지 입찰 공급 공고(5년 무이자, 18개월 거치)",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-06-18",
+      "deadlineAt": "2026-07-09",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007659&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "(공고문)태장2근린생활시설및준주거용지입찰공급공고[1년6개월거치5년무이자].pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292124"
+        },
+        {
+          "name": "01.(태장2)공급대상토지목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292126"
+        },
+        {
+          "name": "02.원주태장2지구지구단위계획결정도서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292127"
+        },
+        {
+          "name": "03.원주태장2지구지구단위계획시행지침.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292128"
+        },
+        {
+          "name": "04.토지이용장애사항설명서(태장2근린생활).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292130"
+        },
+        {
+          "name": "05.토지이용장애사항설명서(태장2준주거).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292131"
+        },
+        {
+          "name": "06.토지자금조달계획서매뉴얼_고객용.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292133"
+        },
+        {
+          "name": "07.[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67292134"
+        },
+        {
+          "name": "관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67293972"
+        }
+      ],
+      "viewCount": 35,
+      "rawPanId": "BN-0007659",
+      "contentHash": "8034bda2bb37c9833c9c03b39951d51c41d0e23698e4f120b97ef60a2570450d",
+      "isNew": true,
+      "lastChangedAt": "2026-06-18T06:01:05.633Z"
+    },
+    {
+      "id": "land-BN-0007658",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007658",
+      "title": "원주역세권 특화용지 입찰 공급 공고(5년 무이자, 18개월 거치)",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-06-18",
+      "deadlineAt": "2026-07-09",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007658&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "(공고문)원주역세권특화용지입찰공급공고(5년무이자,18개월거치).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291253"
+        },
+        {
+          "name": "01.(남원주역세권)공급대상토지목록(5년무이자).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291798"
+        },
+        {
+          "name": "02.지구단위계획_시행지침(발췌본).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291800"
+        },
+        {
+          "name": "03.토지이용장애사항설명서(특화용지).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291801"
+        },
+        {
+          "name": "04.토지자금조달계획서매뉴얼_고객용.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291802"
+        },
+        {
+          "name": "05.[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291803"
+        },
+        {
+          "name": "관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67291805"
+        }
+      ],
+      "viewCount": 40,
+      "rawPanId": "BN-0007658",
+      "contentHash": "cf0e7b8b1841511f24926ebeab733aaaec03d232c30e3a1ba447a5b589f12513",
+      "isNew": true,
+      "lastChangedAt": "2026-06-18T06:01:05.633Z"
+    },
+    {
+      "id": "land-BN-0007660",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007660",
+      "title": "[계약조건 선택형] 양주옥정 근린생활시설용지 선착순 수의계약 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "상담요청",
+      "postedAt": "2026-06-17",
+      "deadlineAt": null,
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007660&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "01.양주옥정근린생활시설용지공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308806"
+        },
+        {
+          "name": "02.양주옥정근린생활시설용지공급팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308810"
+        },
+        {
+          "name": "03.공급대상토지목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308613"
+        },
+        {
+          "name": "04-1.토지이용계획도(옥정).dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308619"
+        },
+        {
+          "name": "04-2.가구및획지의규모와조서결정도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308626"
+        },
+        {
+          "name": "04-3.건축물및기타사항에관한결정(변경)도(옥정).dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308637"
+        },
+        {
+          "name": "04-4.지구단위계획조서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308639"
+        },
+        {
+          "name": "04-5.지구단위계획시행지침.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308644"
+        },
+        {
+          "name": "04-6.필지별장애사항.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308647"
+        },
+        {
+          "name": "04-7.개발계획평면도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308650"
+        },
+        {
+          "name": "04-8.용도지역결정도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308655"
+        },
+        {
+          "name": "04-9.도시계획시설결정도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308658"
+        },
+        {
+          "name": "05.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308662"
+        }
+      ],
+      "viewCount": 41,
+      "rawPanId": "BN-0007660",
+      "contentHash": "620a9da8ba0f7ef672bf561119449269a26e1d999116387018e3f4e78caf5c34",
+      "isNew": false,
+      "lastChangedAt": "2026-06-17T11:54:19.004Z"
+    },
     {
       "id": "land-BN-0007665",
       "source": "lh-land",
@@ -72,10 +350,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309944"
         }
       ],
-      "viewCount": 14,
+      "viewCount": 70,
       "rawPanId": "BN-0007665",
       "contentHash": "1f081840067732bd77f61bbc1c0de20bfb91bf8e541eded46d8a39f80a2eb97b",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-06-17T11:54:19.004Z"
     },
     {
@@ -146,10 +424,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309459"
         }
       ],
-      "viewCount": 18,
+      "viewCount": 86,
       "rawPanId": "BN-0007664",
       "contentHash": "f69e295a0994ae099f9045ee31ad23974d18a759c3d58f83716d3767135bcbe9",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-06-17T11:54:19.004Z"
     },
     {
@@ -220,84 +498,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309170"
         }
       ],
-      "viewCount": 7,
+      "viewCount": 42,
       "rawPanId": "BN-0007663",
       "contentHash": "4320ab38293cd973376aedc1f3c07c37128e95d28de3e540ae5790615a54c5a3",
-      "isNew": true,
-      "lastChangedAt": "2026-06-17T11:54:19.004Z"
-    },
-    {
-      "id": "land-BN-0007660",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007660",
-      "title": "[계약조건 선택형] 양주옥정 근린생활시설용지 선착순 수의계약 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "상담요청",
-      "postedAt": "2026-06-17",
-      "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007660&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "01.양주옥정근린생활시설용지공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308806"
-        },
-        {
-          "name": "02.양주옥정근린생활시설용지공급팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308810"
-        },
-        {
-          "name": "03.공급대상토지목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308613"
-        },
-        {
-          "name": "04-1.토지이용계획도(옥정).dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308619"
-        },
-        {
-          "name": "04-2.가구및획지의규모와조서결정도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308626"
-        },
-        {
-          "name": "04-3.건축물및기타사항에관한결정(변경)도(옥정).dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308637"
-        },
-        {
-          "name": "04-4.지구단위계획조서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308639"
-        },
-        {
-          "name": "04-5.지구단위계획시행지침.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308644"
-        },
-        {
-          "name": "04-6.필지별장애사항.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308647"
-        },
-        {
-          "name": "04-7.개발계획평면도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308650"
-        },
-        {
-          "name": "04-8.용도지역결정도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308655"
-        },
-        {
-          "name": "04-9.도시계획시설결정도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308658"
-        },
-        {
-          "name": "05.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67308662"
-        }
-      ],
-      "viewCount": 5,
-      "rawPanId": "BN-0007660",
-      "contentHash": "620a9da8ba0f7ef672bf561119449269a26e1d999116387018e3f4e78caf5c34",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-06-17T11:54:19.004Z"
     },
     {
@@ -360,10 +564,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67284425"
         }
       ],
-      "viewCount": 14,
+      "viewCount": 52,
       "rawPanId": "BN-0007657",
       "contentHash": "d4500b1c2120b1e88d48019422ba40413c3b5a40431c9adada7ca73979310d8d",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-06-17T11:54:19.004Z"
     },
     {
@@ -398,10 +602,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67302237"
         }
       ],
-      "viewCount": 37,
+      "viewCount": 76,
       "rawPanId": "BN-0007489",
       "contentHash": "10295b14c8e7ce2e9f36e4d95582f05ee67dbe233c85a7b66b76ab411259a9e7",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-06-17T11:54:19.004Z"
     },
     {
@@ -448,7 +652,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67300538"
         }
       ],
-      "viewCount": 28,
+      "viewCount": 43,
       "rawPanId": "BN-0007661",
       "contentHash": "e6d23d8567bc9ef8a6226a393297019e0ef7bfd52f2d2786000bc478073fcb57",
       "isNew": false,
@@ -526,7 +730,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67278229"
         }
       ],
-      "viewCount": 334,
+      "viewCount": 406,
       "rawPanId": "BN-0007656",
       "contentHash": "438173843bb43651d1b47ae88c28a978d37d6d38404d7e4c2954b33c07fce3bb",
       "isNew": false,
@@ -604,7 +808,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67275197"
         }
       ],
-      "viewCount": 110,
+      "viewCount": 134,
       "rawPanId": "BN-0007649",
       "contentHash": "5fd0f1b4f18dfa386bee1716c2e9b788ed17d93b962fea7d8761ca00d87f62bc",
       "isNew": false,
@@ -654,7 +858,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67266318"
         }
       ],
-      "viewCount": 112,
+      "viewCount": 135,
       "rawPanId": "BN-0007650",
       "contentHash": "e3dd49a8d9ad88485d2162699f6edf3473c52ba1bd7c61bf9c7c6d933c567f83",
       "isNew": false,
@@ -704,7 +908,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67269278"
         }
       ],
-      "viewCount": 172,
+      "viewCount": 199,
       "rawPanId": "BN-0007652",
       "contentHash": "e6abedceb9d145166a4a9d06d4915b962d8d842c96696bf4d7dd37177b625450",
       "isNew": false,
@@ -778,7 +982,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67267919"
         }
       ],
-      "viewCount": 169,
+      "viewCount": 196,
       "rawPanId": "BN-0007651",
       "contentHash": "aa120df969a17f4a96c15cb9715d0469b5ee6194ade6e2a3135ed2c54dd93f67",
       "isNew": false,
@@ -848,7 +1052,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67253767"
         }
       ],
-      "viewCount": 107,
+      "viewCount": 118,
       "rawPanId": "BN-0007646",
       "contentHash": "6a4117291ea18b32215081a71b0784cc62393c32e7e1ff256e59a229243fff43",
       "isNew": false,
@@ -930,7 +1134,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67266184"
         }
       ],
-      "viewCount": 259,
+      "viewCount": 300,
       "rawPanId": "BN-0007648",
       "contentHash": "7cd5bd7ba3ff8e6c845c302a8b874e6babcca0854b9879fe3a6dbd9e8b992dde",
       "isNew": false,
@@ -976,7 +1180,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67242619"
         }
       ],
-      "viewCount": 78,
+      "viewCount": 82,
       "rawPanId": "BN-0007642",
       "contentHash": "8112f13398fd0de78f71f18f5f2ce3827027233fc62a09fd8774e2fc8b35afc7",
       "isNew": false,
@@ -1042,7 +1246,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67259199"
         }
       ],
-      "viewCount": 240,
+      "viewCount": 260,
       "rawPanId": "BN-0007647",
       "contentHash": "0fbc9594aabe37fe9836ed1648c380ed8769e2c430bd53280f05068c6f353db6",
       "isNew": false,
@@ -1124,7 +1328,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67245738"
         }
       ],
-      "viewCount": 229,
+      "viewCount": 262,
       "rawPanId": "BN-0007644",
       "contentHash": "14dd5976f8faa6e982a2c1f776694f935f7c29e88f343625555fdb5ba8725fcd",
       "isNew": false,
@@ -1178,7 +1382,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67251404"
         }
       ],
-      "viewCount": 390,
+      "viewCount": 469,
       "rawPanId": "BN-0007645",
       "contentHash": "a117ccc8b768aaefb3040fa8d55a045de0d7851abc10a0fdec11a8ddb1443604",
       "isNew": false,
@@ -1204,7 +1408,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67243544"
         }
       ],
-      "viewCount": 414,
+      "viewCount": 444,
       "rawPanId": "BN-0007643",
       "contentHash": "33d520d120f8f78693ada30d2851f994875edefa7ec26f7152bc475a730109cf",
       "isNew": false,
@@ -1254,7 +1458,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67238488"
         }
       ],
-      "viewCount": 338,
+      "viewCount": 365,
       "rawPanId": "BN-0007589",
       "contentHash": "d1e10296f93bcdb8316427046dfda940e95edfbabba777631541f326eaf8519b",
       "isNew": false,
@@ -1316,7 +1520,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67238645"
         }
       ],
-      "viewCount": 134,
+      "viewCount": 143,
       "rawPanId": "BN-0007639",
       "contentHash": "0d70cbe48338360d548ea57896752f9811e848d6e3417fcdb18597f2e142d1d2",
       "isNew": false,
@@ -1382,7 +1586,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67210940"
         }
       ],
-      "viewCount": 257,
+      "viewCount": 277,
       "rawPanId": "BN-0007626",
       "contentHash": "ff87ff738f5bd9ed8144fba966be6b89086208d52f82c5c406527716804cc306",
       "isNew": false,
@@ -1403,9 +1607,51 @@
       "deadlineAt": "2026-06-12",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007637&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 46,
+      "viewCount": 48,
       "rawPanId": "BN-0007637",
       "contentHash": "d490146e15fbdbd0debce98a18d343301c08b20d2536b779b8e07b4493507d14",
+      "isNew": false,
+      "lastChangedAt": "2026-06-12T05:54:07.708Z"
+    },
+    {
+      "id": "land-BN-0007633",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007633",
+      "title": "평택고덕국제화계획지구 점포겸용 단독주택용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-12",
+      "deadlineAt": "2026-06-25",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007633&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "공고문(고덕점포겸용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227247"
+        },
+        {
+          "name": "평택고덕단독리플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227292"
+        },
+        {
+          "name": "관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227300"
+        },
+        {
+          "name": "시행지침.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227306"
+        },
+        {
+          "name": "필지유의사항(고덕점포겸용).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227308"
+        }
+      ],
+      "viewCount": 543,
+      "rawPanId": "BN-0007633",
+      "contentHash": "bd353deee23b28f05d1e53fe536ddf92aeead9f003ebbaea643cc29851ac64fd",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
     },
@@ -1449,51 +1695,9 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67233502"
         }
       ],
-      "viewCount": 206,
+      "viewCount": 223,
       "rawPanId": "BN-0007635",
       "contentHash": "484e090ee941e96d996975cce15190308a343096abe4ef7537bad8f1240d9a49",
-      "isNew": false,
-      "lastChangedAt": "2026-06-12T05:54:07.708Z"
-    },
-    {
-      "id": "land-BN-0007633",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007633",
-      "title": "평택고덕국제화계획지구 점포겸용 단독주택용지 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-12",
-      "deadlineAt": "2026-06-25",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007633&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "공고문(고덕점포겸용).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227247"
-        },
-        {
-          "name": "평택고덕단독리플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227292"
-        },
-        {
-          "name": "관련도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227300"
-        },
-        {
-          "name": "시행지침.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227306"
-        },
-        {
-          "name": "필지유의사항(고덕점포겸용).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227308"
-        }
-      ],
-      "viewCount": 506,
-      "rawPanId": "BN-0007633",
-      "contentHash": "bd353deee23b28f05d1e53fe536ddf92aeead9f003ebbaea643cc29851ac64fd",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
     },
@@ -1537,7 +1741,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67237731"
         }
       ],
-      "viewCount": 380,
+      "viewCount": 413,
       "rawPanId": "BN-0007640",
       "contentHash": "4088a846fffb48fd68fde3988c796c9271a708235b1053321f4a42c666b2f3c2",
       "isNew": false,
@@ -1607,7 +1811,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67192137"
         }
       ],
-      "viewCount": 103,
+      "viewCount": 112,
       "rawPanId": "BN-0007622",
       "contentHash": "d306cc74d4ea6e3c49eb57d246aa78c41caec690c396356aaa88a5e3f194e126",
       "isNew": false,
@@ -1661,37 +1865,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67225644"
         }
       ],
-      "viewCount": 403,
+      "viewCount": 441,
       "rawPanId": "BN-0007630",
       "contentHash": "be1eef3033648fef44c53e779b9345cd0727e2a624627f38d5378e0687c87177",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
-    },
-    {
-      "id": "land-BN-0007638",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007638",
-      "title": "[정정공고] 이천중리(주차장, 점포겸용 단독주택, 주거전용 단독주택, 일반상업, 일반업무, 근린생활시설) 및 이천마장(지원시설, 주거전용 단독주택) 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-12",
-      "deadlineAt": "2026-06-25",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007638&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "★이천중리및이천마장공급공고문★.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67234314"
-        }
-      ],
-      "viewCount": 180,
-      "rawPanId": "BN-0007638",
-      "contentHash": "30baac12342c4e0216394cc9cbe0269bf8d6c3abfaad0d0c95b788fde6ebd816",
-      "isNew": false,
-      "lastChangedAt": "2026-06-12T11:05:10.306Z"
     },
     {
       "id": "land-BN-0007632",
@@ -1737,11 +1915,37 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67227179"
         }
       ],
-      "viewCount": 131,
+      "viewCount": 136,
       "rawPanId": "BN-0007632",
       "contentHash": "016255780009bd7a52552abe10ba8bc7614f08f5d7028ea25479128cbe982925",
       "isNew": false,
       "lastChangedAt": "2026-06-12T05:54:07.708Z"
+    },
+    {
+      "id": "land-BN-0007638",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007638",
+      "title": "[정정공고] 이천중리(주차장, 점포겸용 단독주택, 주거전용 단독주택, 일반상업, 일반업무, 근린생활시설) 및 이천마장(지원시설, 주거전용 단독주택) 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-12",
+      "deadlineAt": "2026-06-25",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007638&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "★이천중리및이천마장공급공고문★.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67234314"
+        }
+      ],
+      "viewCount": 189,
+      "rawPanId": "BN-0007638",
+      "contentHash": "30baac12342c4e0216394cc9cbe0269bf8d6c3abfaad0d0c95b788fde6ebd816",
+      "isNew": false,
+      "lastChangedAt": "2026-06-12T11:05:10.306Z"
     },
     {
       "id": "land-BN-0007617",
@@ -1791,7 +1995,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172213"
         }
       ],
-      "viewCount": 481,
+      "viewCount": 521,
       "rawPanId": "BN-0007617",
       "contentHash": "25000ae3f01fa5cb15aa349facb281076ce5638a5585443541bac8ba2e4c9d32",
       "isNew": false,
@@ -1837,7 +2041,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67222400"
         }
       ],
-      "viewCount": 267,
+      "viewCount": 281,
       "rawPanId": "BN-0007628",
       "contentHash": "6d7a06bc487a945a62851246f68eb16473a1cc1091fe761c2a37dae195b67816",
       "isNew": false,
@@ -1891,7 +2095,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67224593"
         }
       ],
-      "viewCount": 231,
+      "viewCount": 240,
       "rawPanId": "BN-0007629",
       "contentHash": "65ae3f68a89e08bc9d42d6ed1a6c7daf83e0e4900e357496677bc3555558a7d6",
       "isNew": false,
@@ -1945,7 +2149,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67212488"
         }
       ],
-      "viewCount": 229,
+      "viewCount": 250,
       "rawPanId": "BN-0007627",
       "contentHash": "071748a615dedac0d9e8776fbadf9709ef996db19dee6d542d43b74b65f2b047",
       "isNew": false,
@@ -1983,7 +2187,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67199829"
         }
       ],
-      "viewCount": 260,
+      "viewCount": 279,
       "rawPanId": "BN-0007625",
       "contentHash": "29afd44d7eea74e5e7a1bf6700df3361eedf84afbf175abc4bab015207a8b9e8",
       "isNew": false,
@@ -2004,7 +2208,7 @@
       "deadlineAt": "2026-06-09",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007624&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 249,
+      "viewCount": 257,
       "rawPanId": "BN-0007624",
       "contentHash": "f5e18386462fcd55c98604f2aac3b281bc23ab58e7d0e045b51efcb753b8ae03",
       "isNew": false,
@@ -2074,9 +2278,159 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67176615"
         }
       ],
-      "viewCount": 511,
+      "viewCount": 539,
       "rawPanId": "BN-0007619",
       "contentHash": "8bcaac41c2e4c3b9ee716ecd947e962e9ba900a93a3e535455d2d9d7095ccdf5",
+      "isNew": false,
+      "lastChangedAt": "2026-06-09T10:36:48.132Z"
+    },
+    {
+      "id": "land-BN-0007620",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007620",
+      "title": "수원당수지구 일반업무시설용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "접수중",
+      "postedAt": "2026-06-09",
+      "deadlineAt": "2026-06-18",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007620&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "[2026.06.09.]수원당수업무시설용지공급공고문_完.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67177919"
+        },
+        {
+          "name": "[2026.06.09.]수원당수업무시설용지공급공고문_完.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67177918"
+        },
+        {
+          "name": "수원당수지구일반업무시설용지(2필지)공급홍보팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67177936"
+        },
+        {
+          "name": "[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙)_23.8개정.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178306"
+        },
+        {
+          "name": "고시문일체.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178233"
+        },
+        {
+          "name": "공급대상필지세부내역(수원당수업무시설)_完.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178220"
+        },
+        {
+          "name": "수원당수1위치도.png",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178288"
+        },
+        {
+          "name": "수원당수지구관련도면및자료들.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178270"
+        },
+        {
+          "name": "토지자금조달계획서매뉴얼_민원인용.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178310"
+        }
+      ],
+      "viewCount": 543,
+      "rawPanId": "BN-0007620",
+      "contentHash": "6de9244d6c8c10d2cff7db22966068c045e9bb5f022267989c678e05a19a7bf4",
+      "isNew": false,
+      "lastChangedAt": "2026-06-18T06:01:05.633Z"
+    },
+    {
+      "id": "land-BN-0007571",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007571",
+      "title": "밀양부북 공공주택지구(주차장, 단독주택용지) 공급 공고(3년 무이자 할부)",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-06-09",
+      "deadlineAt": "2026-06-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007571&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "[붙임1]밀양부북공공주택지구(단독,주차장)용지공급공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67171985"
+        },
+        {
+          "name": "[붙임2]밀양부북공급대상토지목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172002"
+        },
+        {
+          "name": "[붙임3]밀양부북관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172018"
+        },
+        {
+          "name": "[붙임4]밀양부북지구단위계획.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172024"
+        },
+        {
+          "name": "[붙임5]토지취득자금조달및토지이용계획서양식.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173284"
+        }
+      ],
+      "viewCount": 301,
+      "rawPanId": "BN-0007571",
+      "contentHash": "b0b01f05e660c58566a55b0f7fa26319265c7e1e369ff024016dd85b2442e978",
+      "isNew": false,
+      "lastChangedAt": "2026-06-09T10:36:48.132Z"
+    },
+    {
+      "id": "land-BN-0007613",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007613",
+      "title": "하남감일지구 자족시설용지 공급공고(2년 유이자)",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-09",
+      "deadlineAt": "2026-06-22",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007613&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "하남감일지구자족시설용지공급공고문(2년유이자)_20260609.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152249"
+        },
+        {
+          "name": "1.하남감일지구지정(4차)및지구계획(14차)_국토교통부고시제2024-946호.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152256"
+        },
+        {
+          "name": "2.하남감일지구단위계획시행지침-14차.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152263"
+        },
+        {
+          "name": "3.토지이용계획도-14차.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152286"
+        },
+        {
+          "name": "4.도시관리계획결정(변경)총괄도(변경)-14차.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152290"
+        },
+        {
+          "name": "5.가구및획지,건축물에관란결정도-14차.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152291"
+        },
+        {
+          "name": "6.토지취득자금조달및토지이용계획서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152312"
+        }
+      ],
+      "viewCount": 366,
+      "rawPanId": "BN-0007613",
+      "contentHash": "13ef569cb9ae11af79deb7b6bab5e179b2b33210c1a7c3c1975d5787273919f1",
       "isNew": false,
       "lastChangedAt": "2026-06-09T10:36:48.132Z"
     },
@@ -2152,101 +2506,9 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67149230"
         }
       ],
-      "viewCount": 1063,
+      "viewCount": 1107,
       "rawPanId": "BN-0007532",
       "contentHash": "3c87cca0f985d0fae19cbf79b8db122fafffdaa4b6046a41a9330d1b4d17d188",
-      "isNew": false,
-      "lastChangedAt": "2026-06-09T10:36:48.132Z"
-    },
-    {
-      "id": "land-BN-0007613",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007613",
-      "title": "하남감일지구 자족시설용지 공급공고(2년 유이자)",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-09",
-      "deadlineAt": "2026-06-22",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007613&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "하남감일지구자족시설용지공급공고문(2년유이자)_20260609.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152249"
-        },
-        {
-          "name": "1.하남감일지구지정(4차)및지구계획(14차)_국토교통부고시제2024-946호.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152256"
-        },
-        {
-          "name": "2.하남감일지구단위계획시행지침-14차.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152263"
-        },
-        {
-          "name": "3.토지이용계획도-14차.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152286"
-        },
-        {
-          "name": "4.도시관리계획결정(변경)총괄도(변경)-14차.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152290"
-        },
-        {
-          "name": "5.가구및획지,건축물에관란결정도-14차.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152291"
-        },
-        {
-          "name": "6.토지취득자금조달및토지이용계획서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152312"
-        }
-      ],
-      "viewCount": 352,
-      "rawPanId": "BN-0007613",
-      "contentHash": "13ef569cb9ae11af79deb7b6bab5e179b2b33210c1a7c3c1975d5787273919f1",
-      "isNew": false,
-      "lastChangedAt": "2026-06-09T10:36:48.132Z"
-    },
-    {
-      "id": "land-BN-0007571",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007571",
-      "title": "밀양부북 공공주택지구(주차장, 단독주택용지) 공급 공고(3년 무이자 할부)",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경상남도",
-      "status": "공고중",
-      "postedAt": "2026-06-09",
-      "deadlineAt": "2026-06-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007571&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "[붙임1]밀양부북공공주택지구(단독,주차장)용지공급공고.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67171985"
-        },
-        {
-          "name": "[붙임2]밀양부북공급대상토지목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172002"
-        },
-        {
-          "name": "[붙임3]밀양부북관련도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172018"
-        },
-        {
-          "name": "[붙임4]밀양부북지구단위계획.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67172024"
-        },
-        {
-          "name": "[붙임5]토지취득자금조달및토지이용계획서양식.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173284"
-        }
-      ],
-      "viewCount": 287,
-      "rawPanId": "BN-0007571",
-      "contentHash": "b0b01f05e660c58566a55b0f7fa26319265c7e1e369ff024016dd85b2442e978",
       "isNew": false,
       "lastChangedAt": "2026-06-09T10:36:48.132Z"
     },
@@ -2290,63 +2552,9 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67174987"
         }
       ],
-      "viewCount": 415,
+      "viewCount": 426,
       "rawPanId": "BN-0007555",
       "contentHash": "d44a22b2a4a415c53beee295b6e3c8c1b22115d2fe0821e874cd70090f6bc1ba",
-      "isNew": false,
-      "lastChangedAt": "2026-06-09T10:36:48.132Z"
-    },
-    {
-      "id": "land-BN-0007615",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007615",
-      "title": "경남 우주항공 국가산단 진주지구 지원시설용지 공급 공고(3년 무이자 할부)",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경상남도",
-      "status": "공고중",
-      "postedAt": "2026-06-09",
-      "deadlineAt": "2026-06-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007615&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "1.[공급공고문]경남우주항공진주지구지원시설용지.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173095"
-        },
-        {
-          "name": "2.[카탈로그]경남우주항공진주지구지원시설용지.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173113"
-        },
-        {
-          "name": "3.공급대상필지목록(진주항공_지원시설용지).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173122"
-        },
-        {
-          "name": "4.도시관리계획.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173125"
-        },
-        {
-          "name": "5.지구단위계획시행지침.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173139"
-        },
-        {
-          "name": "6.입주신청서류(한국산업단지공단).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173165"
-        },
-        {
-          "name": "7.토지취득자금조달및토지이용계획서(양식).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173180"
-        },
-        {
-          "name": "8.관련도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173195"
-        }
-      ],
-      "viewCount": 395,
-      "rawPanId": "BN-0007615",
-      "contentHash": "1f4fd02f37190cf0c045a3ebf877f5ffa9d3023c93e4c21e117ba2646177b5cf",
       "isNew": false,
       "lastChangedAt": "2026-06-09T10:36:48.132Z"
     },
@@ -2398,115 +2606,65 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67174512"
         }
       ],
-      "viewCount": 326,
+      "viewCount": 339,
       "rawPanId": "BN-0007616",
       "contentHash": "5118cf030caa4aaa0f2c9cb6c1f70034f758e03f8d00892202703c7d19318e7b",
       "isNew": false,
       "lastChangedAt": "2026-06-09T10:36:48.132Z"
     },
     {
-      "id": "land-BN-0007620",
+      "id": "land-BN-0007615",
       "source": "lh-land",
       "category": "land",
       "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007620",
-      "title": "수원당수지구 일반업무시설용지 공급공고",
+      "sourceNoticeKey": "BN-0007615",
+      "title": "경남 우주항공 국가산단 진주지구 지원시설용지 공급 공고(3년 무이자 할부)",
       "noticeType": "토지",
       "noticeSubtype": null,
-      "region": "경기도",
+      "region": "경상남도",
       "status": "공고중",
       "postedAt": "2026-06-09",
-      "deadlineAt": "2026-06-18",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007620&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "deadlineAt": "2026-06-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007615&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [
         {
-          "name": "[2026.06.09.]수원당수업무시설용지공급공고문_完.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67177919"
+          "name": "1.[공급공고문]경남우주항공진주지구지원시설용지.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173095"
         },
         {
-          "name": "[2026.06.09.]수원당수업무시설용지공급공고문_完.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67177918"
+          "name": "2.[카탈로그]경남우주항공진주지구지원시설용지.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173113"
         },
         {
-          "name": "수원당수지구일반업무시설용지(2필지)공급홍보팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67177936"
+          "name": "3.공급대상필지목록(진주항공_지원시설용지).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173122"
         },
         {
-          "name": "[별지제1호의4서식]토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙)_23.8개정.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178306"
+          "name": "4.도시관리계획.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173125"
         },
         {
-          "name": "고시문일체.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178233"
+          "name": "5.지구단위계획시행지침.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173139"
         },
         {
-          "name": "공급대상필지세부내역(수원당수업무시설)_完.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178220"
+          "name": "6.입주신청서류(한국산업단지공단).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173165"
         },
         {
-          "name": "수원당수1위치도.png",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178288"
+          "name": "7.토지취득자금조달및토지이용계획서(양식).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173180"
         },
         {
-          "name": "수원당수지구관련도면및자료들.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178270"
-        },
-        {
-          "name": "토지자금조달계획서매뉴얼_민원인용.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67178310"
+          "name": "8.관련도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67173195"
         }
       ],
-      "viewCount": 487,
-      "rawPanId": "BN-0007620",
-      "contentHash": "e4db72854acf39f2157f00321b99d789691eb068c5fd8997bdde66014066f9fa",
+      "viewCount": 413,
+      "rawPanId": "BN-0007615",
+      "contentHash": "1f4fd02f37190cf0c045a3ebf877f5ffa9d3023c93e4c21e117ba2646177b5cf",
       "isNew": false,
       "lastChangedAt": "2026-06-09T10:36:48.132Z"
-    },
-    {
-      "id": "land-BN-0007588",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007588",
-      "title": "대전천동3 생활대책용지 최종 공급 공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "전국",
-      "status": "상담요청",
-      "postedAt": "2026-06-08",
-      "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007588&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "대전천동3생활대책용지최종공급공고문(최종).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67147619"
-        },
-        {
-          "name": "공급대상토지목록_천동3생활대책용지최종공급.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113653"
-        },
-        {
-          "name": "조합구비서류양식_천동3생활대책용지.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67147626"
-        },
-        {
-          "name": "천동3인허가도면.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113676"
-        },
-        {
-          "name": "천동3준주거용지(Ⅳ-1)사용설명서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113669"
-        },
-        {
-          "name": "토지이용장애사항설명서(천동3준주거용지Ⅳ-1).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113660"
-        }
-      ],
-      "viewCount": 142,
-      "rawPanId": "BN-0007588",
-      "contentHash": "5521feea9c5db3d54dbdb181a4b3c5ab5138600ff0214d48734d73cc14428cb4",
-      "isNew": false,
-      "lastChangedAt": "2026-06-08T05:57:48.432Z"
     },
     {
       "id": "land-BN-0007611",
@@ -2552,203 +2710,57 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67146362"
         }
       ],
-      "viewCount": 757,
+      "viewCount": 775,
       "rawPanId": "BN-0007611",
       "contentHash": "30e0838a738192d824b45c67bce15ca339b0661f9f34e9f5d53ccbd062385be9",
       "isNew": false,
       "lastChangedAt": "2026-06-17T06:20:48.988Z"
     },
     {
-      "id": "land-BN-0007607",
+      "id": "land-BN-0007588",
       "source": "lh-land",
       "category": "land",
       "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007607",
-      "title": "의정부우정 단독주택용지(주거전용) 공급공고[1년거치, 3년 무이자]",
+      "sourceNoticeKey": "BN-0007588",
+      "title": "대전천동3 생활대책용지 최종 공급 공고",
       "noticeType": "토지",
       "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-05",
-      "deadlineAt": "2026-06-22",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007607&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "1.의정부우정단독주택용지(주거전용)공급공고문_게시용.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67146281"
-        },
-        {
-          "name": "2.의정부우정단독(주거전용)용지공급안내팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145962"
-        },
-        {
-          "name": "3.공급대상토지세부내역_게시용(의정부우정단독주거).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145968"
-        },
-        {
-          "name": "4-1.국토교통부고시제2023-670호(의정부우정공공주택지구지구계획변경(1차)승인).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145973"
-        },
-        {
-          "name": "4-2.토지이용계획도(변경).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145976"
-        },
-        {
-          "name": "4-3.지구단위계획구역결정(변경없음)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145977"
-        },
-        {
-          "name": "4-4.용도지역결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145978"
-        },
-        {
-          "name": "4-5.도시계획시설결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145980"
-        },
-        {
-          "name": "4-6.가구및획지의규모와조성에관한도시관리계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145981"
-        },
-        {
-          "name": "4-7.건축물등기타사항등에관한도시관리계획결정(변경)도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145986"
-        },
-        {
-          "name": "5.의정부우정_지구단위계획시행지침_231121_단독발췌.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145990"
-        },
-        {
-          "name": "6.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67145991"
-        }
-      ],
-      "viewCount": 1104,
-      "rawPanId": "BN-0007607",
-      "contentHash": "a5cc7d998a519af31a58da9deda52b15e990ac952ab91aea854a98611d94d1b1",
-      "isNew": false,
-      "lastChangedAt": "2026-06-05T10:52:11.451Z"
-    },
-    {
-      "id": "land-BN-0007614",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007614",
-      "title": "[정정공고] 울산효문 지원시설 및 주차장용지 선착순 수의계약 공급 공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "울산광역시",
+      "region": "전국",
       "status": "상담요청",
-      "postedAt": "2026-06-05",
+      "postedAt": "2026-06-08",
       "deadlineAt": null,
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007614&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007588&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [
         {
-          "name": "1.공급공고문_울산효문지원시설및주차장용지선착순수의계약.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152593"
+          "name": "대전천동3생활대책용지최종공급공고문(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67147619"
         },
         {
-          "name": "4.효문지구_관련자료(변경).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152596"
+          "name": "공급대상토지목록_천동3생활대책용지최종공급.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113653"
+        },
+        {
+          "name": "조합구비서류양식_천동3생활대책용지.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67147626"
+        },
+        {
+          "name": "천동3인허가도면.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113676"
+        },
+        {
+          "name": "천동3준주거용지(Ⅳ-1)사용설명서.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113669"
+        },
+        {
+          "name": "토지이용장애사항설명서(천동3준주거용지Ⅳ-1).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67113660"
         }
       ],
-      "viewCount": 116,
-      "rawPanId": "BN-0007614",
-      "contentHash": "e483c12135e5ed6b29b62eb7d3883b67ecb2a6c328a97b47a099bb5eaca55dbf",
+      "viewCount": 144,
+      "rawPanId": "BN-0007588",
+      "contentHash": "5521feea9c5db3d54dbdb181a4b3c5ab5138600ff0214d48734d73cc14428cb4",
       "isNew": false,
-      "lastChangedAt": "2026-06-05T10:52:11.451Z"
-    },
-    {
-      "id": "land-BN-0007612",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007612",
-      "title": "[정정공고] 울산효문 지원시설용지 공급 공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "울산광역시",
-      "status": "접수마감",
-      "postedAt": "2026-06-05",
-      "deadlineAt": "2026-06-08",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007612&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "1.울산효문지원시설용지공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67150619"
-        },
-        {
-          "name": "4.효문지구_관련자료(변경).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67152118"
-        }
-      ],
-      "viewCount": 241,
-      "rawPanId": "BN-0007612",
-      "contentHash": "ba77659d6d1b1c0985542499c49599e96496ae905e6d2878cb13517c49243b0a",
-      "isNew": false,
-      "lastChangedAt": "2026-06-08T12:03:45.249Z"
-    },
-    {
-      "id": "land-BN-0007606",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007606",
-      "title": "남양주진접2 공공주택지구 협의양도인택지 2차 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "접수마감",
-      "postedAt": "2026-06-05",
-      "deadlineAt": "2026-06-17",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007606&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "남양주진접2협의양도인택지공급공고문2차.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142182"
-        },
-        {
-          "name": "남양주진접2협의양도인택지공급안내팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142191"
-        },
-        {
-          "name": "1.공급대상필지목록(협택).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142208"
-        },
-        {
-          "name": "2.상속재산분할협의서(양식).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142954"
-        },
-        {
-          "name": "3.위임장(양식).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142253"
-        },
-        {
-          "name": "4.지구단위계획도면.7z.001",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142279"
-        },
-        {
-          "name": "6.지구단위계획시행지침.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142303"
-        },
-        {
-          "name": "7.토지이용계획도_변경.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142322"
-        },
-        {
-          "name": "8.국토교통부_제2025-923호_고시.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142343"
-        },
-        {
-          "name": "9.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67142357"
-        }
-      ],
-      "viewCount": 2039,
-      "rawPanId": "BN-0007606",
-      "contentHash": "b01bc7ee44f3ffc68bb5d1805c64f8a426e2545a019528064a1cfb014bacaacf",
-      "isNew": false,
-      "lastChangedAt": "2026-06-17T06:20:48.988Z"
+      "lastChangedAt": "2026-06-08T05:57:48.432Z"
     }
   ]
 }
