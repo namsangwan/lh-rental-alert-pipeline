@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-06-24T10:25:19.237Z",
+  "generatedAt": "2026-06-25T05:09:52.409Z",
   "category": "sale",
   "categoryLabel": "분양",
   "count": 10,
   "items": [
+    {
+      "id": "sale-0000061112",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061112",
+      "title": "대전대동2 1BL 공공분양 추가 입주자모집공고[계약금 정액제(천만원), 순번추첨동호지정]",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "대전광역시",
+      "status": "공고중",
+      "postedAt": "2026-06-25",
+      "deadlineAt": "2026-07-15",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061112&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "대전대동21블록공공분양3차추가입주자모집공고문(260625).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67423268"
+        },
+        {
+          "name": "대전대동21블록공공분양3차추가입주자모집공고문(260625).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67423264"
+        },
+        {
+          "name": "대전대동2_1블록_공공분양_팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67406906"
+        },
+        {
+          "name": "(양식)개인정보수집·이용및제3자제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67406937"
+        },
+        {
+          "name": "(양식)위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67406939"
+        },
+        {
+          "name": "선택품목안내문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67406934"
+        },
+        {
+          "name": "잔여세대동호표(대동21블록).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67406928"
+        }
+      ],
+      "viewCount": 56,
+      "rawPanId": "0000061112",
+      "contentHash": "c716e17035fa4db7c1a7f8cca5b4a9a6175e011a40a7e9f642f4cee10409b0f0",
+      "isNew": true,
+      "lastChangedAt": "2026-06-25T05:09:52.409Z"
+    },
     {
       "id": "sale-2015122300020098",
       "source": "lh-sale",
@@ -36,49 +86,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67196571"
         }
       ],
-      "viewCount": 4675,
+      "viewCount": 4856,
       "rawPanId": "2015122300020098",
       "contentHash": "f86af8c1be5bce886ead97f958619fff70f6886a670b3fd93f3df033fb3d4481",
       "isNew": false,
       "lastChangedAt": "2026-06-10T10:59:47.813Z"
-    },
-    {
-      "id": "sale-2015122300020064",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300020064",
-      "title": "구미화성파크드림 미분양매입 잔여세대 선착순 일반매각 공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "경상북도",
-      "status": "공고중",
-      "postedAt": "2026-06-09",
-      "deadlineAt": "2026-06-24",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020064&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(공고문)구미화성파크드림미분양매입잔여세대선착순일반매각.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67129412"
-        },
-        {
-          "name": "공고문_구미화성파크드림미분양매입잔여세대선착순일반매각.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67129484"
-        },
-        {
-          "name": "(양식)위임장.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67129379"
-        },
-        {
-          "name": "(양식)주택상태확인서(계약체결시작성).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67129382"
-        }
-      ],
-      "viewCount": 3827,
-      "rawPanId": "2015122300020064",
-      "contentHash": "7b74e87745c900eba4bb790b529129a68f2165150f5706257e2ddbc24c68379a",
-      "isNew": false,
-      "lastChangedAt": "2026-06-09T10:36:48.132Z"
     },
     {
       "id": "sale-2015122300020037",
@@ -112,7 +124,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67048729"
         }
       ],
-      "viewCount": 7803,
+      "viewCount": 7901,
       "rawPanId": "2015122300020037",
       "contentHash": "20184df399dfaf9e8f3bb60950f0d529838c0adea3ee7f4c82af5fd246fc0b6a",
       "isNew": false,
@@ -170,7 +182,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67055756"
         }
       ],
-      "viewCount": 118334,
+      "viewCount": 120660,
       "rawPanId": "0000061094",
       "contentHash": "96e0d99e936476ff82496a2d8ff3c9df8ca2e2f831964843d48126356d0df737",
       "isNew": false,
@@ -212,7 +224,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66970539"
         }
       ],
-      "viewCount": 13586,
+      "viewCount": 13710,
       "rawPanId": "0000061097",
       "contentHash": "33b3b43e143a9737679877401804047670101396690192102f8a026e79e90ace",
       "isNew": false,
@@ -258,7 +270,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66962255"
         }
       ],
-      "viewCount": 9278,
+      "viewCount": 9363,
       "rawPanId": "0000061096",
       "contentHash": "68c41bb68aaf1ea49df45bb7b88dbf2e66623b0a5a21dfc8b927a3eefcff2315",
       "isNew": false,
@@ -308,7 +320,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66947748"
         }
       ],
-      "viewCount": 11891,
+      "viewCount": 12034,
       "rawPanId": "0000061095",
       "contentHash": "ea97b8ab304243fd2de5ebf9fe37b6e220a549ab41297d31ac53ac92e30a17e0",
       "isNew": false,
@@ -342,7 +354,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66629526"
         }
       ],
-      "viewCount": 13827,
+      "viewCount": 13934,
       "rawPanId": "2015122300019849",
       "contentHash": "1af10dc1d771c4ad33ba757c5ae9120d16860f71606bb7d41ba9bd6c348eb4e5",
       "isNew": false,
@@ -384,7 +396,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66492561"
         }
       ],
-      "viewCount": 13332,
+      "viewCount": 13478,
       "rawPanId": "2015122300019811",
       "contentHash": "cd8b58cc98ee0905d26494188d29f408ff313cf281205c1173ffffffb45a2059",
       "isNew": false,
@@ -430,7 +442,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66662919"
         }
       ],
-      "viewCount": 23590,
+      "viewCount": 23783,
       "rawPanId": "0000061079",
       "contentHash": "c9c023a506e6779892141ba0a4edded8d648e7e993e285158748caf129e83278",
       "isNew": false,
