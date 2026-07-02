@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-07-02T05:03:21.993Z",
+  "generatedAt": "2026-07-02T10:12:50.743Z",
   "category": "land",
   "categoryLabel": "토지",
   "count": 50,
   "items": [
+    {
+      "id": "land-BN-0007716",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007716",
+      "title": "[토지리턴제 및 거치식할부 중복 적용] 양주회천 업무시설, 복합, 상업, 주차장용지 공급 공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-07-02",
+      "deadlineAt": "2026-07-16",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007716&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "양주회천업무시설용지등토지리턴제및거치식할부중복적용공급공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67543136"
+        },
+        {
+          "name": "리플렛_F.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67544384"
+        },
+        {
+          "name": "가구및획지의규모와조성결정(변경)도(5000).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508526"
+        },
+        {
+          "name": "건축물및기타사항에관한결정(변경)도(5000).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508536"
+        },
+        {
+          "name": "도시관리계획.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508537"
+        },
+        {
+          "name": "용도지역결정(변경)도(5000).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508538"
+        },
+        {
+          "name": "지구단위계획_FF.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508539"
+        },
+        {
+          "name": "지구단위계획시행지침.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508540"
+        },
+        {
+          "name": "토지세부리스트(토지리턴+거치중복)_F.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67542290"
+        },
+        {
+          "name": "토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508541"
+        },
+        {
+          "name": "필지별제약사항(토지리턴+거치할부중복).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67508522"
+        }
+      ],
+      "viewCount": 12,
+      "rawPanId": "BN-0007716",
+      "contentHash": "646eff5ee687bb63ead644c1b982d78440b95d33294c9a386c5d0188d64350f9",
+      "isNew": true,
+      "lastChangedAt": "2026-07-02T10:12:50.743Z"
+    },
     {
       "id": "land-BN-0007714",
       "source": "lh-land",
@@ -92,7 +158,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67506548"
         }
       ],
-      "viewCount": 199,
+      "viewCount": 282,
       "rawPanId": "BN-0007714",
       "contentHash": "13f8227a15b857582b059ec992b962674ad52618fd677c951014a8dfb9fb2718",
       "isNew": false,
@@ -113,7 +179,7 @@
       "deadlineAt": "2026-07-01",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007718&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 59,
+      "viewCount": 73,
       "rawPanId": "BN-0007718",
       "contentHash": "8a094a7bc95fae45edd1b51ebd3c6d4a18c0dedc98324fd25576f9c32ef911b2",
       "isNew": false,
@@ -134,7 +200,7 @@
       "deadlineAt": "2026-07-01",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007717&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 49,
+      "viewCount": 58,
       "rawPanId": "BN-0007717",
       "contentHash": "677fbb910f7deadc47596416e4112ddb43faa73858f66b6efea5ce707380583d",
       "isNew": false,
@@ -188,7 +254,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67472740"
         }
       ],
-      "viewCount": 353,
+      "viewCount": 383,
       "rawPanId": "BN-0007704",
       "contentHash": "1e78de76c9a56d0e93878bbf3fa110048a2c1561b616d40312fbb6adce7cf7cc",
       "isNew": false,
@@ -262,7 +328,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67505490"
         }
       ],
-      "viewCount": 272,
+      "viewCount": 306,
       "rawPanId": "BN-0007715",
       "contentHash": "7f7ed653775a56ee0bb24419505e746a96b156ca4d45c0980f5da2c3f1e3f619",
       "isNew": false,
@@ -308,7 +374,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67486326"
         }
       ],
-      "viewCount": 68,
+      "viewCount": 70,
       "rawPanId": "BN-0007708",
       "contentHash": "37f21480254969f6c074b2bb0238ab773806c94fd95b4649d3ebcd9b669042d9",
       "isNew": false,
@@ -374,7 +440,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67465954"
         }
       ],
-      "viewCount": 116,
+      "viewCount": 119,
       "rawPanId": "BN-0007700",
       "contentHash": "0f2f6ba00b89126c93706a149c86c89fbac92f7ce4455cdd1ab3c927700ef50c",
       "isNew": false,
@@ -448,7 +514,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67465974"
         }
       ],
-      "viewCount": 64,
+      "viewCount": 70,
       "rawPanId": "BN-0007701",
       "contentHash": "9bbba84ce6cb672ed7dba93a983e01a28697801f4078aa1f2860c84ea6e0f349",
       "isNew": false,
@@ -544,7 +610,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67477111"
         }
       ],
-      "viewCount": 94,
+      "viewCount": 98,
       "rawPanId": "BN-0007707",
       "contentHash": "cd37b8ed59131b3ac3ccca7d664b4fb10fd6c839d018b59461ac22636ba57ea7",
       "isNew": false,
@@ -598,7 +664,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67473717"
         }
       ],
-      "viewCount": 66,
+      "viewCount": 72,
       "rawPanId": "BN-0007706",
       "contentHash": "4ec1bda76f406503ee755e423efc992b11b2668b42654fb42e0d73e1763edbd4",
       "isNew": false,
@@ -652,7 +718,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67471948"
         }
       ],
-      "viewCount": 90,
+      "viewCount": 93,
       "rawPanId": "BN-0007702",
       "contentHash": "28fc05f7954615ef077db42a4ccbef1b306b82529ce86a889e5e3efab611f882",
       "isNew": false,
@@ -748,7 +814,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67472890"
         }
       ],
-      "viewCount": 40,
+      "viewCount": 46,
       "rawPanId": "BN-0007705",
       "contentHash": "32519e9d0e53700cdef9b9955fb4dffaf913d30ae0702cf81e5dfe17d572012d",
       "isNew": false,
@@ -874,7 +940,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67460656"
         }
       ],
-      "viewCount": 560,
+      "viewCount": 569,
       "rawPanId": "BN-0007698",
       "contentHash": "dcb18e075cebd5c4dcab4fd47995dca52b8b916820c10a9bbbbdf25eee7f63bd",
       "isNew": false,
@@ -928,7 +994,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67446372"
         }
       ],
-      "viewCount": 711,
+      "viewCount": 739,
       "rawPanId": "BN-0007691",
       "contentHash": "a31fa67f5cfde036f55603c08798fef932812b0c5c51d9f575e55470b4279fc1",
       "isNew": false,
@@ -982,7 +1048,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67455164"
         }
       ],
-      "viewCount": 350,
+      "viewCount": 366,
       "rawPanId": "BN-0007696",
       "contentHash": "7eacba7b9272c369ac94c6be5f66a5b013ab1f52d8a97365ee0a4fda0d5f992d",
       "isNew": false,
@@ -1056,7 +1122,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67455498"
         }
       ],
-      "viewCount": 179,
+      "viewCount": 192,
       "rawPanId": "BN-0007692",
       "contentHash": "3533c00b791d643d726affa9bb69150fe7c57b32c8fef2879940cb2f64f9687a",
       "isNew": false,
@@ -1126,7 +1192,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67447270"
         }
       ],
-      "viewCount": 80,
+      "viewCount": 87,
       "rawPanId": "BN-0007693",
       "contentHash": "ebb42a47c79318892bb0a69371fb2cbe57cc97fe0818a16c6cc852f89e718cd6",
       "isNew": false,
@@ -1184,7 +1250,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67419520"
         }
       ],
-      "viewCount": 256,
+      "viewCount": 262,
       "rawPanId": "BN-0007683",
       "contentHash": "42054f9caec2e8f137263040729498a088b315e170dfddae719e32887ef5760e",
       "isNew": false,
@@ -1238,7 +1304,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67374736"
         }
       ],
-      "viewCount": 555,
+      "viewCount": 565,
       "rawPanId": "BN-0007677",
       "contentHash": "f1d6a6f7d5e62b2e2f7538e3d705d087b6fb45dbfe75d53ae18f08a63d80ff7b",
       "isNew": false,
@@ -1259,7 +1325,7 @@
       "deadlineAt": "2026-06-25",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007690&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
       "attachments": [],
-      "viewCount": 130,
+      "viewCount": 135,
       "rawPanId": "BN-0007690",
       "contentHash": "7bc1b628abb648ed104acdf3fbcced91a637b3c91b66935e75acf5ae60404a3e",
       "isNew": false,
@@ -1301,7 +1367,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67418444"
         }
       ],
-      "viewCount": 370,
+      "viewCount": 404,
       "rawPanId": "BN-0007686",
       "contentHash": "98939a4177c0ae8378222a6fecb6c91186760697d173c830f5cff885eb1c08c2",
       "isNew": false,
@@ -1317,7 +1383,7 @@
       "noticeType": "토지",
       "noticeSubtype": null,
       "region": "경기도",
-      "status": "접수중",
+      "status": "접수마감",
       "postedAt": "2026-06-24",
       "deadlineAt": "2026-07-02",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007675&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
@@ -1351,11 +1417,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67404240"
         }
       ],
-      "viewCount": 665,
+      "viewCount": 713,
       "rawPanId": "BN-0007675",
-      "contentHash": "41340617606a295b44062f0c2ec82db2aebf7db13eadbe4a96686987f210f20f",
+      "contentHash": "38c3aaad113b54d16bbf7c0e7196b5656817146f5616b5165fe6fa388ea20ceb",
       "isNew": false,
-      "lastChangedAt": "2026-07-02T05:03:21.993Z"
+      "lastChangedAt": "2026-07-02T10:12:50.743Z"
     },
     {
       "id": "land-BN-0007685",
@@ -1409,7 +1475,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67409459"
         }
       ],
-      "viewCount": 513,
+      "viewCount": 538,
       "rawPanId": "BN-0007685",
       "contentHash": "a285247c28f21cf31f0dcbab1719b375882f8730a7ea4cf4d609795aa55ca53c",
       "isNew": false,
@@ -1467,7 +1533,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67408996"
         }
       ],
-      "viewCount": 398,
+      "viewCount": 400,
       "rawPanId": "BN-0007684",
       "contentHash": "fde5e47d9e2e68caee891c378ccaa292cfa71e88f47b2e21153097e8fb128c86",
       "isNew": false,
@@ -1483,7 +1549,7 @@
       "noticeType": "토지",
       "noticeSubtype": null,
       "region": "경기도",
-      "status": "접수중",
+      "status": "접수마감",
       "postedAt": "2026-06-23",
       "deadlineAt": "2026-07-02",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007673&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
@@ -1521,11 +1587,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67348433"
         }
       ],
-      "viewCount": 428,
+      "viewCount": 448,
       "rawPanId": "BN-0007673",
-      "contentHash": "141f1d56e4bbc431b353a55cc92a0fe87da3c66b1c0126bb6520304c1047ab12",
+      "contentHash": "442998270da80f605046111c865610335b9dbd2d61d05cffd0d9ae90a2f7b31e",
       "isNew": false,
-      "lastChangedAt": "2026-07-02T05:03:21.993Z"
+      "lastChangedAt": "2026-07-02T10:12:50.743Z"
     },
     {
       "id": "land-BN-0007634",
@@ -1571,7 +1637,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67354851"
         }
       ],
-      "viewCount": 116,
+      "viewCount": 118,
       "rawPanId": "BN-0007634",
       "contentHash": "a4f7543d2b06541a778be757799c7915ff577e7fa5d6f24ef36434b6687a6c59",
       "isNew": false,
@@ -1587,7 +1653,7 @@
       "noticeType": "토지",
       "noticeSubtype": null,
       "region": "경기도",
-      "status": "접수중",
+      "status": "접수마감",
       "postedAt": "2026-06-23",
       "deadlineAt": "2026-07-02",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007679&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
@@ -1621,11 +1687,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67397173"
         }
       ],
-      "viewCount": 260,
+      "viewCount": 273,
       "rawPanId": "BN-0007679",
-      "contentHash": "d31089ec0515ad5ad3a497c460b244789dd8babd1056b9f00d6eb5c2e2072632",
+      "contentHash": "52d9e8fbfbfd92bc2cd7092d5e98af5a8bd376c834a3431d1c173bc4458887c8",
       "isNew": false,
-      "lastChangedAt": "2026-07-02T05:03:21.993Z"
+      "lastChangedAt": "2026-07-02T10:12:50.743Z"
     },
     {
       "id": "land-BN-0007678",
@@ -1637,7 +1703,7 @@
       "noticeType": "토지",
       "noticeSubtype": null,
       "region": "전남광주통합특별시",
-      "status": "접수중",
+      "status": "접수마감",
       "postedAt": "2026-06-23",
       "deadlineAt": "2026-07-02",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007678&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
@@ -1683,11 +1749,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67389192"
         }
       ],
-      "viewCount": 223,
+      "viewCount": 227,
       "rawPanId": "BN-0007678",
-      "contentHash": "a6ef9d554858b549f3df6714fddd308b2396bad72cc911da1ad8ab38b1248bef",
+      "contentHash": "f67e876ff1a7ffddfe299775a2fefc3b2cffdeed92a2c64a0f7b9c51c2f352c2",
       "isNew": false,
-      "lastChangedAt": "2026-07-01T05:45:23.684Z"
+      "lastChangedAt": "2026-07-02T10:12:50.743Z"
     },
     {
       "id": "land-BN-0007653",
@@ -1721,7 +1787,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67378523"
         }
       ],
-      "viewCount": 611,
+      "viewCount": 628,
       "rawPanId": "BN-0007653",
       "contentHash": "48e0a2813e770bfdbc71b80178bab0a9f1b1d0a1c89ad2573bea2a6bb3a6341f",
       "isNew": false,
@@ -1771,7 +1837,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67371225"
         }
       ],
-      "viewCount": 424,
+      "viewCount": 430,
       "rawPanId": "BN-0007676",
       "contentHash": "db528a199f32b2a8916f2b03cb123dc6910eeeee23c02b0c52a26ebe31d69229",
       "isNew": false,
@@ -1867,7 +1933,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67296174"
         }
       ],
-      "viewCount": 981,
+      "viewCount": 989,
       "rawPanId": "BN-0007655",
       "contentHash": "febf4045dba99b64af93be28aaadbece4b51d33d06c1ab370cf58fe9d79789a0",
       "isNew": false,
@@ -1901,7 +1967,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67340859"
         }
       ],
-      "viewCount": 159,
+      "viewCount": 164,
       "rawPanId": "BN-0007672",
       "contentHash": "ca4bfdfc01f36cdffa0ff4522d930a8d9089b5f9ad42ae30748a35ad1dc72bed",
       "isNew": false,
@@ -1947,7 +2013,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309645"
         }
       ],
-      "viewCount": 655,
+      "viewCount": 665,
       "rawPanId": "BN-0007654",
       "contentHash": "fb02627493497cc699b709c906de4e4b8ea4d065498235ebc75a88275caade19",
       "isNew": false,
@@ -1989,7 +2055,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67327232"
         }
       ],
-      "viewCount": 359,
+      "viewCount": 364,
       "rawPanId": "BN-0007668",
       "contentHash": "86a83f7d8590d33f0fd769fa919bd7a2dceab45433a33206325acd420c669c27",
       "isNew": false,
@@ -2071,7 +2137,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67320560"
         }
       ],
-      "viewCount": 1258,
+      "viewCount": 1266,
       "rawPanId": "BN-0007666",
       "contentHash": "ea9922c94d15bd749f077b9338a04822c81eb850c7f9ba4673098de0a0c8d8d3",
       "isNew": false,
@@ -2129,7 +2195,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67293972"
         }
       ],
-      "viewCount": 242,
+      "viewCount": 245,
       "rawPanId": "BN-0007659",
       "contentHash": "8034bda2bb37c9833c9c03b39951d51c41d0e23698e4f120b97ef60a2570450d",
       "isNew": false,
@@ -2241,7 +2307,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67307817"
         }
       ],
-      "viewCount": 262,
+      "viewCount": 263,
       "rawPanId": "BN-0007662",
       "contentHash": "ab8abd14eb8433a135071676f0cfe01a7ba45ed1f8fd0b21b347264aa26ca331",
       "isNew": false,
@@ -2280,6 +2346,80 @@
       "contentHash": "b4a2ec60596ff9192d5ff13ccb7cd63e735de49e04097e239cd9dbbd4f824adf",
       "isNew": false,
       "lastChangedAt": "2026-07-01T05:45:23.684Z"
+    },
+    {
+      "id": "land-BN-0007664",
+      "source": "lh-land",
+      "category": "land",
+      "categoryLabel": "토지",
+      "sourceNoticeKey": "BN-0007664",
+      "title": "양주옥정 근린상업용지 공급공고",
+      "noticeType": "토지",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "접수마감",
+      "postedAt": "2026-06-17",
+      "deadlineAt": "2026-06-22",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007664&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
+      "attachments": [
+        {
+          "name": "01.양주옥정근린상업용지공급공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309355"
+        },
+        {
+          "name": "02.양주옥정근린상업용지공급팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309358"
+        },
+        {
+          "name": "03.공급대상토지목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309360"
+        },
+        {
+          "name": "04-1.토지이용계획도(옥정).dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309382"
+        },
+        {
+          "name": "04-2.가구및획지의규모와조서결정도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309391"
+        },
+        {
+          "name": "04-3.건축물및기타사항에관한결정(변경)도(옥정).dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309404"
+        },
+        {
+          "name": "04-4.지구단위계획조서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309405"
+        },
+        {
+          "name": "04-5.지구단위계획시행지침.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309410"
+        },
+        {
+          "name": "04-6.필지별제약사항.zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309423"
+        },
+        {
+          "name": "04-7.개발계획평면도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309425"
+        },
+        {
+          "name": "04-8.용도지역결정도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309434"
+        },
+        {
+          "name": "04-9.도시계획시설결정도.dwg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309452"
+        },
+        {
+          "name": "05.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309459"
+        }
+      ],
+      "viewCount": 319,
+      "rawPanId": "BN-0007664",
+      "contentHash": "aadde4a369e9f997d418ff6b4ff0940727f5dce871876b405b554b0f825c9478",
+      "isNew": false,
+      "lastChangedAt": "2026-06-22T12:53:58.461Z"
     },
     {
       "id": "land-BN-0007665",
@@ -2504,80 +2644,6 @@
       "lastChangedAt": "2026-06-22T12:53:58.461Z"
     },
     {
-      "id": "land-BN-0007664",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007664",
-      "title": "양주옥정 근린상업용지 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "접수마감",
-      "postedAt": "2026-06-17",
-      "deadlineAt": "2026-06-22",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007664&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "01.양주옥정근린상업용지공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309355"
-        },
-        {
-          "name": "02.양주옥정근린상업용지공급팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309358"
-        },
-        {
-          "name": "03.공급대상토지목록.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309360"
-        },
-        {
-          "name": "04-1.토지이용계획도(옥정).dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309382"
-        },
-        {
-          "name": "04-2.가구및획지의규모와조서결정도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309391"
-        },
-        {
-          "name": "04-3.건축물및기타사항에관한결정(변경)도(옥정).dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309404"
-        },
-        {
-          "name": "04-4.지구단위계획조서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309405"
-        },
-        {
-          "name": "04-5.지구단위계획시행지침.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309410"
-        },
-        {
-          "name": "04-6.필지별제약사항.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309423"
-        },
-        {
-          "name": "04-7.개발계획평면도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309425"
-        },
-        {
-          "name": "04-8.용도지역결정도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309434"
-        },
-        {
-          "name": "04-9.도시계획시설결정도.dwg",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309452"
-        },
-        {
-          "name": "05.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67309459"
-        }
-      ],
-      "viewCount": 319,
-      "rawPanId": "BN-0007664",
-      "contentHash": "aadde4a369e9f997d418ff6b4ff0940727f5dce871876b405b554b0f825c9478",
-      "isNew": false,
-      "lastChangedAt": "2026-06-22T12:53:58.461Z"
-    },
-    {
       "id": "land-BN-0007657",
       "source": "lh-land",
       "category": "land",
@@ -2637,49 +2703,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67284425"
         }
       ],
-      "viewCount": 186,
+      "viewCount": 189,
       "rawPanId": "BN-0007657",
       "contentHash": "72fe2a4a37fea735af91ca33bad9d865423fd2c8d1f19228a2e65d35de7a71bd",
       "isNew": false,
       "lastChangedAt": "2026-07-01T10:45:07.418Z"
-    },
-    {
-      "id": "land-BN-0007489",
-      "source": "lh-land",
-      "category": "land",
-      "categoryLabel": "토지",
-      "sourceNoticeKey": "BN-0007489",
-      "title": "시흥거모 공공주택지구 대토(근린생활시설용지) 공급공고",
-      "noticeType": "토지",
-      "noticeSubtype": null,
-      "region": "전국",
-      "status": "접수마감",
-      "postedAt": "2026-06-17",
-      "deadlineAt": "2026-06-24",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1062&panId=BN-0007489&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01",
-      "attachments": [
-        {
-          "name": "붙임1.시흥거모공공주택지구대토(근린생활시설용지)공급공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67302184"
-        },
-        {
-          "name": "붙임2-1.시흥거모참고자료1.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67302194"
-        },
-        {
-          "name": "붙임2-2.시흥거모참고자료2.zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67302235"
-        },
-        {
-          "name": "붙임3.토지취득자금조달및토지이용계획서(부동산거래신고등에관한법률시행규칙).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67302237"
-        }
-      ],
-      "viewCount": 253,
-      "rawPanId": "BN-0007489",
-      "contentHash": "05b0f9ccb2633875fc5a58ca2347dd6134bcaeb771b45436f999b1f97e87b21e",
-      "isNew": false,
-      "lastChangedAt": "2026-06-25T05:09:52.409Z"
     }
   ]
 }
