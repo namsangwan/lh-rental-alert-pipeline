@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-07-05T09:44:57.832Z",
+  "generatedAt": "2026-07-06T05:17:29.885Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 19,
+  "count": 20,
   "items": [
+    {
+      "id": "sale-0000061131",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061131",
+      "title": "광주선운2 A-1,3블록 신혼희망타운 공공분양 선착순계약",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "전국",
+      "status": "공고중",
+      "postedAt": "2026-07-06",
+      "deadlineAt": "2026-12-31",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061131&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "광주선운2신혼희망타운(공공분양)추가입주자모집공고문(선착순동호지정,20260706공고).hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559158"
+        },
+        {
+          "name": "광주선운2신혼희망타운(공공분양)추가입주자모집공고문(선착순동호지정,20260706공고).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559162"
+        },
+        {
+          "name": "(팜플렛)광주선운2신혼희망타운.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559171"
+        },
+        {
+          "name": "A-1블록동호판(20260706기준).xlsm",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559185"
+        },
+        {
+          "name": "A-3블록동호판(20260706기준).xlsm",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559188"
+        },
+        {
+          "name": "개인정보수집이용및제3자제공동의서.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559220"
+        },
+        {
+          "name": "위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559201"
+        }
+      ],
+      "viewCount": 362,
+      "rawPanId": "0000061131",
+      "contentHash": "dfe43ec19fd9fc21be6ccecc12b1156c580036046eb65d0fc9f27ae90e83e1cb",
+      "isNew": true,
+      "lastChangedAt": "2026-07-06T05:17:29.885Z"
+    },
     {
       "id": "sale-0000061129",
       "source": "lh-sale",
@@ -44,7 +94,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67558116"
         }
       ],
-      "viewCount": 3366,
+      "viewCount": 5238,
       "rawPanId": "0000061129",
       "contentHash": "2cd290648ae1f249a2bc898719b8dc755ee6df1ec0633ccde0b9521b9dbc4eb6",
       "isNew": false,
@@ -102,7 +152,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67533685"
         }
       ],
-      "viewCount": 10612,
+      "viewCount": 13200,
       "rawPanId": "0000061126",
       "contentHash": "f3f9de030438c37375b48adf22c5ac37f3c109f98f36201c9079e56b6f8e075e",
       "isNew": false,
@@ -136,7 +186,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67470655"
         }
       ],
-      "viewCount": 1124,
+      "viewCount": 1274,
       "rawPanId": "2015122300020248",
       "contentHash": "54b415945da3757726daaf3ff7dff4c1ad2f2ae3e63d8454d652e4240c486cfb",
       "isNew": false,
@@ -178,7 +228,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67487694"
         }
       ],
-      "viewCount": 9602,
+      "viewCount": 10572,
       "rawPanId": "2015122300020254",
       "contentHash": "6331fffe295c963a3ce02d1aa3fc6aae9204766593ab9b5bc0a698b8eec62305",
       "isNew": false,
@@ -228,7 +278,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67488392"
         }
       ],
-      "viewCount": 54956,
+      "viewCount": 58695,
       "rawPanId": "0000061121",
       "contentHash": "0509966b4826445761ff73ca722fd326f8db9a9c14001c2b3ca70af6a9c88a61",
       "isNew": false,
@@ -290,53 +340,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67499788"
         }
       ],
-      "viewCount": 32647,
+      "viewCount": 34473,
       "rawPanId": "0000061117",
       "contentHash": "576aa03ae5752ccea2ed0472e960bd617ec2aa2bc7462970f3886759fc6dca35",
       "isNew": false,
       "lastChangedAt": "2026-06-30T10:33:58.719Z"
-    },
-    {
-      "id": "sale-0000061109",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061109",
-      "title": "양주회천 A24블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-06-30",
-      "deadlineAt": "2026-07-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061109&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "붙임.(양주회천A24)공공분양주택입주자추가모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484978"
-        },
-        {
-          "name": "붙임.(양주회천A24)공공분양주택입주자추가모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484955"
-        },
-        {
-          "name": "양주회천A24BL팜플렛.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484986"
-        },
-        {
-          "name": "1-2.위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67485010"
-        },
-        {
-          "name": "동호배치도(양주회천A24BL).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67485006"
-        }
-      ],
-      "viewCount": 5079,
-      "rawPanId": "0000061109",
-      "contentHash": "563e0e0e3ef13c4edb5ad935e6898e54608c0f4b9844af7cb64f8f9ceb537526",
-      "isNew": false,
-      "lastChangedAt": "2026-06-30T05:10:47.086Z"
     },
     {
       "id": "sale-0000061114",
@@ -378,7 +386,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67494614"
         }
       ],
-      "viewCount": 4067,
+      "viewCount": 4479,
       "rawPanId": "0000061114",
       "contentHash": "801c60eaa1777de987571ec56fbabc4a1ec8da3b2d22bc260656483d73dca2e5",
       "isNew": false,
@@ -424,9 +432,51 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484536"
         }
       ],
-      "viewCount": 6405,
+      "viewCount": 7072,
       "rawPanId": "0000061110",
       "contentHash": "d880aed595a8718a7312f6504c824fc48e10ed7cba447fe7bdc4d924a7b6a7f1",
+      "isNew": false,
+      "lastChangedAt": "2026-06-30T05:10:47.086Z"
+    },
+    {
+      "id": "sale-0000061109",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061109",
+      "title": "양주회천 A24블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-06-30",
+      "deadlineAt": "2026-07-15",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061109&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "붙임.(양주회천A24)공공분양주택입주자추가모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484978"
+        },
+        {
+          "name": "붙임.(양주회천A24)공공분양주택입주자추가모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484955"
+        },
+        {
+          "name": "양주회천A24BL팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67484986"
+        },
+        {
+          "name": "1-2.위임장.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67485010"
+        },
+        {
+          "name": "동호배치도(양주회천A24BL).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67485006"
+        }
+      ],
+      "viewCount": 5550,
+      "rawPanId": "0000061109",
+      "contentHash": "563e0e0e3ef13c4edb5ad935e6898e54608c0f4b9844af7cb64f8f9ceb537526",
       "isNew": false,
       "lastChangedAt": "2026-06-30T05:10:47.086Z"
     },
@@ -470,7 +520,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67456742"
         }
       ],
-      "viewCount": 9725,
+      "viewCount": 10505,
       "rawPanId": "2015122300020237",
       "contentHash": "1696bd3d3eb2316bf56d03836bd02d44818f824069323aab1296573ad61fc2fd",
       "isNew": false,
@@ -528,7 +578,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67461862"
         }
       ],
-      "viewCount": 23523,
+      "viewCount": 24616,
       "rawPanId": "0000061118",
       "contentHash": "adf91ed9f3ad4c819e619a3558abaeb130f7bf63375def72777953dfe9bef5d7",
       "isNew": false,
@@ -586,7 +636,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67449766"
         }
       ],
-      "viewCount": 11716,
+      "viewCount": 12259,
       "rawPanId": "0000061113",
       "contentHash": "359aee9946c5fa743f5c3f718bae60b529752dd23b45ab2cbf9dd01023bdf519",
       "isNew": false,
@@ -636,7 +686,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67406928"
         }
       ],
-      "viewCount": 5719,
+      "viewCount": 6037,
       "rawPanId": "0000061112",
       "contentHash": "c716e17035fa4db7c1a7f8cca5b4a9a6175e011a40a7e9f642f4cee10409b0f0",
       "isNew": false,
@@ -674,7 +724,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67196571"
         }
       ],
-      "viewCount": 6654,
+      "viewCount": 6824,
       "rawPanId": "2015122300020098",
       "contentHash": "f86af8c1be5bce886ead97f958619fff70f6886a670b3fd93f3df033fb3d4481",
       "isNew": false,
@@ -712,7 +762,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67048729"
         }
       ],
-      "viewCount": 9409,
+      "viewCount": 9556,
       "rawPanId": "2015122300020037",
       "contentHash": "20184df399dfaf9e8f3bb60950f0d529838c0adea3ee7f4c82af5fd246fc0b6a",
       "isNew": false,
@@ -770,7 +820,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67055756"
         }
       ],
-      "viewCount": 145158,
+      "viewCount": 146021,
       "rawPanId": "0000061094",
       "contentHash": "7452cca2d0b5aa93f8654a968cc647a65c71fe9207c9d7956d37c68ecb39b5da",
       "isNew": false,
@@ -812,7 +862,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66970539"
         }
       ],
-      "viewCount": 15816,
+      "viewCount": 15982,
       "rawPanId": "0000061097",
       "contentHash": "33b3b43e143a9737679877401804047670101396690192102f8a026e79e90ace",
       "isNew": false,
@@ -858,7 +908,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66962255"
         }
       ],
-      "viewCount": 10669,
+      "viewCount": 10786,
       "rawPanId": "0000061096",
       "contentHash": "68c41bb68aaf1ea49df45bb7b88dbf2e66623b0a5a21dfc8b927a3eefcff2315",
       "isNew": false,
@@ -908,7 +958,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=66947748"
         }
       ],
-      "viewCount": 13793,
+      "viewCount": 13969,
       "rawPanId": "0000061095",
       "contentHash": "ea97b8ab304243fd2de5ebf9fe37b6e220a549ab41297d31ac53ac92e30a17e0",
       "isNew": false,
