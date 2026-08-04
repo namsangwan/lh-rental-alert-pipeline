@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T04:17:38.501Z",
+  "generatedAt": "2026-08-04T07:43:29.739Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "id": "sale-0000061133",
@@ -40,7 +40,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67923411"
         }
       ],
-      "viewCount": 15825,
+      "viewCount": 16890,
       "rawPanId": "0000061133",
       "contentHash": "2da9fe02967b61a4b952d8c287d4d506de311ccb02a5e6a09ec9f7c933f749b6",
       "isNew": false,
@@ -86,69 +86,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67855911"
         }
       ],
-      "viewCount": 19036,
+      "viewCount": 19811,
       "rawPanId": "0000061116",
       "contentHash": "1056def1055b38c2bc7aac4db9fd3e7bcd3ec726a6a155051334ffff83d9664e",
       "isNew": false,
       "lastChangedAt": "2026-07-27T08:37:08.197Z"
-    },
-    {
-      "id": "sale-0000061150",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061150",
-      "title": "[정정공고]수원당수 A5블록 신혼희망타운(공공분양) 잔여세대 추가입주자 모집공고",
-      "noticeType": "공공분양",
-      "noticeSubtype": "신혼희망",
-      "region": "경기도",
-      "status": "접수중",
-      "postedAt": "2026-07-24",
-      "deadlineAt": "2026-08-04",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061150&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
-      "attachments": [
-        {
-          "name": "수원당수A5블록신혼희망타운(공공분양)추가입주자모집공고문(정정).hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840754"
-        },
-        {
-          "name": "수원당수A5블록신혼희망타운(공공분양)추가입주자모집공고문(정정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840757"
-        },
-        {
-          "name": "팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840773"
-        },
-        {
-          "name": "1.위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840780"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840788"
-        },
-        {
-          "name": "3-1.금융정보등제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840795"
-        },
-        {
-          "name": "3-2.금융정보등제공동의서-작성방법.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840799"
-        },
-        {
-          "name": "4.자산보유사실확인서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840803"
-        },
-        {
-          "name": "잔여세대동호배치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67841195"
-        }
-      ],
-      "viewCount": 29985,
-      "rawPanId": "0000061150",
-      "contentHash": "e89a0e7290c2c03d559feb78d29c93be8f6d793026328fa99040dc0a9a72d3f5",
-      "isNew": false,
-      "lastChangedAt": "2026-08-03T04:34:53.553Z"
     },
     {
       "id": "sale-0000061149",
@@ -190,7 +132,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67811438"
         }
       ],
-      "viewCount": 3258,
+      "viewCount": 3305,
       "rawPanId": "0000061149",
       "contentHash": "733b7b5d85bda2a403a059a6d78c3949acc6000acd6d23bf6de6fa5f25c041f3",
       "isNew": false,
@@ -224,69 +166,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67821143"
         }
       ],
-      "viewCount": 9072,
+      "viewCount": 9530,
       "rawPanId": "2015122300020447",
       "contentHash": "f0687b8c5e6b6c163beae56c7641cce475501d959eb05a1b9ae450a555650f2e",
       "isNew": false,
       "lastChangedAt": "2026-07-23T11:15:19.181Z"
-    },
-    {
-      "id": "sale-0000061142",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061142",
-      "title": "수원당수 A5블록 신혼희망타운(공공분양) 잔여세대 추가입주자 모집공고",
-      "noticeType": "공공분양",
-      "noticeSubtype": "신혼희망",
-      "region": "경기도",
-      "status": "정정공고중",
-      "postedAt": "2026-07-23",
-      "deadlineAt": "2026-08-04",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061142&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
-      "attachments": [
-        {
-          "name": "수원당수A5블록신혼희망타운(공공분양)추가입주자모집공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67805121"
-        },
-        {
-          "name": "수원당수A5블록신혼희망타운(공공분양)추가입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67805116"
-        },
-        {
-          "name": "팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781874"
-        },
-        {
-          "name": "1.위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781893"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781901"
-        },
-        {
-          "name": "3-1.금융정보등제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781905"
-        },
-        {
-          "name": "3-2.금융정보등제공동의서-작성방법.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781915"
-        },
-        {
-          "name": "4.자산보유사실확인서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781917"
-        },
-        {
-          "name": "잔여세대동호배치도.xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67781886"
-        }
-      ],
-      "viewCount": 10900,
-      "rawPanId": "0000061142",
-      "contentHash": "4f8fc81b04084ed74d55e68b872dd80d4e1bbb8a905fb55062054861a9018799",
-      "isNew": false,
-      "lastChangedAt": "2026-07-24T07:36:12.111Z"
     },
     {
       "id": "sale-0000061145",
@@ -328,7 +212,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727314"
         }
       ],
-      "viewCount": 8788,
+      "viewCount": 8867,
       "rawPanId": "0000061145",
       "contentHash": "80184c44f995f22e9842d6b5eaaa1b25e02caac1f4891aebcecdb2aa826e3368",
       "isNew": false,
@@ -374,7 +258,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720892"
         }
       ],
-      "viewCount": 4685,
+      "viewCount": 4719,
       "rawPanId": "0000061143",
       "contentHash": "9c1ced1907a07ee9fe9d958a5a1f9955dcc4d126d59b259f3dab525c954ad456",
       "isNew": false,
@@ -416,7 +300,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67700540"
         }
       ],
-      "viewCount": 7387,
+      "viewCount": 7447,
       "rawPanId": "0000061141",
       "contentHash": "2c7f631cf7c5670fb8173e11a8e4b628c336eeb646d30b76e52b5189ad5b8ea8",
       "isNew": false,
@@ -450,7 +334,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67610822"
         }
       ],
-      "viewCount": 11080,
+      "viewCount": 11142,
       "rawPanId": "2015122300020325",
       "contentHash": "812aa40d4b786d0b5970607fdac7858d6e3431c363fd270eddab4076615ab105",
       "isNew": false,
@@ -500,7 +384,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559201"
         }
       ],
-      "viewCount": 7513,
+      "viewCount": 7551,
       "rawPanId": "0000061131",
       "contentHash": "dfe43ec19fd9fc21be6ccecc12b1156c580036046eb65d0fc9f27ae90e83e1cb",
       "isNew": false,
@@ -534,7 +418,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67470655"
         }
       ],
-      "viewCount": 5112,
+      "viewCount": 5135,
       "rawPanId": "2015122300020248",
       "contentHash": "54b415945da3757726daaf3ff7dff4c1ad2f2ae3e63d8454d652e4240c486cfb",
       "isNew": false,
@@ -572,7 +456,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67196571"
         }
       ],
-      "viewCount": 12390,
+      "viewCount": 12434,
       "rawPanId": "2015122300020098",
       "contentHash": "f86af8c1be5bce886ead97f958619fff70f6886a670b3fd93f3df033fb3d4481",
       "isNew": false,
