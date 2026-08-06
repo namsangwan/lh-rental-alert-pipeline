@@ -1,9 +1,47 @@
 {
-  "generatedAt": "2026-08-06T07:44:05.314Z",
+  "generatedAt": "2026-08-06T11:28:04.205Z",
   "category": "rental",
   "categoryLabel": "임대",
   "count": 50,
   "items": [
+    {
+      "id": "rental-2015122300020503",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020503",
+      "title": "[전북지역본부] 2026년 2차 전주시 든든전세주택 입주자 모집 공고(비분양전환형)",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "전북특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-08-06",
+      "deadlineAt": "2026-08-20",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020503&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "(전북지역본부)26년2차든든전세입주자모집공고문.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68002589"
+        },
+        {
+          "name": "(전북지역본부)26년2차든든전세입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68002588"
+        },
+        {
+          "name": "(전북지역본부)26년2차든든전세주택공급목록.xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68002587"
+        },
+        {
+          "name": "26년든든전세주택_QnA.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68000649"
+        }
+      ],
+      "viewCount": 557,
+      "rawPanId": "2015122300020503",
+      "contentHash": "540c53c7a25778abb4ec3284364e86971a090390d607869eb86897b965d3e060",
+      "isNew": true,
+      "lastChangedAt": "2026-08-06T11:28:04.205Z"
+    },
     {
       "id": "rental-2015122300020499",
       "source": "lh-rental",
@@ -36,10 +74,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67951572"
         }
       ],
-      "viewCount": 139,
+      "viewCount": 465,
       "rawPanId": "2015122300020499",
       "contentHash": "e049530818ae05b4b3abf6cdeae903ac1b966b86350f1589eeec06daf526e968",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-08-06T07:44:05.314Z"
     },
     {
@@ -66,10 +104,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68025024"
         }
       ],
-      "viewCount": 411,
+      "viewCount": 965,
       "rawPanId": "2015122300020530",
       "contentHash": "640131e6f353bd7c13a99f3108a64af9092b61339f288ea8c26630a4b17379de",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-08-06T07:44:05.314Z"
     },
     {
@@ -136,40 +174,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68015540"
         }
       ],
-      "viewCount": 1519,
+      "viewCount": 3120,
       "rawPanId": "2015122300020525",
       "contentHash": "dd0f60a46d8e1f6878e7ab56533256a57b18c1c3936272c890d5f520bc3a4435",
-      "isNew": true,
-      "lastChangedAt": "2026-08-06T07:44:05.314Z"
-    },
-    {
-      "id": "rental-0000061151",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "0000061151",
-      "title": "김해진영2 B5블록(센텀큐브) 10년 공공임대주택리츠 예비입주자 모집 공고",
-      "noticeType": "공공임대",
-      "noticeSubtype": null,
-      "region": "경상남도",
-      "status": "공고중",
-      "postedAt": "2026-08-06",
-      "deadlineAt": "2026-08-19",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=0000061151&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08",
-      "attachments": [
-        {
-          "name": "20260806_김해진영2B5블록(센텀큐브)예비입주자모집.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67888811"
-        },
-        {
-          "name": "20260806_김해진영2B5블록(센텀큐브)예비입주자모집.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67888826"
-        }
-      ],
-      "viewCount": 377,
-      "rawPanId": "0000061151",
-      "contentHash": "e14bb147142adec60f7b472c5b49cfa301eeab547dfb8734f0d7326113a873ed",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-08-06T07:44:05.314Z"
     },
     {
@@ -196,10 +204,40 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67954596"
         }
       ],
-      "viewCount": 292,
+      "viewCount": 464,
       "rawPanId": "2015122300020500",
       "contentHash": "5ace476fdebc34c8fb74d745d83ea8f482a05774e264e0eeee58c8d30df65984",
-      "isNew": true,
+      "isNew": false,
+      "lastChangedAt": "2026-08-06T07:44:05.314Z"
+    },
+    {
+      "id": "rental-0000061151",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "0000061151",
+      "title": "김해진영2 B5블록(센텀큐브) 10년 공공임대주택리츠 예비입주자 모집 공고",
+      "noticeType": "공공임대",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-08-06",
+      "deadlineAt": "2026-08-19",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=0000061151&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08",
+      "attachments": [
+        {
+          "name": "20260806_김해진영2B5블록(센텀큐브)예비입주자모집.hwp",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67888811"
+        },
+        {
+          "name": "20260806_김해진영2B5블록(센텀큐브)예비입주자모집.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67888826"
+        }
+      ],
+      "viewCount": 609,
+      "rawPanId": "0000061151",
+      "contentHash": "e14bb147142adec60f7b472c5b49cfa301eeab547dfb8734f0d7326113a873ed",
+      "isNew": false,
       "lastChangedAt": "2026-08-06T07:44:05.314Z"
     },
     {
@@ -226,7 +264,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68017520"
         }
       ],
-      "viewCount": 519,
+      "viewCount": 607,
       "rawPanId": "2015122300020527",
       "contentHash": "b34a921c0dd6842ccd1dd9a6df5ec1f7c82fdd56358847811c26a7bf2eb9b7c4",
       "isNew": false,
@@ -256,7 +294,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67905782"
         }
       ],
-      "viewCount": 390,
+      "viewCount": 495,
       "rawPanId": "2015122300020473",
       "contentHash": "64b082e3a716fdf61fe8b8d4d44f3286901765d29633a2ce60043e2e4cf8bd40",
       "isNew": false,
@@ -294,7 +332,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67979316"
         }
       ],
-      "viewCount": 1037,
+      "viewCount": 1351,
       "rawPanId": "2015122300020444",
       "contentHash": "970159e45a3595fb48e332aa016d831089c6cd9d6e8e22216ea37ac03a86c23f",
       "isNew": false,
@@ -324,7 +362,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67998195"
         }
       ],
-      "viewCount": 7945,
+      "viewCount": 9211,
       "rawPanId": "2015122300020411",
       "contentHash": "3b273fdf27c4fd10a6a028da841868dbaca9f2c159b32b00499cb00ebd79c84f",
       "isNew": false,
@@ -354,7 +392,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67988674"
         }
       ],
-      "viewCount": 8245,
+      "viewCount": 9528,
       "rawPanId": "2015122300020515",
       "contentHash": "63e027f60bba65a1a81da63cb984c5a530d25236c5ef96dcdeea07af99756313",
       "isNew": false,
@@ -392,7 +430,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67939844"
         }
       ],
-      "viewCount": 7882,
+      "viewCount": 9385,
       "rawPanId": "2015122300020492",
       "contentHash": "a2b9db888a77204a0d21a8cb381b1db440ca879507274dccc6ea4110b1813b39",
       "isNew": false,
@@ -442,7 +480,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67979900"
         }
       ],
-      "viewCount": 10105,
+      "viewCount": 11671,
       "rawPanId": "2015122300020511",
       "contentHash": "5e529ce02719a8c61e8915b8101b9d3c2fc71a1d5f7d3c18d2907664c88f2a9c",
       "isNew": false,
@@ -476,7 +514,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67993847"
         }
       ],
-      "viewCount": 1222,
+      "viewCount": 1392,
       "rawPanId": "2015122300020516",
       "contentHash": "16fe3efd03e05439984169d9f6da0444403ad7cf97b68fc101e240c23a5a9676",
       "isNew": false,
@@ -534,7 +572,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68004603"
         }
       ],
-      "viewCount": 5959,
+      "viewCount": 6636,
       "rawPanId": "2015122300020521",
       "contentHash": "54c8e2cf9d46deefcc16bc193d0eaab13d9ca2dc12486c4418660ede84166fcb",
       "isNew": false,
@@ -592,7 +630,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68004181"
         }
       ],
-      "viewCount": 11486,
+      "viewCount": 12931,
       "rawPanId": "2015122300020519",
       "contentHash": "ed5da375070bb14061dd40960ebaacd45efa630091b6011313375f6da482a8ff",
       "isNew": false,
@@ -622,7 +660,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68004198"
         }
       ],
-      "viewCount": 985,
+      "viewCount": 1050,
       "rawPanId": "2015122300020520",
       "contentHash": "21561cb5388853787224b00a87c94ddb6247b8e052945ca66db088946acbf360",
       "isNew": false,
@@ -656,7 +694,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67987249"
         }
       ],
-      "viewCount": 7481,
+      "viewCount": 7921,
       "rawPanId": "2015122300020514",
       "contentHash": "3480884dbbdcabf7793bc01ae9992076bc7dfb9f56ce7728afd7e7dc21898770",
       "isNew": false,
@@ -694,7 +732,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67936621"
         }
       ],
-      "viewCount": 1445,
+      "viewCount": 1499,
       "rawPanId": "2015122300020467",
       "contentHash": "9fc6dee346ed27b85a71779c8a86e4ae34e91206c4a59fd7783f868afefcf890",
       "isNew": false,
@@ -724,7 +762,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67972224"
         }
       ],
-      "viewCount": 3745,
+      "viewCount": 3843,
       "rawPanId": "2015122300020508",
       "contentHash": "48be3979da907a3954ec5b1d149815a56d2d151fb567f716cd1a1c847a302bc3",
       "isNew": false,
@@ -754,7 +792,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67942922"
         }
       ],
-      "viewCount": 4133,
+      "viewCount": 4236,
       "rawPanId": "2015122300020495",
       "contentHash": "a810471c0374ad248bba06712fab6b969fbdbabad39c12291682017bad3fde80",
       "isNew": false,
@@ -784,7 +822,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67973091"
         }
       ],
-      "viewCount": 1300,
+      "viewCount": 1326,
       "rawPanId": "2015122300020510",
       "contentHash": "aeb0b4ee7e7a336c396f5356e948ff143460b114c8e469a1036e66cbb3462b89",
       "isNew": false,
@@ -814,7 +852,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67972933"
         }
       ],
-      "viewCount": 1215,
+      "viewCount": 1249,
       "rawPanId": "2015122300020509",
       "contentHash": "3c7ce4e422890054937ad0a7bb1a6d3cf15354e6dcbbad3aab146c1933aa2780",
       "isNew": false,
@@ -848,7 +886,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67775131"
         }
       ],
-      "viewCount": 3312,
+      "viewCount": 3393,
       "rawPanId": "2015122300020426",
       "contentHash": "bd808a6b57fcc6dd2dcd83a84b66d44618720d456f2fe40ba40b1f6b4f5cab03",
       "isNew": false,
@@ -882,7 +920,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67958888"
         }
       ],
-      "viewCount": 4603,
+      "viewCount": 4741,
       "rawPanId": "2015122300020502",
       "contentHash": "6bfc9ed7b2e9640b8959b766c9a57333515e21632f3821bdc3d181b5b67cc0b6",
       "isNew": false,
@@ -912,7 +950,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67956434"
         }
       ],
-      "viewCount": 2636,
+      "viewCount": 2703,
       "rawPanId": "2015122300020501",
       "contentHash": "759b71de7a00649834ebfc3fbe8795155489eeb02ecb64f5f02113384b640919",
       "isNew": false,
@@ -942,7 +980,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67928559"
         }
       ],
-      "viewCount": 10955,
+      "viewCount": 11405,
       "rawPanId": "2015122300020486",
       "contentHash": "e0e801c7c07a3ee2eea45f4eaf5cc2ad204478df8e136d4a5d869f916e2250ce",
       "isNew": false,
@@ -972,7 +1010,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67921977"
         }
       ],
-      "viewCount": 31817,
+      "viewCount": 32926,
       "rawPanId": "2015122300020480",
       "contentHash": "513434039d0502ea809c73caebbe77d460567c09bd1f1c38dad062a50ef1aed5",
       "isNew": false,
@@ -1002,7 +1040,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67866528"
         }
       ],
-      "viewCount": 5811,
+      "viewCount": 6022,
       "rawPanId": "2015122300020463",
       "contentHash": "6db7fca2eed306c15d0a4668fec8bfb528f66f0404dfef2a53acfe96cf757857",
       "isNew": false,
@@ -1032,7 +1070,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67927835"
         }
       ],
-      "viewCount": 3089,
+      "viewCount": 3183,
       "rawPanId": "2015122300020485",
       "contentHash": "42f9090bd85fc7a30507a7c458a8be7614d69deb06f66061a9880c1fb0b5e8af",
       "isNew": false,
@@ -1062,7 +1100,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67935339"
         }
       ],
-      "viewCount": 19343,
+      "viewCount": 19976,
       "rawPanId": "2015122300020487",
       "contentHash": "0629ccc64418ab5a5ab94cabc2a14941a4af065a1b9122cc6a806da094b9d9ec",
       "isNew": false,
@@ -1092,7 +1130,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67946360"
         }
       ],
-      "viewCount": 2834,
+      "viewCount": 2909,
       "rawPanId": "2015122300020493",
       "contentHash": "1c4d396b3a5e6746537e51d5bf4243c7ba2ba4201710d3d24e3f469e6f6139bb",
       "isNew": false,
@@ -1122,7 +1160,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67937224"
         }
       ],
-      "viewCount": 2676,
+      "viewCount": 2763,
       "rawPanId": "2015122300020481",
       "contentHash": "f24a7910ff807eb8ea97225d038532bd1763f5abbb3bdae0f2a106d35a06c82b",
       "isNew": false,
@@ -1152,7 +1190,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67941031"
         }
       ],
-      "viewCount": 2684,
+      "viewCount": 2797,
       "rawPanId": "2015122300020494",
       "contentHash": "b75aa11c494cf0e7ca7b5d1c2c6964e8ca91d8e4344be4b2ebdc86f02c7a6ccd",
       "isNew": false,
@@ -1182,7 +1220,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67937326"
         }
       ],
-      "viewCount": 9014,
+      "viewCount": 9403,
       "rawPanId": "2015122300020489",
       "contentHash": "4deb8d62c839c0f61384b2e0697911d5d7645f580c0350d4112e9df1e912b08b",
       "isNew": false,
@@ -1216,7 +1254,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67937368"
         }
       ],
-      "viewCount": 5846,
+      "viewCount": 6121,
       "rawPanId": "2015122300020491",
       "contentHash": "9925551a44cb729c19728f93b9432aa9d039a62fe78b06f9947b1412d52c7eb7",
       "isNew": false,
@@ -1246,7 +1284,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67919821"
         }
       ],
-      "viewCount": 3340,
+      "viewCount": 3485,
       "rawPanId": "2015122300020478",
       "contentHash": "9df7215dfb33c34e456d5efae70ac703763d50472b4105e95c7cd35d09609873",
       "isNew": false,
@@ -1276,7 +1314,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67851172"
         }
       ],
-      "viewCount": 4410,
+      "viewCount": 4436,
       "rawPanId": "2015122300020459",
       "contentHash": "a7f5d049dda90e451944ebf92e3bb04c659d0a8698408f73000aa53f2c9417a0",
       "isNew": false,
@@ -1322,7 +1360,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67912369"
         }
       ],
-      "viewCount": 12735,
+      "viewCount": 13070,
       "rawPanId": "2015122300020476",
       "contentHash": "6af13172f1c0b493ac2458b3e31ea5687391d4be9ddbb3a8aefd42abb57a7554",
       "isNew": false,
@@ -1364,7 +1402,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67904381"
         }
       ],
-      "viewCount": 28888,
+      "viewCount": 29370,
       "rawPanId": "2015122300020471",
       "contentHash": "769875e28a279e07d8518a6818537de18fdcd0ebb4e094cb8c11f542b9d59659",
       "isNew": false,
@@ -1402,7 +1440,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67933298"
         }
       ],
-      "viewCount": 29842,
+      "viewCount": 30461,
       "rawPanId": "2015122300020469",
       "contentHash": "974ce3d37e82a32623ff1248fe384650259013f1e2ad39fd3d040c388f3b8f93",
       "isNew": false,
@@ -1436,7 +1474,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67936630"
         }
       ],
-      "viewCount": 39582,
+      "viewCount": 40740,
       "rawPanId": "2015122300020488",
       "contentHash": "c6980cbc2628e44d81b92b829e4ba981b061d839b6c33a3d1c88155919018b7e",
       "isNew": false,
@@ -1474,7 +1512,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67927773"
         }
       ],
-      "viewCount": 11892,
+      "viewCount": 12211,
       "rawPanId": "2015122300020484",
       "contentHash": "c0e53ad1d1f76c2526228763bc55948bcdbdd778c9cbc88053daddf42ae8a930",
       "isNew": false,
@@ -1512,7 +1550,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67920831"
         }
       ],
-      "viewCount": 72575,
+      "viewCount": 73973,
       "rawPanId": "2015122300020470",
       "contentHash": "142d6bb7afc362de0aac40e67940adac7454b1ef00d2b456c98c46049e39ad4a",
       "isNew": false,
@@ -1550,7 +1588,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67927206"
         }
       ],
-      "viewCount": 10460,
+      "viewCount": 10732,
       "rawPanId": "2015122300020483",
       "contentHash": "cffd394ade306a38a8eab7cbff865e6c5dde95eb80f1c26c7f00973f93f07c37",
       "isNew": false,
@@ -1584,7 +1622,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67755158"
         }
       ],
-      "viewCount": 15826,
+      "viewCount": 16092,
       "rawPanId": "2015122300020424",
       "contentHash": "10221243786116af03fdf5b23d949614a2413fbbbbf980436c62a14ce70310c0",
       "isNew": false,
@@ -1614,7 +1652,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67837147"
         }
       ],
-      "viewCount": 4018,
+      "viewCount": 4064,
       "rawPanId": "2015122300020453",
       "contentHash": "02a637be5e80a5b47c0e3d9238579b43a634f3e15dcc83fc45f722a29616e6db",
       "isNew": false,
@@ -1648,7 +1686,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67888052"
         }
       ],
-      "viewCount": 8332,
+      "viewCount": 8486,
       "rawPanId": "2015122300020466",
       "contentHash": "20063c95f21a619af7bacd5538e72bebd8084445de866f255d92558d96d2a969",
       "isNew": false,
@@ -1678,7 +1716,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67841154"
         }
       ],
-      "viewCount": 2599,
+      "viewCount": 2618,
       "rawPanId": "2015122300020455",
       "contentHash": "cd9efab2cf64762f368658320c8f08d81a7c5a6ff7882b899edff6157b322b68",
       "isNew": false,
@@ -1708,41 +1746,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67840765"
         }
       ],
-      "viewCount": 2224,
+      "viewCount": 2242,
       "rawPanId": "2015122300020454",
       "contentHash": "e40381ee9823bbf961db91e9d34f5552e279fad75f7a77987fe0ad6c11589d9b",
       "isNew": false,
       "lastChangedAt": "2026-08-03T08:34:11.544Z"
-    },
-    {
-      "id": "rental-2015122300020472",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020472",
-      "title": "청주시 · 진천군 국민임대(매입형)주택 자격완화 예비입주자 모집(2026.07.30)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "충청북도",
-      "status": "공고중",
-      "postedAt": "2026-07-30",
-      "deadlineAt": "2026-08-13",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020472&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(공고)부도임대_청주시및진천군국민임대주택자격완화예비입주자모집공고(2026.07.30)최종.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67904715"
-        },
-        {
-          "name": "(공고)부도임대_청주시및진천군국민임대주택자격완화예비입주자모집공고(2026.07.30)최종.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67904717"
-        }
-      ],
-      "viewCount": 7733,
-      "rawPanId": "2015122300020472",
-      "contentHash": "0d0914b58a81ecc5f06cb0277456009bf1b537fb742d846012a57a8e22b47065",
-      "isNew": false,
-      "lastChangedAt": "2026-07-30T07:37:46.706Z"
     }
   ]
 }
