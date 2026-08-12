@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-08-12T03:24:52.873Z",
+  "generatedAt": "2026-08-12T06:19:18.021Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "sale-2015122300020517",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300020517",
+      "title": "중동 경남아너스빌 잔여세대 일반매각 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "부산광역시",
+      "status": "공고중",
+      "postedAt": "2026-08-12",
+      "deadlineAt": "2026-08-26",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020517&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "중동경남아너스빌일반매각공고문(최종).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68071096"
+        },
+        {
+          "name": "중동경남아너스빌일반매각공고문(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68071100"
+        },
+        {
+          "name": "(양식)개인정보제공동의서및무주택서약서등.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68071132"
+        },
+        {
+          "name": "단지배치도.jpg",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68071145"
+        },
+        {
+          "name": "평면도(39).JPG",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68071154"
+        }
+      ],
+      "viewCount": 406,
+      "rawPanId": "2015122300020517",
+      "contentHash": "15fb8c7ee9838c6b4a066b1c5747e459dd3a47821d286c05ff78f6d78116355e",
+      "isNew": true,
+      "lastChangedAt": "2026-08-12T06:19:18.021Z"
+    },
     {
       "id": "sale-0000061155",
       "source": "lh-sale",
@@ -36,10 +78,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082626"
         }
       ],
-      "viewCount": 244,
+      "viewCount": 358,
       "rawPanId": "0000061155",
       "contentHash": "958af6a7d705bc10e75f93bf57000177487259c5da0767edaa17fd57fa861748",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-08-12T03:24:52.873Z"
     },
     {
@@ -94,7 +136,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68049891"
         }
       ],
-      "viewCount": 31969,
+      "viewCount": 33337,
       "rawPanId": "0000061125",
       "contentHash": "8eb93e297e96621442b945883178110dc4923ee78e4a4745e49d3831b4563648",
       "isNew": false,
@@ -152,7 +194,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68022968"
         }
       ],
-      "viewCount": 16113,
+      "viewCount": 16610,
       "rawPanId": "0000061152",
       "contentHash": "25f1890c7af2c0efbf645aa62c77d8c219bd4ec225941bf933a9934d4019677d",
       "isNew": false,
@@ -194,7 +236,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016770"
         }
       ],
-      "viewCount": 1323,
+      "viewCount": 1362,
       "rawPanId": "0000061154",
       "contentHash": "ce4c0bef7a970ce077e2928c788234832f10ba4021cfbc4f364efd485b49252c",
       "isNew": false,
@@ -240,7 +282,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67811438"
         }
       ],
-      "viewCount": 4694,
+      "viewCount": 4721,
       "rawPanId": "0000061149",
       "contentHash": "3993d9c3b327cf9f389fe32989b96bbc00ce2d0dd59df28aeed1e9587d13ab4c",
       "isNew": false,
@@ -274,7 +316,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67821143"
         }
       ],
-      "viewCount": 16528,
+      "viewCount": 16734,
       "rawPanId": "2015122300020447",
       "contentHash": "3311d882e25050a99efa820c2c0e06068479e224c7cdd85d02755f7a39c334b5",
       "isNew": false,
@@ -320,7 +362,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727314"
         }
       ],
-      "viewCount": 35092,
+      "viewCount": 36206,
       "rawPanId": "0000061145",
       "contentHash": "80184c44f995f22e9842d6b5eaaa1b25e02caac1f4891aebcecdb2aa826e3368",
       "isNew": false,
@@ -366,7 +408,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720892"
         }
       ],
-      "viewCount": 5934,
+      "viewCount": 5957,
       "rawPanId": "0000061143",
       "contentHash": "9c1ced1907a07ee9fe9d958a5a1f9955dcc4d126d59b259f3dab525c954ad456",
       "isNew": false,
@@ -408,7 +450,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67700540"
         }
       ],
-      "viewCount": 9442,
+      "viewCount": 9496,
       "rawPanId": "0000061141",
       "contentHash": "2c7f631cf7c5670fb8173e11a8e4b628c336eeb646d30b76e52b5189ad5b8ea8",
       "isNew": false,
@@ -442,7 +484,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67610822"
         }
       ],
-      "viewCount": 13521,
+      "viewCount": 13589,
       "rawPanId": "2015122300020325",
       "contentHash": "812aa40d4b786d0b5970607fdac7858d6e3431c363fd270eddab4076615ab105",
       "isNew": false,
@@ -492,7 +534,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559201"
         }
       ],
-      "viewCount": 9313,
+      "viewCount": 9352,
       "rawPanId": "0000061131",
       "contentHash": "dfe43ec19fd9fc21be6ccecc12b1156c580036046eb65d0fc9f27ae90e83e1cb",
       "isNew": false,
@@ -526,7 +568,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67470655"
         }
       ],
-      "viewCount": 6010,
+      "viewCount": 6028,
       "rawPanId": "2015122300020248",
       "contentHash": "54b415945da3757726daaf3ff7dff4c1ad2f2ae3e63d8454d652e4240c486cfb",
       "isNew": false,
