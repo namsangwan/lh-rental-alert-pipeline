@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-08-25T07:49:25.279Z",
+  "generatedAt": "2026-08-25T09:41:17.533Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "id": "sale-2015122300020425",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300020425",
+      "title": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "전남광주통합특별시",
+      "status": "공고중",
+      "postedAt": "2026-08-25",
+      "deadlineAt": "2026-12-31",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020425&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "광주전남혁신빛가람LH3단지잔여세대일반매각공고(선착순동호지정).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276093"
+        },
+        {
+          "name": "광주전남혁신빛가람LH3단지잔여세대일반매각공고(선착순동호지정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276094"
+        },
+        {
+          "name": "(예시)토지거래계약허가신청서작성예시.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276115"
+        },
+        {
+          "name": "[팜플렛]빛가람LH3단지평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276116"
+        },
+        {
+          "name": "위임장양식(대리인계약시제출).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276117"
+        },
+        {
+          "name": "토지거래허가협의관련제출서류(양식).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276095"
+        }
+      ],
+      "viewCount": 192,
+      "rawPanId": "2015122300020425",
+      "contentHash": "29a6112a15df357d9a5a796962dbb8ab25ecc7ac4f7b07b3c8244dab0266334d",
+      "isNew": true,
+      "lastChangedAt": "2026-08-25T09:41:17.533Z"
+    },
     {
       "id": "sale-2015122300020518",
       "source": "lh-sale",
@@ -32,7 +78,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68108549"
         }
       ],
-      "viewCount": 2914,
+      "viewCount": 2954,
       "rawPanId": "2015122300020518",
       "contentHash": "abe8dde506f5907cb279ca1e1697e061228379684f36964b70b689d6109fdeb4",
       "isNew": false,
@@ -86,7 +132,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126812"
         }
       ],
-      "viewCount": 4823,
+      "viewCount": 4849,
       "rawPanId": "0000061157",
       "contentHash": "a2568b506327b2021bb6eafd091f19071813209c3424d73b7105a9d96990a80c",
       "isNew": false,
@@ -124,7 +170,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68084966"
         }
       ],
-      "viewCount": 59313,
+      "viewCount": 59620,
       "rawPanId": "0000061147",
       "contentHash": "b730b4d6deaea70745e1a4d09121bccb57b4ef961e26f972033fd31686bb4d0f",
       "isNew": false,
@@ -166,7 +212,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68071154"
         }
       ],
-      "viewCount": 10458,
+      "viewCount": 10578,
       "rawPanId": "2015122300020517",
       "contentHash": "3443eb3f5448ed8039d6f35b6ce3b7263ccc8ead66c2824ce4a93a5b0b9b00d5",
       "isNew": false,
@@ -204,7 +250,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082626"
         }
       ],
-      "viewCount": 17553,
+      "viewCount": 18085,
       "rawPanId": "0000061155",
       "contentHash": "958af6a7d705bc10e75f93bf57000177487259c5da0767edaa17fd57fa861748",
       "isNew": false,
@@ -262,11 +308,53 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68049891"
         }
       ],
-      "viewCount": 76098,
+      "viewCount": 76518,
       "rawPanId": "0000061125",
       "contentHash": "8eb93e297e96621442b945883178110dc4923ee78e4a4745e49d3831b4563648",
       "isNew": false,
       "lastChangedAt": "2026-08-10T03:14:03.616Z"
+    },
+    {
+      "id": "sale-0000061154",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061154",
+      "title": "[정정공고][선착순 동·호지정] 영천문외 센트럴타운 공공분양주택 추가입주자 모집 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경상북도",
+      "status": "공고중",
+      "postedAt": "2026-08-07",
+      "deadlineAt": "2026-12-24",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061154&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(수정)(26.07.24)영천문외센트럴타운공공분양주택추가입주자모집공고(선착순동호지정).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016745"
+        },
+        {
+          "name": "(수정)(26.07.24)영천문외센트럴타운공공분양주택추가입주자모집공고(선착순동호지정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016694"
+        },
+        {
+          "name": "공급대상주택목록(영천문외LH센트럴타운).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016758"
+        },
+        {
+          "name": "영천문외센트럴타운단지배치도.PNG",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016764"
+        },
+        {
+          "name": "평면도(84C타입).PNG",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016770"
+        }
+      ],
+      "viewCount": 3432,
+      "rawPanId": "0000061154",
+      "contentHash": "ce4c0bef7a970ce077e2928c788234832f10ba4021cfbc4f364efd485b49252c",
+      "isNew": false,
+      "lastChangedAt": "2026-08-07T06:11:30.493Z"
     },
     {
       "id": "sale-0000061152",
@@ -320,53 +408,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68022968"
         }
       ],
-      "viewCount": 82782,
+      "viewCount": 83040,
       "rawPanId": "0000061152",
       "contentHash": "073ea82dc48e816bfcd9b5bc3e56b1a8024dc86dab10ea31959969bacc251f55",
       "isNew": false,
       "lastChangedAt": "2026-08-18T02:17:22.214Z"
-    },
-    {
-      "id": "sale-0000061154",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061154",
-      "title": "[정정공고][선착순 동·호지정] 영천문외 센트럴타운 공공분양주택 추가입주자 모집 공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "경상북도",
-      "status": "공고중",
-      "postedAt": "2026-08-07",
-      "deadlineAt": "2026-12-24",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061154&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(수정)(26.07.24)영천문외센트럴타운공공분양주택추가입주자모집공고(선착순동호지정).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016745"
-        },
-        {
-          "name": "(수정)(26.07.24)영천문외센트럴타운공공분양주택추가입주자모집공고(선착순동호지정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016694"
-        },
-        {
-          "name": "공급대상주택목록(영천문외LH센트럴타운).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016758"
-        },
-        {
-          "name": "영천문외센트럴타운단지배치도.PNG",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016764"
-        },
-        {
-          "name": "평면도(84C타입).PNG",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016770"
-        }
-      ],
-      "viewCount": 3420,
-      "rawPanId": "0000061154",
-      "contentHash": "ce4c0bef7a970ce077e2928c788234832f10ba4021cfbc4f364efd485b49252c",
-      "isNew": false,
-      "lastChangedAt": "2026-08-07T06:11:30.493Z"
     },
     {
       "id": "sale-0000061149",
@@ -408,7 +454,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67811438"
         }
       ],
-      "viewCount": 6500,
+      "viewCount": 6512,
       "rawPanId": "0000061149",
       "contentHash": "3993d9c3b327cf9f389fe32989b96bbc00ce2d0dd59df28aeed1e9587d13ab4c",
       "isNew": false,
@@ -454,7 +500,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727314"
         }
       ],
-      "viewCount": 50348,
+      "viewCount": 50421,
       "rawPanId": "0000061145",
       "contentHash": "80184c44f995f22e9842d6b5eaaa1b25e02caac1f4891aebcecdb2aa826e3368",
       "isNew": false,
@@ -500,7 +546,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720892"
         }
       ],
-      "viewCount": 8261,
+      "viewCount": 8281,
       "rawPanId": "0000061143",
       "contentHash": "9c1ced1907a07ee9fe9d958a5a1f9955dcc4d126d59b259f3dab525c954ad456",
       "isNew": false,
@@ -534,7 +580,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67610822"
         }
       ],
-      "viewCount": 17839,
+      "viewCount": 17886,
       "rawPanId": "2015122300020325",
       "contentHash": "812aa40d4b786d0b5970607fdac7858d6e3431c363fd270eddab4076615ab105",
       "isNew": false,
@@ -584,7 +630,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67559201"
         }
       ],
-      "viewCount": 12179,
+      "viewCount": 12196,
       "rawPanId": "0000061131",
       "contentHash": "dfe43ec19fd9fc21be6ccecc12b1156c580036046eb65d0fc9f27ae90e83e1cb",
       "isNew": false,
@@ -618,7 +664,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67470655"
         }
       ],
-      "viewCount": 7846,
+      "viewCount": 7858,
       "rawPanId": "2015122300020248",
       "contentHash": "54b415945da3757726daaf3ff7dff4c1ad2f2ae3e63d8454d652e4240c486cfb",
       "isNew": false,
