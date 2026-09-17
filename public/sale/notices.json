@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-09-16T12:31:28.916Z",
+  "generatedAt": "2026-09-17T05:57:48.427Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 16,
+  "count": 15,
   "items": [
+    {
+      "id": "sale-2015122300020766",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300020766",
+      "title": "신대연코오롱하늘채 잔여세대 일반매각 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "부산광역시",
+      "status": "공고중",
+      "postedAt": "2026-09-17",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020766&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "코오롱하늘채잔여세대일반매각공고문(260917).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68620796"
+        },
+        {
+          "name": "코오롱하늘채잔여세대일반매각공고문(260917).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68620801"
+        },
+        {
+          "name": "코오롱하늘채단지배치도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68612523"
+        },
+        {
+          "name": "코오롱하늘채평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68612526"
+        },
+        {
+          "name": "(양식)개인정보제공동의서및무주택서약서등.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68612520"
+        }
+      ],
+      "viewCount": 324,
+      "rawPanId": "2015122300020766",
+      "contentHash": "ad8a767c6b600fbb2fb7db8cd0e552e82692aaddb1836f4bf00860266f9d83b9",
+      "isNew": true,
+      "lastChangedAt": "2026-09-17T05:57:48.427Z"
+    },
     {
       "id": "sale-0000061174",
       "source": "lh-sale",
@@ -14,7 +56,7 @@
       "noticeType": "분양주택",
       "noticeSubtype": null,
       "region": "인천광역시",
-      "status": "공고중",
+      "status": "접수중",
       "postedAt": "2026-09-14",
       "deadlineAt": "2026-10-02",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061174&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
@@ -44,11 +86,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68594664"
         }
       ],
-      "viewCount": 7650,
+      "viewCount": 10409,
       "rawPanId": "0000061174",
-      "contentHash": "99b506b97e4d1488977de68378b26df03ae8a9536bdc91a168cfe0a09d743979",
+      "contentHash": "bb32099585efb8a3bbcaf221e9ab8d07f1ce952dffb4782e13bd04d980c1d843",
       "isNew": false,
-      "lastChangedAt": "2026-09-14T13:48:59.226Z"
+      "lastChangedAt": "2026-09-17T05:57:48.427Z"
     },
     {
       "id": "sale-0000061172",
@@ -86,7 +128,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68473341"
         }
       ],
-      "viewCount": 13152,
+      "viewCount": 13991,
       "rawPanId": "0000061172",
       "contentHash": "5b96aec9ddad6a1be40035d44c56caf9acc94176061414f1ed4ed9f7d60052ff",
       "isNew": false,
@@ -132,7 +174,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435576"
         }
       ],
-      "viewCount": 8664,
+      "viewCount": 9040,
       "rawPanId": "0000061171",
       "contentHash": "ed00349bdf7c2a7bc2bbe942feb19e3c07de19dc2613cecfda38cd09c4f7a8ff",
       "isNew": false,
@@ -162,7 +204,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435915"
         }
       ],
-      "viewCount": 3471,
+      "viewCount": 3633,
       "rawPanId": "2015122300020606",
       "contentHash": "e4c800366f1d8ce3d8008eb0228c161111d64fb2d20cbbb8934bc28643541022",
       "isNew": false,
@@ -204,7 +246,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68440109"
         }
       ],
-      "viewCount": 19853,
+      "viewCount": 21271,
       "rawPanId": "0000061168",
       "contentHash": "7a9bc5326807e921360f6309d1dcad2c8c74685f0fbb7fa1575e7e42b371de71",
       "isNew": false,
@@ -250,7 +292,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371730"
         }
       ],
-      "viewCount": 49874,
+      "viewCount": 50353,
       "rawPanId": "0000061167",
       "contentHash": "4171ede149795c8c30d6b15de76812066b5f1a2e205afdc107110cb9096c4a13",
       "isNew": false,
@@ -292,7 +334,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68338165"
         }
       ],
-      "viewCount": 26564,
+      "viewCount": 27010,
       "rawPanId": "0000061158",
       "contentHash": "81497b7b6d2a7cdef67b710f6055b4529a7e60e3e5beca261f13924b30c32682",
       "isNew": false,
@@ -338,7 +380,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68307560"
         }
       ],
-      "viewCount": 47731,
+      "viewCount": 48818,
       "rawPanId": "0000061159",
       "contentHash": "fb382a7d87ad0c04573bb8d799db079bc043a9821c073ff14960d82cba49385f",
       "isNew": false,
@@ -384,7 +426,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276095"
         }
       ],
-      "viewCount": 6712,
+      "viewCount": 6867,
       "rawPanId": "2015122300020425",
       "contentHash": "29a6112a15df357d9a5a796962dbb8ab25ecc7ac4f7b07b3c8244dab0266334d",
       "isNew": false,
@@ -418,7 +460,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68108549"
         }
       ],
-      "viewCount": 8446,
+      "viewCount": 8590,
       "rawPanId": "2015122300020518",
       "contentHash": "abe8dde506f5907cb279ca1e1697e061228379684f36964b70b689d6109fdeb4",
       "isNew": false,
@@ -472,7 +514,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126812"
         }
       ],
-      "viewCount": 122889,
+      "viewCount": 123065,
       "rawPanId": "0000061157",
       "contentHash": "a2568b506327b2021bb6eafd091f19071813209c3424d73b7105a9d96990a80c",
       "isNew": false,
@@ -510,7 +552,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082626"
         }
       ],
-      "viewCount": 60429,
+      "viewCount": 60870,
       "rawPanId": "0000061155",
       "contentHash": "958af6a7d705bc10e75f93bf57000177487259c5da0767edaa17fd57fa861748",
       "isNew": false,
@@ -552,7 +594,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016770"
         }
       ],
-      "viewCount": 7024,
+      "viewCount": 7152,
       "rawPanId": "0000061154",
       "contentHash": "ce4c0bef7a970ce077e2928c788234832f10ba4021cfbc4f364efd485b49252c",
       "isNew": false,
@@ -598,103 +640,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67811438"
         }
       ],
-      "viewCount": 9633,
+      "viewCount": 9748,
       "rawPanId": "0000061149",
       "contentHash": "3993d9c3b327cf9f389fe32989b96bbc00ce2d0dd59df28aeed1e9587d13ab4c",
       "isNew": false,
       "lastChangedAt": "2026-08-07T06:11:30.493Z"
-    },
-    {
-      "id": "sale-0000061145",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061145",
-      "title": "[정정공고](계약금 1,000만원)청주지북B1블록 공공분양 잔여세대 추가 입주자모집(선착순 동호지정)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "충청북도",
-      "status": "공고중",
-      "postedAt": "2026-07-16",
-      "deadlineAt": "2027-07-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061145&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(계약금1,000)청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727296"
-        },
-        {
-          "name": "(계약금1,000)청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727303"
-        },
-        {
-          "name": "청주지북B1블록공공분양주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727312"
-        },
-        {
-          "name": "(양식)개인정보수집·이용_및_제3자제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727324"
-        },
-        {
-          "name": "(양식)위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727328"
-        },
-        {
-          "name": "청주지북B1블록_잔여동호표.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67727314"
-        }
-      ],
-      "viewCount": 65823,
-      "rawPanId": "0000061145",
-      "contentHash": "80184c44f995f22e9842d6b5eaaa1b25e02caac1f4891aebcecdb2aa826e3368",
-      "isNew": false,
-      "lastChangedAt": "2026-07-16T11:05:00.712Z"
-    },
-    {
-      "id": "sale-0000061143",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061143",
-      "title": "(계약금 1,000만원)청주지북B1블록 공공분양 잔여세대 추가 입주자모집(선착순 동호지정)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "충청북도",
-      "status": "정정공고중",
-      "postedAt": "2026-07-16",
-      "deadlineAt": "2027-07-15",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061143&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(계약금1,000)청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720871"
-        },
-        {
-          "name": "(계약금1,000)청주지북_B1블록_공공분양주택_잔여세대_추가_입주자모집(선착순_동호지정)_공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720873"
-        },
-        {
-          "name": "청주지북B1블록공공분양주택팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720877"
-        },
-        {
-          "name": "(양식)개인정보수집·이용_및_제3자제공동의서.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720899"
-        },
-        {
-          "name": "(양식)위임장.hwp",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720911"
-        },
-        {
-          "name": "청주지북_B1블록_공공분양주택_잔여_동호표1.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=67720892"
-        }
-      ],
-      "viewCount": 12406,
-      "rawPanId": "0000061143",
-      "contentHash": "9c1ced1907a07ee9fe9d958a5a1f9955dcc4d126d59b259f3dab525c954ad456",
-      "isNew": false,
-      "lastChangedAt": "2026-07-16T11:05:00.712Z"
     }
   ]
 }
