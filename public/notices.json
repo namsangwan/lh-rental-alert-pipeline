@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-09-17T12:31:40.686Z",
+  "generatedAt": "2026-09-18T05:44:00.855Z",
   "category": "rental",
   "categoryLabel": "임대",
   "count": 50,
   "items": [
+    {
+      "id": "rental-2015122300020804",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020804",
+      "title": "제주 일도.삼도행복주택 예비입주자 모집",
+      "noticeType": "행복주택",
+      "noticeSubtype": null,
+      "region": "제주특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-09-18",
+      "deadlineAt": "2026-10-02",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020804&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10",
+      "attachments": [
+        {
+          "name": "(260918)제주일도삼도행복주택_예비입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68665444"
+        },
+        {
+          "name": "(260918)제주일도삼도행복주택_예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68665434"
+        }
+      ],
+      "viewCount": 367,
+      "rawPanId": "2015122300020804",
+      "contentHash": "e7f2b304eee77f44adef54cab57a6076b65ed3977e777643749d002f6bc70343",
+      "isNew": true,
+      "lastChangedAt": "2026-09-18T05:44:00.855Z"
+    },
     {
       "id": "rental-2015122300020749",
       "source": "lh-rental",
@@ -36,48 +66,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68646214"
         }
       ],
-      "viewCount": 1516,
+      "viewCount": 5586,
       "rawPanId": "2015122300020749",
       "contentHash": "e27736d4bdb4da05bd87a080b82dacb2a41accfa81ade8ad3a44000291ea51b6",
-      "isNew": true,
-      "lastChangedAt": "2026-09-17T12:31:40.686Z"
-    },
-    {
-      "id": "rental-2015122300020750",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020750",
-      "title": "[서울지역본부] 26년 3차 신혼·신생아 매입임대Ⅰ 예비입주자 모집공고",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "서울특별시",
-      "status": "공고중",
-      "postedAt": "2026-09-17",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020750&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "26년3차신혼·신생아매입임대Ⅰ입주자모집공고문(서울지역본부).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68650342"
-        },
-        {
-          "name": "26년3차신혼·신생아매입임대Ⅰ입주자모집공고문(서울지역본부).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68650345"
-        },
-        {
-          "name": "26년3차_신혼·신생아매입임대Ⅰ_공급주택목록(서울지역본부).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68646052"
-        },
-        {
-          "name": "26년신혼·신생아매입임대Ⅰ_QnA.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68646089"
-        }
-      ],
-      "viewCount": 1348,
-      "rawPanId": "2015122300020750",
-      "contentHash": "5eae17de534d6495cd3f526b9c852d20c841f6ce62cf22106fc8c64ef4eade9b",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
     },
     {
@@ -116,10 +108,86 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68596948"
         }
       ],
-      "viewCount": 3044,
+      "viewCount": 13862,
       "rawPanId": "2015122300020759",
       "contentHash": "2ad4ee823f62f5b7e16ac0f66d0496dc433e0396d916aeae77209e8de24310dd",
-      "isNew": true,
+      "isNew": false,
+      "lastChangedAt": "2026-09-17T12:31:40.686Z"
+    },
+    {
+      "id": "rental-2015122300020750",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020750",
+      "title": "[서울지역본부] 26년 3차 신혼·신생아 매입임대Ⅰ 예비입주자 모집공고",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "서울특별시",
+      "status": "공고중",
+      "postedAt": "2026-09-17",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020750&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "26년3차신혼·신생아매입임대Ⅰ입주자모집공고문(서울지역본부).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68650342"
+        },
+        {
+          "name": "26년3차신혼·신생아매입임대Ⅰ입주자모집공고문(서울지역본부).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68650345"
+        },
+        {
+          "name": "26년3차_신혼·신생아매입임대Ⅰ_공급주택목록(서울지역본부).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68646052"
+        },
+        {
+          "name": "26년신혼·신생아매입임대Ⅰ_QnA.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68646089"
+        }
+      ],
+      "viewCount": 5206,
+      "rawPanId": "2015122300020750",
+      "contentHash": "5eae17de534d6495cd3f526b9c852d20c841f6ce62cf22106fc8c64ef4eade9b",
+      "isNew": false,
+      "lastChangedAt": "2026-09-17T12:31:40.686Z"
+    },
+    {
+      "id": "rental-2015122300020797",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020797",
+      "title": "[인천]26년 7차 신혼·신생아Ⅱ(전세형) 예비입주자 모집공고(인천,부천)",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "인천광역시 외",
+      "status": "공고중",
+      "postedAt": "2026-09-17",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020797&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "26-7차입주자모집공고문_신혼·신생아매입임대Ⅱ(전세형).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642579"
+        },
+        {
+          "name": "26-7차입주자모집공고문_신혼·신생아매입임대Ⅱ(전세형).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642587"
+        },
+        {
+          "name": "(게시용)공급주택목록_26-7차신혼·신생아매입임대Ⅱ(전세형).xlsx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642575"
+        },
+        {
+          "name": "QnA_26년신혼？신생아매입임대Ⅱ(전세형)_NV.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642591"
+        }
+      ],
+      "viewCount": 2220,
+      "rawPanId": "2015122300020797",
+      "contentHash": "c277a7e777b066f40fa0fad0bf96b6ac993a1842ffc238ec7a59ca8fe9ffc17c",
+      "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
     },
     {
@@ -154,10 +222,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68641668"
         }
       ],
-      "viewCount": 912,
+      "viewCount": 2356,
       "rawPanId": "2015122300020795",
       "contentHash": "85083519759cbcc2e43174850d663818a3347738ce3a59cffba100eb8aa699da",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
     },
     {
@@ -200,10 +268,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68630900"
         }
       ],
-      "viewCount": 3581,
+      "viewCount": 8022,
       "rawPanId": "2015122300020753",
       "contentHash": "33d4a8c1b049158c250ad2b90049f586282eac99d7157c9d33be14328d4b2c2d",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
     },
     {
@@ -238,48 +306,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68650353"
         }
       ],
-      "viewCount": 1329,
+      "viewCount": 3998,
       "rawPanId": "2015122300020798",
       "contentHash": "82195e85c728713df0f96b0a1c9f354d8cf6ccd40a420e39720a2a6073dc6948",
-      "isNew": true,
-      "lastChangedAt": "2026-09-17T12:31:40.686Z"
-    },
-    {
-      "id": "rental-2015122300020797",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020797",
-      "title": "[인천]26년 7차 신혼·신생아Ⅱ(전세형) 예비입주자 모집공고(인천,부천)",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "인천광역시 외",
-      "status": "공고중",
-      "postedAt": "2026-09-17",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020797&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "26-7차입주자모집공고문_신혼·신생아매입임대Ⅱ(전세형).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642579"
-        },
-        {
-          "name": "26-7차입주자모집공고문_신혼·신생아매입임대Ⅱ(전세형).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642587"
-        },
-        {
-          "name": "(게시용)공급주택목록_26-7차신혼·신생아매입임대Ⅱ(전세형).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642575"
-        },
-        {
-          "name": "QnA_26년신혼？신생아매입임대Ⅱ(전세형)_NV.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68642591"
-        }
-      ],
-      "viewCount": 746,
-      "rawPanId": "2015122300020797",
-      "contentHash": "c277a7e777b066f40fa0fad0bf96b6ac993a1842ffc238ec7a59ca8fe9ffc17c",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
     },
     {
@@ -314,10 +344,10 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68646386"
         }
       ],
-      "viewCount": 3892,
+      "viewCount": 8189,
       "rawPanId": "0000061177",
       "contentHash": "e806e29a5fd6b314027d92d9baafa068d1704767440b3f85630daa7a37e89466",
-      "isNew": true,
+      "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
     },
     {
@@ -344,7 +374,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68641696"
         }
       ],
-      "viewCount": 1469,
+      "viewCount": 2410,
       "rawPanId": "2015122300020796",
       "contentHash": "80efd9a03734f7ed44b7135d6ba30fb04ae04f035478350e9ed880b4c80e3397",
       "isNew": false,
@@ -378,85 +408,9 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68635083"
         }
       ],
-      "viewCount": 501,
+      "viewCount": 847,
       "rawPanId": "2015122300020793",
       "contentHash": "e195f0f124d37fa034d271ef1dae43d71ec971e8f2d142be32620182c7d3d653",
-      "isNew": false,
-      "lastChangedAt": "2026-09-17T05:57:48.427Z"
-    },
-    {
-      "id": "rental-2015122300020777",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020777",
-      "title": "[광주전남지역본부] 신혼·신생아 매입임대주택Ⅰ 예비입주자 모집공고",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "전남광주통합특별시",
-      "status": "공고중",
-      "postedAt": "2026-09-17",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020777&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "2026년3차신혼·신생아매입임대Ⅰ입주자모집공고문MyMy서비스.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622271"
-        },
-        {
-          "name": "2026년3차신혼·신생아매입임대Ⅰ입주자모집공고문MyMy서비스.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622289"
-        },
-        {
-          "name": "2026년3차신혼·신생아매입임대주택Ⅰ공급주택목록.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622308"
-        },
-        {
-          "name": "2026년신혼？신생아매입임대ⅠQnA.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622298"
-        }
-      ],
-      "viewCount": 680,
-      "rawPanId": "2015122300020777",
-      "contentHash": "470d6b2d1b23f3d5e7d7265e232ee152d98c800b7fc8736523f645aeced8301c",
-      "isNew": false,
-      "lastChangedAt": "2026-09-17T05:57:48.427Z"
-    },
-    {
-      "id": "rental-2015122300020784",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020784",
-      "title": "[광주전남지역본부] 신혼·신생아 매입임대주택Ⅱ(전세형) 예비입주자 모집공고",
-      "noticeType": "매입임대",
-      "noticeSubtype": null,
-      "region": "전남광주통합특별시",
-      "status": "공고중",
-      "postedAt": "2026-09-17",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020784&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
-      "attachments": [
-        {
-          "name": "2026년3차신혼·신생아매입임대Ⅱ(전세형)입주자모집공고문MyMy서비스.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624894"
-        },
-        {
-          "name": "2026년3차신혼·신생아매입임대Ⅱ(전세형)입주자모집공고문MyMy서비스.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624895"
-        },
-        {
-          "name": "2026년3차신혼·신생아매입임대주택Ⅱ(전세형)공급주택목록.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624896"
-        },
-        {
-          "name": "2026년신혼？신생아매입임대Ⅱ(전세형)QnA.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624897"
-        }
-      ],
-      "viewCount": 710,
-      "rawPanId": "2015122300020784",
-      "contentHash": "665378fce67c9697cbf8292c9a6f4214a1d40db8c34755f326ac9db68d34b003",
       "isNew": false,
       "lastChangedAt": "2026-09-17T05:57:48.427Z"
     },
@@ -492,7 +446,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68623191"
         }
       ],
-      "viewCount": 1190,
+      "viewCount": 2147,
       "rawPanId": "2015122300020778",
       "contentHash": "064c8e931b88ac50a1ed569a5b5e3a29dcc2684a8bcd8593fe353e6fddaaeba8",
       "isNew": false,
@@ -530,7 +484,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68621517"
         }
       ],
-      "viewCount": 589,
+      "viewCount": 1071,
       "rawPanId": "2015122300020776",
       "contentHash": "11f69453c2fe7cebedcdc07e2126dc6c8e52f2ced5ecf3e88b130f712064fdcd",
       "isNew": false,
@@ -568,7 +522,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68617746"
         }
       ],
-      "viewCount": 527,
+      "viewCount": 1051,
       "rawPanId": "2015122300020774",
       "contentHash": "6ace6c16529a9af1e971a0dfe4f2606052159939c90b7bd879c1023910f25100",
       "isNew": false,
@@ -606,7 +560,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68617928"
         }
       ],
-      "viewCount": 600,
+      "viewCount": 1065,
       "rawPanId": "2015122300020775",
       "contentHash": "8ce44abe9874b8fa8c3d8e91da53f394213d557634e605b84873e8f1e414a3ca",
       "isNew": false,
@@ -644,9 +598,85 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68617417"
         }
       ],
-      "viewCount": 1194,
+      "viewCount": 2114,
       "rawPanId": "2015122300020773",
       "contentHash": "f175cde38e71e6aa491d8d89c692f46c55c83d627a12fd5f3dfacccf6c3ffb4e",
+      "isNew": false,
+      "lastChangedAt": "2026-09-17T05:57:48.427Z"
+    },
+    {
+      "id": "rental-2015122300020777",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020777",
+      "title": "[광주전남지역본부] 신혼·신생아 매입임대주택Ⅰ 예비입주자 모집공고",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "전남광주통합특별시",
+      "status": "공고중",
+      "postedAt": "2026-09-17",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020777&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "2026년3차신혼·신생아매입임대Ⅰ입주자모집공고문MyMy서비스.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622271"
+        },
+        {
+          "name": "2026년3차신혼·신생아매입임대Ⅰ입주자모집공고문MyMy서비스.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622289"
+        },
+        {
+          "name": "2026년3차신혼·신생아매입임대주택Ⅰ공급주택목록.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622308"
+        },
+        {
+          "name": "2026년신혼？신생아매입임대ⅠQnA.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68622298"
+        }
+      ],
+      "viewCount": 1077,
+      "rawPanId": "2015122300020777",
+      "contentHash": "470d6b2d1b23f3d5e7d7265e232ee152d98c800b7fc8736523f645aeced8301c",
+      "isNew": false,
+      "lastChangedAt": "2026-09-17T05:57:48.427Z"
+    },
+    {
+      "id": "rental-2015122300020784",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020784",
+      "title": "[광주전남지역본부] 신혼·신생아 매입임대주택Ⅱ(전세형) 예비입주자 모집공고",
+      "noticeType": "매입임대",
+      "noticeSubtype": null,
+      "region": "전남광주통합특별시",
+      "status": "공고중",
+      "postedAt": "2026-09-17",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020784&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26",
+      "attachments": [
+        {
+          "name": "2026년3차신혼·신생아매입임대Ⅱ(전세형)입주자모집공고문MyMy서비스.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624894"
+        },
+        {
+          "name": "2026년3차신혼·신생아매입임대Ⅱ(전세형)입주자모집공고문MyMy서비스.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624895"
+        },
+        {
+          "name": "2026년3차신혼·신생아매입임대주택Ⅱ(전세형)공급주택목록.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624896"
+        },
+        {
+          "name": "2026년신혼？신생아매입임대Ⅱ(전세형)QnA.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624897"
+        }
+      ],
+      "viewCount": 1210,
+      "rawPanId": "2015122300020784",
+      "contentHash": "665378fce67c9697cbf8292c9a6f4214a1d40db8c34755f326ac9db68d34b003",
       "isNew": false,
       "lastChangedAt": "2026-09-17T05:57:48.427Z"
     },
@@ -682,7 +712,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68632491"
         }
       ],
-      "viewCount": 1238,
+      "viewCount": 2472,
       "rawPanId": "2015122300020789",
       "contentHash": "645955abf65ba5a424ea4e097901c020c9f2bb53dc54e178ca1d675c8bdf64af",
       "isNew": false,
@@ -720,7 +750,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68632766"
         }
       ],
-      "viewCount": 1883,
+      "viewCount": 3780,
       "rawPanId": "2015122300020790",
       "contentHash": "83c54c7e72b01e8f8b613641a3f7042b44016a79bcea0ba04a9d1dc33536d72a",
       "isNew": false,
@@ -758,7 +788,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68633067"
         }
       ],
-      "viewCount": 1045,
+      "viewCount": 1799,
       "rawPanId": "2015122300020791",
       "contentHash": "a999ddbd189002c39230c0523de33695f6fc9127b84b80034df883d73f3c2d21",
       "isNew": false,
@@ -788,7 +818,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68635562"
         }
       ],
-      "viewCount": 1923,
+      "viewCount": 2201,
       "rawPanId": "2015122300020794",
       "contentHash": "8e208406e041553c5ce76b71d3a2fddf37040bb32cf3d6744094390f4d74863c",
       "isNew": false,
@@ -818,7 +848,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68634846"
         }
       ],
-      "viewCount": 1784,
+      "viewCount": 2281,
       "rawPanId": "2015122300020792",
       "contentHash": "8506a86363692108e8cd766366fe5538f9aea75db6b7493a8479cfec35891974",
       "isNew": false,
@@ -892,7 +922,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68623724"
         }
       ],
-      "viewCount": 1345,
+      "viewCount": 2114,
       "rawPanId": "2015122300020780",
       "contentHash": "9f0a7a4b2294c2ddc28d983f69382a9f337ad761de301840f6321a1ea49d5978",
       "isNew": false,
@@ -922,7 +952,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68632285"
         }
       ],
-      "viewCount": 3327,
+      "viewCount": 4299,
       "rawPanId": "2015122300020788",
       "contentHash": "2bd04339c4ad9fbef7a42b5f228e1045a2921fd768600bec0286aeee314101e0",
       "isNew": false,
@@ -980,7 +1010,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68574028"
         }
       ],
-      "viewCount": 5956,
+      "viewCount": 7475,
       "rawPanId": "2015122300020744",
       "contentHash": "cd239b1e6c77277623d2bdf0384f2d98001b643d39eec53fd977bb365ff6f84b",
       "isNew": false,
@@ -1010,11 +1040,41 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68635936"
         }
       ],
-      "viewCount": 1015,
+      "viewCount": 1259,
       "rawPanId": "2015122300020786",
       "contentHash": "a5bcc1a1303860246c4d0cb140b571029ced228c49f3ddf29d7f4f754599ae7a",
       "isNew": false,
       "lastChangedAt": "2026-09-16T12:31:28.916Z"
+    },
+    {
+      "id": "rental-2015122300020756",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020756",
+      "title": "천안쌍용5-2 공임50년 예비입주자 모집공고(2026.09.16)",
+      "noticeType": "공공임대",
+      "noticeSubtype": null,
+      "region": "충청남도",
+      "status": "공고중",
+      "postedAt": "2026-09-16",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020756&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08",
+      "attachments": [
+        {
+          "name": "천안쌍용5-2공임50년예비입주자모집공고(2026.09.16).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68593095"
+        },
+        {
+          "name": "천안쌍용5-2공임50년예비입주자모집공고(2026.09.16).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68593100"
+        }
+      ],
+      "viewCount": 4006,
+      "rawPanId": "2015122300020756",
+      "contentHash": "85ba250c45ab9d19da1f77fffe9900a6526e63e3cf7d651dccd0e8b51ad8a3e9",
+      "isNew": false,
+      "lastChangedAt": "2026-09-16T05:50:26.509Z"
     },
     {
       "id": "rental-2015122300020779",
@@ -1044,41 +1104,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68623625"
         }
       ],
-      "viewCount": 627,
+      "viewCount": 1093,
       "rawPanId": "2015122300020779",
       "contentHash": "d216be9ee14f0f664a67094befd07b735526886ccae6f559db958624b1d15fe8",
       "isNew": false,
       "lastChangedAt": "2026-09-17T05:57:48.427Z"
-    },
-    {
-      "id": "rental-2015122300020756",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020756",
-      "title": "천안쌍용5-2 공임50년 예비입주자 모집공고(2026.09.16)",
-      "noticeType": "공공임대",
-      "noticeSubtype": null,
-      "region": "충청남도",
-      "status": "공고중",
-      "postedAt": "2026-09-16",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020756&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=08",
-      "attachments": [
-        {
-          "name": "천안쌍용5-2공임50년예비입주자모집공고(2026.09.16).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68593095"
-        },
-        {
-          "name": "천안쌍용5-2공임50년예비입주자모집공고(2026.09.16).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68593100"
-        }
-      ],
-      "viewCount": 3128,
-      "rawPanId": "2015122300020756",
-      "contentHash": "85ba250c45ab9d19da1f77fffe9900a6526e63e3cf7d651dccd0e8b51ad8a3e9",
-      "isNew": false,
-      "lastChangedAt": "2026-09-16T05:50:26.509Z"
     },
     {
       "id": "rental-2015122300020783",
@@ -1104,7 +1134,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68624518"
         }
       ],
-      "viewCount": 2608,
+      "viewCount": 3108,
       "rawPanId": "2015122300020783",
       "contentHash": "c108a1f96cef8e75002706388ae9fe386bfa22eeacad5bb037cc458896509c80",
       "isNew": false,
@@ -1138,7 +1168,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68615193"
         }
       ],
-      "viewCount": 18722,
+      "viewCount": 21698,
       "rawPanId": "2015122300020769",
       "contentHash": "0fdd3c3c7df459d1199f8b80fcb90773483fdcc17a55d2143445504cfa80df23",
       "isNew": false,
@@ -1168,11 +1198,45 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68599701"
         }
       ],
-      "viewCount": 4612,
+      "viewCount": 4868,
       "rawPanId": "2015122300020732",
       "contentHash": "a222ef2d2a4b01027c63b868d95431b4ac291c7b879597d9a299cce81a0e66e0",
       "isNew": false,
       "lastChangedAt": "2026-09-16T12:31:28.916Z"
+    },
+    {
+      "id": "rental-2015122300020746",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020746",
+      "title": "대구서부권 고령다산2 국민임대 입주자격완화 모집공고",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "경상북도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-10-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020746&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "대구서부권지역[고령군]국민임대자격완화예비입주자모집.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68585258"
+        },
+        {
+          "name": "대구서부권지역[고령군]국민임대자격완화예비입주자모집.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68585259"
+        },
+        {
+          "name": "(양식)국민임대.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68576396"
+        }
+      ],
+      "viewCount": 1542,
+      "rawPanId": "2015122300020746",
+      "contentHash": "6c821188beb6401bd6c418076f2ab8fec0fdaa0e05f138393dd8bf690f6b3318",
+      "isNew": false,
+      "lastChangedAt": "2026-09-16T05:50:26.509Z"
     },
     {
       "id": "rental-0000061173",
@@ -1206,45 +1270,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68597536"
         }
       ],
-      "viewCount": 22087,
+      "viewCount": 23132,
       "rawPanId": "0000061173",
       "contentHash": "3b4791cb3c7099468d94e4a6fa02e6e285df361b8bafd99ce64b2ff941bc8a5c",
       "isNew": false,
       "lastChangedAt": "2026-09-17T12:31:40.686Z"
-    },
-    {
-      "id": "rental-2015122300020746",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020746",
-      "title": "대구서부권 고령다산2 국민임대 입주자격완화 모집공고",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "경상북도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-10-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020746&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "대구서부권지역[고령군]국민임대자격완화예비입주자모집.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68585258"
-        },
-        {
-          "name": "대구서부권지역[고령군]국민임대자격완화예비입주자모집.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68585259"
-        },
-        {
-          "name": "(양식)국민임대.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68576396"
-        }
-      ],
-      "viewCount": 1180,
-      "rawPanId": "2015122300020746",
-      "contentHash": "6c821188beb6401bd6c418076f2ab8fec0fdaa0e05f138393dd8bf690f6b3318",
-      "isNew": false,
-      "lastChangedAt": "2026-09-16T05:50:26.509Z"
     },
     {
       "id": "rental-2015122300020767",
@@ -1270,169 +1300,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68612662"
         }
       ],
-      "viewCount": 2772,
+      "viewCount": 2991,
       "rawPanId": "2015122300020767",
       "contentHash": "afb443604eb65d4e69166e4cc63f71ec7f0b10f8550196597d0def3af4a520e2",
       "isNew": false,
       "lastChangedAt": "2026-09-16T05:50:26.509Z"
-    },
-    {
-      "id": "rental-2015122300020738",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020738",
-      "title": "원주문막1 국민임대주택 예비입주자 모집",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-10-02",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020738&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(26.09.15)원주문막1국민임대예비입주자모집공고문(수정).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568793"
-        },
-        {
-          "name": "(26.09.15)원주문막1국민임대예비입주자모집공고문(수정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568795"
-        }
-      ],
-      "viewCount": 1688,
-      "rawPanId": "2015122300020738",
-      "contentHash": "b111cf351f7ea93cd98e0a5c7d42ae716c159e0f800d7423d715fe5e0ca2657e",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T12:34:59.420Z"
-    },
-    {
-      "id": "rental-2015122300020740",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020740",
-      "title": "원주태장4 국민임대주택 예비입주자 모집공고(2026.09.15)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-10-07",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020740&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(26.09.15)원주태장4국민임대예비입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568847"
-        },
-        {
-          "name": "(26.09.15)원주태장4국민임대예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568850"
-        }
-      ],
-      "viewCount": 1695,
-      "rawPanId": "2015122300020740",
-      "contentHash": "3c38cfcbe728383bdbb822aed9e7da591a09bd99f2d498fc565f645f5b4af790",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T12:34:59.420Z"
-    },
-    {
-      "id": "rental-2015122300020733",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020733",
-      "title": "전주시, 완주군 국민임대주택 예비입주자 모집 공고('26.9.15.)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "전북특별자치도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-10-02",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020733&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(2026.09.15.)9월국민임대예비입주자모집공고문(전주,완주)_게시용.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68570104"
-        },
-        {
-          "name": "(2026.09.15.)9월국민임대예비입주자모집공고문(전주,완주)_게시용.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68570110"
-        },
-        {
-          "name": "(양식)개인정보수집이용및제3자제공동의서등.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68562535"
-        }
-      ],
-      "viewCount": 5702,
-      "rawPanId": "2015122300020733",
-      "contentHash": "29c2788948bfc9f1da723f4861d1c9cfbcb90496336977aa939b9c6cfb4326b1",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T12:34:59.420Z"
-    },
-    {
-      "id": "rental-2015122300020739",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020739",
-      "title": "원주무실1 국민임대주택 예비입주자 모집(26.09.15공고)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "정정공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-10-01",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020739&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(26.09.15)원주무실1국민임대예비입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568838"
-        },
-        {
-          "name": "(26.09.15)원주무실1국민임대예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568845"
-        }
-      ],
-      "viewCount": 2196,
-      "rawPanId": "2015122300020739",
-      "contentHash": "d109a780ea1f42e6f1964f0b83f48142a873d3ebfa3446f8063f706eef426546",
-      "isNew": false,
-      "lastChangedAt": "2026-09-16T12:31:28.916Z"
-    },
-    {
-      "id": "rental-2015122300020743",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020743",
-      "title": "군산구암 국민임대주택 예비입주자 모집 공고('26.9.15.)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "전북특별자치도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-09-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020743&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(260915)국민임대예비입주자표준모집공고문(군산구암_mymy버전).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68615344"
-        },
-        {
-          "name": "(260915)국민임대예비입주자표준모집공고문(군산구암_mymy버전).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68615348"
-        },
-        {
-          "name": "(양식)개인정보수집이용및제3자제공동의서등.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68573481"
-        }
-      ],
-      "viewCount": 1820,
-      "rawPanId": "2015122300020743",
-      "contentHash": "f9fb153a617adb60476bde060c097b7446b2d74865c63fba64b79da802f6e430",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T12:34:59.420Z"
     },
     {
       "id": "rental-2015122300020709",
@@ -1466,11 +1338,169 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68490251"
         }
       ],
-      "viewCount": 1964,
+      "viewCount": 2480,
       "rawPanId": "2015122300020709",
       "contentHash": "e266132f8cc2135b5554042e15d18913d52be4eab61342ea368e5d4966e3f1cb",
       "isNew": false,
       "lastChangedAt": "2026-09-16T05:50:26.509Z"
+    },
+    {
+      "id": "rental-2015122300020743",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020743",
+      "title": "군산구암 국민임대주택 예비입주자 모집 공고('26.9.15.)",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "전북특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-09-29",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020743&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "(260915)국민임대예비입주자표준모집공고문(군산구암_mymy버전).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68615344"
+        },
+        {
+          "name": "(260915)국민임대예비입주자표준모집공고문(군산구암_mymy버전).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68615348"
+        },
+        {
+          "name": "(양식)개인정보수집이용및제3자제공동의서등.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68573481"
+        }
+      ],
+      "viewCount": 2132,
+      "rawPanId": "2015122300020743",
+      "contentHash": "f9fb153a617adb60476bde060c097b7446b2d74865c63fba64b79da802f6e430",
+      "isNew": false,
+      "lastChangedAt": "2026-09-15T12:34:59.420Z"
+    },
+    {
+      "id": "rental-2015122300020733",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020733",
+      "title": "전주시, 완주군 국민임대주택 예비입주자 모집 공고('26.9.15.)",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "전북특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-10-02",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020733&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "(2026.09.15.)9월국민임대예비입주자모집공고문(전주,완주)_게시용.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68570104"
+        },
+        {
+          "name": "(2026.09.15.)9월국민임대예비입주자모집공고문(전주,완주)_게시용.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68570110"
+        },
+        {
+          "name": "(양식)개인정보수집이용및제3자제공동의서등.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68562535"
+        }
+      ],
+      "viewCount": 6747,
+      "rawPanId": "2015122300020733",
+      "contentHash": "29c2788948bfc9f1da723f4861d1c9cfbcb90496336977aa939b9c6cfb4326b1",
+      "isNew": false,
+      "lastChangedAt": "2026-09-15T12:34:59.420Z"
+    },
+    {
+      "id": "rental-2015122300020738",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020738",
+      "title": "원주문막1 국민임대주택 예비입주자 모집",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-10-02",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020738&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "(26.09.15)원주문막1국민임대예비입주자모집공고문(수정).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568793"
+        },
+        {
+          "name": "(26.09.15)원주문막1국민임대예비입주자모집공고문(수정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568795"
+        }
+      ],
+      "viewCount": 1914,
+      "rawPanId": "2015122300020738",
+      "contentHash": "b111cf351f7ea93cd98e0a5c7d42ae716c159e0f800d7423d715fe5e0ca2657e",
+      "isNew": false,
+      "lastChangedAt": "2026-09-15T12:34:59.420Z"
+    },
+    {
+      "id": "rental-2015122300020740",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020740",
+      "title": "원주태장4 국민임대주택 예비입주자 모집공고(2026.09.15)",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-10-07",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020740&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "(26.09.15)원주태장4국민임대예비입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568847"
+        },
+        {
+          "name": "(26.09.15)원주태장4국민임대예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568850"
+        }
+      ],
+      "viewCount": 1913,
+      "rawPanId": "2015122300020740",
+      "contentHash": "3c38cfcbe728383bdbb822aed9e7da591a09bd99f2d498fc565f645f5b4af790",
+      "isNew": false,
+      "lastChangedAt": "2026-09-15T12:34:59.420Z"
+    },
+    {
+      "id": "rental-2015122300020739",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020739",
+      "title": "원주무실1 국민임대주택 예비입주자 모집(26.09.15공고)",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "정정공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-10-01",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020739&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "(26.09.15)원주무실1국민임대예비입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568838"
+        },
+        {
+          "name": "(26.09.15)원주무실1국민임대예비입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68568845"
+        }
+      ],
+      "viewCount": 2393,
+      "rawPanId": "2015122300020739",
+      "contentHash": "d109a780ea1f42e6f1964f0b83f48142a873d3ebfa3446f8063f706eef426546",
+      "isNew": false,
+      "lastChangedAt": "2026-09-16T12:31:28.916Z"
     },
     {
       "id": "rental-2015122300020734",
@@ -1504,11 +1534,71 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68565187"
         }
       ],
-      "viewCount": 3171,
+      "viewCount": 3671,
       "rawPanId": "2015122300020734",
       "contentHash": "3e0b5d8989d75e279c03aae79b1df7b07376eb0beb81d0faace0f070467b9883",
       "isNew": false,
       "lastChangedAt": "2026-09-15T12:34:59.420Z"
+    },
+    {
+      "id": "rental-2015122300020757",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020757",
+      "title": "남해평리휴먼시아 국민임대주택 예비입주자 모집",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-10-01",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020757&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "남해평리_국민임대예비입주자표준모집공고문(2026.09.15).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68591482"
+        },
+        {
+          "name": "남해평리_국민임대예비입주자표준모집공고문(2026.09.15.).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68591483"
+        }
+      ],
+      "viewCount": 1788,
+      "rawPanId": "2015122300020757",
+      "contentHash": "754d2e458a517873a4510b7ab00f3724fbf7c930f677c484a1fb6cf878607c20",
+      "isNew": false,
+      "lastChangedAt": "2026-09-15T05:59:48.625Z"
+    },
+    {
+      "id": "rental-2015122300020714",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020714",
+      "title": "천안병천신한 국민임대주택 예비입주자 모집공고(2026.09.15)",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "충청남도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-09-30",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020714&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "천안병천신한국민임대예비입주자모집공고문(2026.09.15).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68606218"
+        },
+        {
+          "name": "천안병천신한국민임대예비입주자모집공고문(2026.09.15).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68606223"
+        }
+      ],
+      "viewCount": 3209,
+      "rawPanId": "2015122300020714",
+      "contentHash": "332be296c7ae3436a317341a698e18fe3941074a3e88590ecf2c912e01706160",
+      "isNew": false,
+      "lastChangedAt": "2026-09-15T05:59:48.625Z"
     },
     {
       "id": "rental-2015122300020726",
@@ -1546,71 +1636,87 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68593328"
         }
       ],
-      "viewCount": 7752,
+      "viewCount": 9168,
       "rawPanId": "2015122300020726",
       "contentHash": "65ccbd671c8ea0534a44c69a105093ccc09e358953d1c039245ca4e19727b68d",
       "isNew": false,
       "lastChangedAt": "2026-09-15T05:59:48.625Z"
     },
     {
-      "id": "rental-2015122300020714",
+      "id": "rental-2015122300020655",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020714",
-      "title": "천안병천신한 국민임대주택 예비입주자 모집공고(2026.09.15)",
+      "sourceNoticeKey": "2015122300020655",
+      "title": "부산광역시 기장군 정관7국민임대 소득완화 모집공고",
       "noticeType": "국민임대",
       "noticeSubtype": null,
-      "region": "충청남도",
+      "region": "부산광역시",
       "status": "공고중",
       "postedAt": "2026-09-15",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020714&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "deadlineAt": "2026-09-29",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020655&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
       "attachments": [
         {
-          "name": "천안병천신한국민임대예비입주자모집공고문(2026.09.15).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68606218"
+          "name": "26.09월부산광역시국민임대정례모집공고문_공고용(소득완화)-1.owpml",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68373882"
         },
         {
-          "name": "천안병천신한국민임대예비입주자모집공고문(2026.09.15).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68606223"
+          "name": "26.09월부산광역시국민임대정례모집공고문_공고용(소득완화)-1.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68373910"
         }
       ],
-      "viewCount": 2787,
-      "rawPanId": "2015122300020714",
-      "contentHash": "332be296c7ae3436a317341a698e18fe3941074a3e88590ecf2c912e01706160",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T05:59:48.625Z"
+      "viewCount": 4302,
+      "rawPanId": "2015122300020655",
+      "contentHash": "a0748931aea0b547b1231419be0410b580b36b46a89c612496514450377e99dc",
+      "isNew": true,
+      "lastChangedAt": "2026-09-18T05:44:00.855Z"
     },
     {
-      "id": "rental-2015122300020757",
+      "id": "rental-2015122300020716",
       "source": "lh-rental",
       "category": "rental",
       "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020757",
-      "title": "남해평리휴먼시아 국민임대주택 예비입주자 모집",
+      "sourceNoticeKey": "2015122300020716",
+      "title": "김해진영6단지 국민임대주택 예비입주자 모집('26.09.15. 공고)",
       "noticeType": "국민임대",
       "noticeSubtype": null,
       "region": "경상남도",
       "status": "공고중",
       "postedAt": "2026-09-15",
       "deadlineAt": "2026-10-01",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020757&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020716&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
       "attachments": [
         {
-          "name": "남해평리_국민임대예비입주자표준모집공고문(2026.09.15).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68591482"
+          "name": "260915김해시지역국민임대주택예비입주자모집공고.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68524173"
         },
         {
-          "name": "남해평리_국민임대예비입주자표준모집공고문(2026.09.15.).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68591483"
+          "name": "260915김해시지역국민임대주택예비입주자모집공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68524174"
+        },
+        {
+          "name": "[별지1](공통)필수제출서류.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68524464"
+        },
+        {
+          "name": "[별지2]예비신혼부부제출서류.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68524472"
+        },
+        {
+          "name": "[별지3]위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68524475"
+        },
+        {
+          "name": "김해진영6단지국민임대평면도(260915공고).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68524478"
         }
       ],
-      "viewCount": 1615,
-      "rawPanId": "2015122300020757",
-      "contentHash": "754d2e458a517873a4510b7ab00f3724fbf7c930f677c484a1fb6cf878607c20",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T05:59:48.625Z"
+      "viewCount": 3108,
+      "rawPanId": "2015122300020716",
+      "contentHash": "443986f935f0ce256c3f7d5c06605edeea2079efc3f62ad3a1a48464a63467ef",
+      "isNew": true,
+      "lastChangedAt": "2026-09-18T05:44:00.855Z"
     },
     {
       "id": "rental-2015122300020708",
@@ -1636,11 +1742,41 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68598833"
         }
       ],
-      "viewCount": 7071,
+      "viewCount": 7993,
       "rawPanId": "2015122300020708",
       "contentHash": "3d14e0201a101b57db613a2ced4642542cda2a3df35d038d9e01b157a684b559",
       "isNew": false,
       "lastChangedAt": "2026-09-15T05:59:48.625Z"
+    },
+    {
+      "id": "rental-2015122300020754",
+      "source": "lh-rental",
+      "category": "rental",
+      "categoryLabel": "임대",
+      "sourceNoticeKey": "2015122300020754",
+      "title": "[양산시지역]양산대석휴먼시아 국민임대주택 예비입주자 모집",
+      "noticeType": "국민임대",
+      "noticeSubtype": null,
+      "region": "경상남도",
+      "status": "공고중",
+      "postedAt": "2026-09-15",
+      "deadlineAt": "2026-09-29",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020754&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
+      "attachments": [
+        {
+          "name": "(2609.15)양산대석_국민임대예비입주자표준모집공고문(mymy버전)_첨부포함.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68587914"
+        },
+        {
+          "name": "(2609.15)양산대석_국민임대예비입주자표준모집공고문(mymy버전)_첨부포함.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68587925"
+        }
+      ],
+      "viewCount": 1905,
+      "rawPanId": "2015122300020754",
+      "contentHash": "ee3e1a2703bbd0bb93ec2c13047765a5e29d336a20f6b05adb33bd073ec84a81",
+      "isNew": true,
+      "lastChangedAt": "2026-09-18T05:44:00.855Z"
     },
     {
       "id": "rental-2015122300020667",
@@ -1674,129 +1810,9 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68565375"
         }
       ],
-      "viewCount": 2946,
+      "viewCount": 3548,
       "rawPanId": "2015122300020667",
       "contentHash": "fb9fc6725c90de71e6cbdcb6ea42ce538ab818c66488ce3cf9900f3ae1be6119",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T05:59:48.625Z"
-    },
-    {
-      "id": "rental-2015122300020724",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020724",
-      "title": "창녕창녕 국민임대주택 예비입주자 모집",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "경상남도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-09-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020724&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "창녕창녕국민임대주택예비자모집공고.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68582823"
-        },
-        {
-          "name": "창녕창녕국민임대주택예비자모집공고.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68582824"
-        }
-      ],
-      "viewCount": 1364,
-      "rawPanId": "2015122300020724",
-      "contentHash": "b165fb891836a00548fa5f28bdff44924a719f46c7a460d3789d4f0dbde9846a",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T05:59:48.625Z"
-    },
-    {
-      "id": "rental-2015122300020729",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020729",
-      "title": "홍성남장2 국민임대주택 예비입주자 모집공고(2026.09.15)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "충청남도",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-09-30",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020729&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "홍성남장2_국민임대예비입주자표준모집공고문(2026.09.15).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68591925"
-        },
-        {
-          "name": "홍성남장2_국민임대예비입주자표준모집공고문(2026.09.15).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68591928"
-        }
-      ],
-      "viewCount": 1738,
-      "rawPanId": "2015122300020729",
-      "contentHash": "c4d29a3dc60b3aacb68e3894c4c3491776650e5643a8154ff3e4367f3718a6da",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T05:59:48.625Z"
-    },
-    {
-      "id": "rental-2015122300020747",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020747",
-      "title": "장성군 국민임대주택 예비입주자 모집(2026.09.15.공고)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "전남광주통합특별시",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-09-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020747&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(`26.09.15.)장성군국민임대주택예비입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68576649"
-        },
-        {
-          "name": "(`26.09.15.)장성군국민임대주택예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68576650"
-        }
-      ],
-      "viewCount": 1323,
-      "rawPanId": "2015122300020747",
-      "contentHash": "9382c19054ccb051b4a9cc972cf5fadec311a8135835d817289059046735803c",
-      "isNew": false,
-      "lastChangedAt": "2026-09-15T05:59:48.625Z"
-    },
-    {
-      "id": "rental-2015122300020748",
-      "source": "lh-rental",
-      "category": "rental",
-      "categoryLabel": "임대",
-      "sourceNoticeKey": "2015122300020748",
-      "title": "담양백동2 국민임대주택 예비입주자 모집(2026.09.15.공고)",
-      "noticeType": "국민임대",
-      "noticeSubtype": null,
-      "region": "전남광주통합특별시",
-      "status": "공고중",
-      "postedAt": "2026-09-15",
-      "deadlineAt": "2026-09-29",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1026&panId=2015122300020748&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07",
-      "attachments": [
-        {
-          "name": "(`26.09.15.)담양백동2국민임대주택예비입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68576656"
-        },
-        {
-          "name": "(`26.09.15.)담양백동2국민임대주택예비입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68576657"
-        }
-      ],
-      "viewCount": 1098,
-      "rawPanId": "2015122300020748",
-      "contentHash": "fcc911a814a0e8d7f6c9a8966a1494828361967ea9fdc4ad9452a87e37d33a24",
       "isNew": false,
       "lastChangedAt": "2026-09-15T05:59:48.625Z"
     }
