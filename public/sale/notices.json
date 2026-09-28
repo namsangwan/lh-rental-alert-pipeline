@@ -1,9 +1,47 @@
 {
-  "generatedAt": "2026-09-27T12:54:08.635Z",
+  "generatedAt": "2026-09-28T06:35:23.538Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "sale-0000061180",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061180",
+      "title": "원주무실 A-2블록 공공분양주택 자격완화 추가 입주자모집 공고(유주택자 가능)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-09-28",
+      "deadlineAt": "2026-10-14",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061180&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(공고문)원주무실A-2블록공공분양주택자격완화추가입주자모집(유주택가능)20260928.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719805"
+        },
+        {
+          "name": "(공고문)원주무실A-2블록공공분양주택자격완화추가입주자모집(유주택가능)20260928.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719798"
+        },
+        {
+          "name": "[붙임2]원주무실A-2블록공공분양팸플릿(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719871"
+        },
+        {
+          "name": "[붙임1]위임장(원주무실A-2분양주택).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719859"
+        }
+      ],
+      "viewCount": 1518,
+      "rawPanId": "0000061180",
+      "contentHash": "1af5c5a9cf3f38771b117ff33901a59d8e5245dd7394c20a9047d6f478f92270",
+      "isNew": true,
+      "lastChangedAt": "2026-09-28T06:35:23.538Z"
+    },
     {
       "id": "sale-0000061182",
       "source": "lh-sale",
@@ -44,7 +82,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744112"
         }
       ],
-      "viewCount": 6444,
+      "viewCount": 8489,
       "rawPanId": "0000061182",
       "contentHash": "727a4a8f2442dc8cfdb7e1a6c2b3352f50488466363356eab762b585be6dac5d",
       "isNew": false,
@@ -60,7 +98,7 @@
       "noticeType": "공공분양",
       "noticeSubtype": "신혼희망",
       "region": "경기도",
-      "status": "공고중",
+      "status": "접수중",
       "postedAt": "2026-09-18",
       "deadlineAt": "2026-09-29",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061175&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
@@ -102,11 +140,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68663298"
         }
       ],
-      "viewCount": 15735,
+      "viewCount": 18557,
       "rawPanId": "0000061175",
-      "contentHash": "bc669816a90191459facbf7dcc6835ec690133e991572f65c79b1f5ad4a47d04",
+      "contentHash": "d083f38efae48d0ef6f5c22de7bb9ac14555d7864f2b02dedf65b45d47a9e28d",
       "isNew": false,
-      "lastChangedAt": "2026-09-18T05:44:00.855Z"
+      "lastChangedAt": "2026-09-28T06:35:23.538Z"
     },
     {
       "id": "sale-2015122300020799",
@@ -148,7 +186,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68655121"
         }
       ],
-      "viewCount": 3271,
+      "viewCount": 3496,
       "rawPanId": "2015122300020799",
       "contentHash": "c57552d177c6c9c68ee15efd1072eb2b7267006713a3e41058e8ee8e166df754",
       "isNew": false,
@@ -186,7 +224,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68639168"
         }
       ],
-      "viewCount": 3716,
+      "viewCount": 4042,
       "rawPanId": "2015122300020598",
       "contentHash": "d93e3529e90e30a6d5b9179da62370fc24a4b6de29870ee0c3be8bda70ba63b0",
       "isNew": false,
@@ -224,7 +262,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68652034"
         }
       ],
-      "viewCount": 2837,
+      "viewCount": 3083,
       "rawPanId": "0000061178",
       "contentHash": "14d8dddbb583918375d24af1bed5598d86d260caa4b5c54d08e754db695d3e95",
       "isNew": false,
@@ -266,7 +304,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68612520"
         }
       ],
-      "viewCount": 4343,
+      "viewCount": 4821,
       "rawPanId": "2015122300020766",
       "contentHash": "ad8a767c6b600fbb2fb7db8cd0e552e82692aaddb1836f4bf00860266f9d83b9",
       "isNew": false,
@@ -312,7 +350,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68594664"
         }
       ],
-      "viewCount": 30822,
+      "viewCount": 33418,
       "rawPanId": "0000061174",
       "contentHash": "bb32099585efb8a3bbcaf221e9ab8d07f1ce952dffb4782e13bd04d980c1d843",
       "isNew": false,
@@ -358,7 +396,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435576"
         }
       ],
-      "viewCount": 13016,
+      "viewCount": 13446,
       "rawPanId": "0000061171",
       "contentHash": "ed00349bdf7c2a7bc2bbe942feb19e3c07de19dc2613cecfda38cd09c4f7a8ff",
       "isNew": false,
@@ -388,7 +426,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435915"
         }
       ],
-      "viewCount": 5164,
+      "viewCount": 5290,
       "rawPanId": "2015122300020606",
       "contentHash": "e4c800366f1d8ce3d8008eb0228c161111d64fb2d20cbbb8934bc28643541022",
       "isNew": false,
@@ -434,7 +472,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371730"
         }
       ],
-      "viewCount": 55741,
+      "viewCount": 56381,
       "rawPanId": "0000061167",
       "contentHash": "4171ede149795c8c30d6b15de76812066b5f1a2e205afdc107110cb9096c4a13",
       "isNew": false,
@@ -480,7 +518,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276095"
         }
       ],
-      "viewCount": 8531,
+      "viewCount": 8664,
       "rawPanId": "2015122300020425",
       "contentHash": "29a6112a15df357d9a5a796962dbb8ab25ecc7ac4f7b07b3c8244dab0266334d",
       "isNew": false,
@@ -514,7 +552,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68108549"
         }
       ],
-      "viewCount": 10376,
+      "viewCount": 10544,
       "rawPanId": "2015122300020518",
       "contentHash": "abe8dde506f5907cb279ca1e1697e061228379684f36964b70b689d6109fdeb4",
       "isNew": false,
@@ -568,7 +606,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126812"
         }
       ],
-      "viewCount": 125151,
+      "viewCount": 125361,
       "rawPanId": "0000061157",
       "contentHash": "a2568b506327b2021bb6eafd091f19071813209c3424d73b7105a9d96990a80c",
       "isNew": false,
@@ -606,7 +644,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082626"
         }
       ],
-      "viewCount": 66269,
+      "viewCount": 66659,
       "rawPanId": "0000061155",
       "contentHash": "1cec38bae16f2f1616c64acff559efe9830ab3a33200aa34d2d34d6dece90e7e",
       "isNew": false,
@@ -624,7 +662,7 @@
       "region": "경상북도",
       "status": "공고중",
       "postedAt": "2026-08-07",
-      "deadlineAt": "2026-12-24",
+      "deadlineAt": "2026-09-28",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061154&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
       "attachments": [
         {
@@ -648,11 +686,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68016770"
         }
       ],
-      "viewCount": 8874,
+      "viewCount": 9033,
       "rawPanId": "0000061154",
-      "contentHash": "ce4c0bef7a970ce077e2928c788234832f10ba4021cfbc4f364efd485b49252c",
+      "contentHash": "f0787240584a01ec1de77ac1bb90fd7f3d530e0822635d330676522a084ecf96",
       "isNew": false,
-      "lastChangedAt": "2026-08-07T06:11:30.493Z"
+      "lastChangedAt": "2026-09-28T06:35:23.538Z"
     }
   ]
 }
