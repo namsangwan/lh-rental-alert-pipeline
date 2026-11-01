@@ -1,88 +1,438 @@
 {
-  "generatedAt": "2026-10-01T16:13:52.970Z",
+  "generatedAt": "2026-11-01T13:44:02.000Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 17,
+  "count": 13,
   "items": [
     {
-      "id": "sale-2015122300020860",
+      "id": "sale-0000061196",
       "source": "lh-sale",
       "category": "sale",
       "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300020860",
-      "title": "경남 김해시·양산시 다세대주택 잔여세대 일반매각(무순위)",
+      "sourceNoticeKey": "0000061196",
+      "title": "안산신길2 B-1블록 공공분양주택 입주자 모집공고",
       "noticeType": "분양주택",
       "noticeSubtype": null,
-      "region": "경상남도",
+      "region": "경기도",
       "status": "공고중",
-      "postedAt": "2026-09-30",
-      "deadlineAt": "2026-10-21",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020860&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "postedAt": "2026-10-30",
+      "deadlineAt": "2026-11-18",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061196&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
       "attachments": [
         {
-          "name": "김해시,양산시다세대주택일반매각모집공고문(260930).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68800695"
+          "name": "안산신길2B-1입주자공고문(최종).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227279"
         },
         {
-          "name": "김해시,양산시다세대주택일반매각모집공고문(260930).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68800694"
+          "name": "안산신길2B-1입주자공고문(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227281"
         },
         {
-          "name": "붙임_개인정보수집이용및제3자제공동의서,무주택서약서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68800722"
+          "name": "안산신길2B-1블록_팸플릿최종.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227653"
+        },
+        {
+          "name": "1.위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227255"
+        },
+        {
+          "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227257"
+        },
+        {
+          "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227259"
+        },
+        {
+          "name": "3.주택취득자금조달및입주계획서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227264"
         }
       ],
-      "viewCount": 1017,
-      "rawPanId": "2015122300020860",
-      "contentHash": "a2a1aa01b7b2da2b3b5b3bdad1ca577dbcd229683e3e1616c3af66aa61c6f3c1",
-      "isNew": false,
-      "lastChangedAt": "2026-09-30T13:31:55.744Z"
+      "viewCount": 6789,
+      "rawPanId": "0000061196",
+      "contentHash": "4db8c247569002ed608eb005eed6971efcefc018e1bddf04e45495f62ad096b2",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
     },
     {
-      "id": "sale-0000061183",
+      "id": "sale-0000061198",
       "source": "lh-sale",
       "category": "sale",
       "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061183",
-      "title": "[정정공고]인천가정2 B2블록 공공분양 잔여세대 추가 입주자모집공고",
+      "sourceNoticeKey": "0000061198",
+      "title": "인천가정2 B2블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정)",
       "noticeType": "분양주택",
       "noticeSubtype": null,
       "region": "인천광역시",
       "status": "공고중",
-      "postedAt": "2026-09-30",
-      "deadlineAt": "2026-10-07",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061183&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "postedAt": "2026-10-30",
+      "deadlineAt": "2026-11-10",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061198&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
       "attachments": [
         {
-          "name": "(정정)인천가정2B2블록잔여세대추가입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804502"
+          "name": "인천가정2B2BL잔여세대추가모집(순번추첨동호지정)입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224852"
         },
         {
-          "name": "(정정)인천가정2B2블록잔여세대추가입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804506"
+          "name": "인천가정2B2BL잔여세대추가모집(순번추첨동호지정)입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224439"
         },
         {
-          "name": "인천가정2B2블록공공분양팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804520"
+          "name": "인천가정2B2블록분양팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224869"
         },
         {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804534"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804536"
+          "name": "위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224913"
         },
         {
           "name": "인천가정2B2블록잔여세대배치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804529"
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224911"
         }
       ],
-      "viewCount": 2997,
-      "rawPanId": "0000061183",
-      "contentHash": "8cca4989ebe2d2e1927a5d3c56f5c5b093641a447e9d57e23af8420bceab02b3",
-      "isNew": false,
-      "lastChangedAt": "2026-09-30T13:31:55.744Z"
+      "viewCount": 3680,
+      "rawPanId": "0000061198",
+      "contentHash": "6d0b0194ef694584426a6b5c6d38ab9e976ffe36a134478e919215b2da70180d",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-0000061189",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061189",
+      "title": "안산신길2 A-6블록 신혼희망타운(공공분양) 입주자모집공고",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-10-30",
+      "deadlineAt": "2026-11-24",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061189&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "(공고문)안산신길2A-6블록신혼희망타운(공공분양)입주자모집공고.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69223595"
+        },
+        {
+          "name": "(공고문)안산신길2A-6블록신혼희망타운(공공분양)입주자모집공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69223600"
+        },
+        {
+          "name": "(팸플릿)안산신길2A-6블록신혼희망타운(공공분양).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69219098"
+        },
+        {
+          "name": "1.위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171704"
+        },
+        {
+          "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171742"
+        },
+        {
+          "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171752"
+        },
+        {
+          "name": "3-1.금융정보등(금융·신용·보험정보)제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171757"
+        },
+        {
+          "name": "3-2.금융정보등(금융·신용·보험정보)제공동의서-작성방법.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171763"
+        },
+        {
+          "name": "4.자산보유사실확인서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171767"
+        }
+      ],
+      "viewCount": 3965,
+      "rawPanId": "0000061189",
+      "contentHash": "bfbb21e588257fa720c894f80ef63aa6f49dd085164ed0e9482ee0777f8e6d31",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-0000061197",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061197",
+      "title": "인천가정2 A-2블록 신혼희망타운(공공분양) 잔여세대 추가 입주자모집공고",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "인천광역시",
+      "status": "공고중",
+      "postedAt": "2026-10-30",
+      "deadlineAt": "2026-11-09",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061197&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "(공고문)인천가정2A-2블록신혼희망타운(공공분양)추가입주자모집공고문_게시.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224264"
+        },
+        {
+          "name": "(공고문)인천가정2A-2블록신혼희망타운(공공분양)추가입주자모집공고문_게시.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224266"
+        },
+        {
+          "name": "(팸플렛)인천가정2A2(2401).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215079"
+        },
+        {
+          "name": "(동호판)인천가정2A-2블록잔여세대동호판.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215088"
+        },
+        {
+          "name": "(토지이용계획도)인천가정2A-2블록토지이용계획도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215096"
+        },
+        {
+          "name": "1.위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215168"
+        },
+        {
+          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215169"
+        }
+      ],
+      "viewCount": 3106,
+      "rawPanId": "0000061197",
+      "contentHash": "00f4fb91e2c1307f613c52389b85abd4fff2165dc51e2864cbe0d55ad831952e",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-0000061195",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061195",
+      "title": "[정정공고]시흥거모 S-1블록 공공분양주택 입주자모집공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-10-27",
+      "deadlineAt": "2026-11-17",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061195&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(정정)시흥거모S-1BL공공분양입주자모집공고문(최종).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171326"
+        },
+        {
+          "name": "(정정)시흥거모S-1BL공공분양입주자모집공고문(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171330"
+        },
+        {
+          "name": "(정정)시흥거모S-1BL공공분양팸플릿(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171209"
+        },
+        {
+          "name": "개인정보수집이용및제3자제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69168038"
+        },
+        {
+          "name": "위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69168030"
+        },
+        {
+          "name": "주택취득자금조달및입주계획서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69168041"
+        }
+      ],
+      "viewCount": 12518,
+      "rawPanId": "0000061195",
+      "contentHash": "dc82c0f8c46d6b0de00c37feaae27f7b632821e62a4375bdc9441dbbf67ced69",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-2015122300020961",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300020961",
+      "title": "충남권(아산시, 보령시, 천안시, 공주시) 미분양매입 일반매각 잔여세대 선착순 동·호 지정 공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "충청남도",
+      "status": "공고중",
+      "postedAt": "2026-10-26",
+      "deadlineAt": "2026-11-26",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020961&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "충남권(아산시,보령시,천안시,공주시)미분양매입일반매각잔여세대선착순동·호지정공고.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69142994"
+        },
+        {
+          "name": "충남권(아산시,보령시,천안시,공주시)미분양매입일반매각잔여세대선착순동·호지정공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69142995"
+        },
+        {
+          "name": "위임장(양식).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69142993"
+        }
+      ],
+      "viewCount": 5613,
+      "rawPanId": "2015122300020961",
+      "contentHash": "70d816a480bf83c246f95cb270827ad04f29578fab999c710f189b245d9bd496",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-0000061186",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061186",
+      "title": "시흥거모 S-1블록 공공분양주택 입주자모집공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "정정공고중",
+      "postedAt": "2026-10-23",
+      "deadlineAt": "2026-11-17",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061186&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "4.시흥거모S-1BL공공분양입주자모집공고문(최종).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69118222"
+        },
+        {
+          "name": "5.시흥거모S-1BL공공분양입주자모집공고문(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69118224"
+        },
+        {
+          "name": "6.시흥거모S-1BL공공분양팸플릿(최종).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69118216"
+        },
+        {
+          "name": "1.위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69115645"
+        },
+        {
+          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69115655"
+        },
+        {
+          "name": "3.주택취득자금조달및입주계획서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69115658"
+        }
+      ],
+      "viewCount": 21879,
+      "rawPanId": "0000061186",
+      "contentHash": "1da416c53c3e9e4057edb743c9a9d1ff3a000794034b3f3d68044a19a28971a3",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-0000061165",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061165",
+      "title": "시흥하중 A1블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-10-23",
+      "deadlineAt": "2026-11-03",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061165&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "시흥하중A1블록신혼희망타운(공공분양)잔여세대추가입주자모집공고.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69083288"
+        },
+        {
+          "name": "시흥하중A1블록신혼희망타운(공공분양)잔여세대추가입주자모집공고.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69083286"
+        },
+        {
+          "name": "시흥하중A1블록신혼희망타운(공공분양)팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957484"
+        },
+        {
+          "name": "1.위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957502"
+        },
+        {
+          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957506"
+        },
+        {
+          "name": "3-1.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957516"
+        },
+        {
+          "name": "3-2.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서-작성방법.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957522"
+        },
+        {
+          "name": "4.자산보유사실확인서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957527"
+        },
+        {
+          "name": "시흥하중A1블록잔여세대동호배치도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957496"
+        }
+      ],
+      "viewCount": 16567,
+      "rawPanId": "0000061165",
+      "contentHash": "78ffb4893d6afe5afb6efbc30725a986a16509af89db982b51dc16fa0d902f59",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+    },
+    {
+      "id": "sale-2015122300020906",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300020906",
+      "title": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "전남광주통합특별시",
+      "status": "공고중",
+      "postedAt": "2026-10-14",
+      "deadlineAt": "2026-12-31",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020906&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "광주전남혁신빛가람LH3단지잔여세대일반매각공고(선착순동호지정).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963716"
+        },
+        {
+          "name": "광주전남혁신빛가람LH3단지잔여세대일반매각공고(선착순동호지정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963717"
+        },
+        {
+          "name": "(예시)토지거래계약허가신청서작성예시.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963714"
+        },
+        {
+          "name": "[팜플렛]빛가람LH3단지평면도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963715"
+        },
+        {
+          "name": "위임장양식(대리인계약시제출).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963718"
+        },
+        {
+          "name": "토지거래허가협의관련제출서류(양식).zip",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963719"
+        }
+      ],
+      "viewCount": 7695,
+      "rawPanId": "2015122300020906",
+      "contentHash": "3580a969384c22dbacfc8e03fa2ad95af0e24605df5f5b0bf00123aa0731df7b",
+      "isNew": true,
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
     },
     {
       "id": "sale-2015122300020823",
@@ -96,7 +446,7 @@
       "region": "경상북도",
       "status": "공고중",
       "postedAt": "2026-09-30",
-      "deadlineAt": "2026-10-26",
+      "deadlineAt": "2027-08-31",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020823&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
       "attachments": [
         {
@@ -116,199 +466,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68731845"
         }
       ],
-      "viewCount": 693,
+      "viewCount": 9672,
       "rawPanId": "2015122300020823",
-      "contentHash": "e1f923b7d73d2f599a64e0796f4754eb2aa6135e912295018102fc45481e5c19",
+      "contentHash": "451097da295e517555eb6a9fff3db9e54079a06d49b347f8e6c6bfe542617876",
       "isNew": false,
-      "lastChangedAt": "2026-09-30T13:31:55.744Z"
-    },
-    {
-      "id": "sale-0000061179",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061179",
-      "title": "인천계양 A17블록 신혼희망타운(공공분양) 입주자모집공고",
-      "noticeType": "공공분양",
-      "noticeSubtype": "신혼희망",
-      "region": "인천광역시",
-      "status": "공고중",
-      "postedAt": "2026-09-30",
-      "deadlineAt": "2026-10-27",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061179&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
-      "attachments": [
-        {
-          "name": "인천계양A17블록신혼희망타운(공공분양)입주자모집공고문_0930.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68807308"
-        },
-        {
-          "name": "인천계양A17블록신혼희망타운(공공분양)입주자모집공고문_0930.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68807314"
-        },
-        {
-          "name": "인천계양A17_팸플릿_0930.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68804907"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68787912"
-        },
-        {
-          "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68787919"
-        },
-        {
-          "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68787923"
-        },
-        {
-          "name": "3-1.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68787924"
-        },
-        {
-          "name": "3-2.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서-작성방법.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68787927"
-        },
-        {
-          "name": "4.자산보유사실확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68787929"
-        }
-      ],
-      "viewCount": 7543,
-      "rawPanId": "0000061179",
-      "contentHash": "8ca95c57c8ec2fe491ba0a953bae6126ed8c3d4977c13b9eef341a29c5b91b85",
-      "isNew": false,
-      "lastChangedAt": "2026-09-30T13:31:55.744Z"
-    },
-    {
-      "id": "sale-0000061181",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061181",
-      "title": "수원당수 A-3블록 신혼희망타운(공공분양) 잔여세대 추가입주자 모집공고(입주 후 해약세대)",
-      "noticeType": "공공분양",
-      "noticeSubtype": "신혼희망",
-      "region": "경기도",
-      "status": "공고중",
-      "postedAt": "2026-09-29",
-      "deadlineAt": "2026-10-12",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061181&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
-      "attachments": [
-        {
-          "name": "붙임_수원당수A-3블록신혼희망타운(공공분양)잔여세대입주자모집공고문(입주후해약세대).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68782126"
-        },
-        {
-          "name": "붙임_수원당수A-3블록신혼희망타운(공공분양)잔여세대입주자모집공고문(입주후해약세대).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68782076"
-        },
-        {
-          "name": "붙임_수원당수A-3블록신혼희망타운팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68782715"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68782285"
-        },
-        {
-          "name": "2.개인정보수집·이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68782289"
-        },
-        {
-          "name": "붙임_수원당수A-3블록동호배치도(1세대).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68782985"
-        }
-      ],
-      "viewCount": 9292,
-      "rawPanId": "0000061181",
-      "contentHash": "8855678267bfb6955c2e0c8975e5fdd9ddbac991094156f2bb1ea7884f69eaea",
-      "isNew": false,
-      "lastChangedAt": "2026-09-29T13:55:04.430Z"
-    },
-    {
-      "id": "sale-0000061180",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061180",
-      "title": "원주무실 A-2블록 공공분양주택 자격완화 추가 입주자모집 공고(유주택자 가능)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "강원특별자치도",
-      "status": "공고중",
-      "postedAt": "2026-09-28",
-      "deadlineAt": "2026-10-14",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061180&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(공고문)원주무실A-2블록공공분양주택자격완화추가입주자모집(유주택가능)20260928.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719805"
-        },
-        {
-          "name": "(공고문)원주무실A-2블록공공분양주택자격완화추가입주자모집(유주택가능)20260928.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719798"
-        },
-        {
-          "name": "[붙임2]원주무실A-2블록공공분양팸플릿(최종).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719871"
-        },
-        {
-          "name": "[붙임1]위임장(원주무실A-2분양주택).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68719859"
-        }
-      ],
-      "viewCount": 28603,
-      "rawPanId": "0000061180",
-      "contentHash": "1af5c5a9cf3f38771b117ff33901a59d8e5245dd7394c20a9047d6f478f92270",
-      "isNew": false,
-      "lastChangedAt": "2026-09-28T06:35:23.538Z"
-    },
-    {
-      "id": "sale-0000061182",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061182",
-      "title": "인천가정2 B2블록 공공분양 잔여세대 추가 입주자모집공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "정정공고중",
-      "postedAt": "2026-09-23",
-      "deadlineAt": "2026-10-07",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061182&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "인천가정2B2블록잔여세대추가입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744103"
-        },
-        {
-          "name": "인천가정2B2블록잔여세대추가입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744102"
-        },
-        {
-          "name": "인천가정2B2블록공공분양팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744107"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744134"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744135"
-        },
-        {
-          "name": "인천가정2B2블록잔여세대배치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68744112"
-        }
-      ],
-      "viewCount": 13710,
-      "rawPanId": "0000061182",
-      "contentHash": "e6b084045f26db71ee999fea039e4afaf6810443aa5f0f0ae0510597b4005b36",
-      "isNew": false,
-      "lastChangedAt": "2026-09-30T13:31:55.744Z"
+      "lastChangedAt": "2026-11-01T13:44:02.000Z"
     },
     {
       "id": "sale-2015122300020799",
@@ -350,7 +512,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68655121"
         }
       ],
-      "viewCount": 4458,
+      "viewCount": 12972,
       "rawPanId": "2015122300020799",
       "contentHash": "c57552d177c6c9c68ee15efd1072eb2b7267006713a3e41058e8ee8e166df754",
       "isNew": false,
@@ -388,57 +550,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68652034"
         }
       ],
-      "viewCount": 5359,
+      "viewCount": 19375,
       "rawPanId": "0000061178",
       "contentHash": "14d8dddbb583918375d24af1bed5598d86d260caa4b5c54d08e754db695d3e95",
       "isNew": false,
       "lastChangedAt": "2026-09-18T05:44:00.855Z"
-    },
-    {
-      "id": "sale-0000061174",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061174",
-      "title": "[정정공고]인천계양 A6블록 공공분양주택 입주자모집공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "접수중",
-      "postedAt": "2026-09-14",
-      "deadlineAt": "2026-10-02",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061174&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(정정)인천계양A6블록입주자모집공고문(0914).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68595373"
-        },
-        {
-          "name": "(정정)인천계양A6블록입주자모집공고문(0914).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68595376"
-        },
-        {
-          "name": "인천계양A-6블록공공분양_팜플렛_A4_0914_게시용.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68594362"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68594649"
-        },
-        {
-          "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68594660"
-        },
-        {
-          "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68594664"
-        }
-      ],
-      "viewCount": 52318,
-      "rawPanId": "0000061174",
-      "contentHash": "bb32099585efb8a3bbcaf221e9ab8d07f1ce952dffb4782e13bd04d980c1d843",
-      "isNew": false,
-      "lastChangedAt": "2026-09-17T05:57:48.427Z"
     },
     {
       "id": "sale-0000061171",
@@ -480,259 +596,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435576"
         }
       ],
-      "viewCount": 15175,
+      "viewCount": 30491,
       "rawPanId": "0000061171",
       "contentHash": "ed00349bdf7c2a7bc2bbe942feb19e3c07de19dc2613cecfda38cd09c4f7a8ff",
       "isNew": false,
       "lastChangedAt": "2026-09-04T12:03:43.608Z"
-    },
-    {
-      "id": "sale-2015122300020606",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300020606",
-      "title": "무안 오룡마을 남악휴먼시아 잔여세대 일반매각 공고(상시, 유주택)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "전남광주통합특별시",
-      "status": "공고중",
-      "postedAt": "2026-09-04",
-      "deadlineAt": "2027-12-31",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020606&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "무안오룡마을남악휴먼시아일반매각공고문(선착순동호지정).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435952"
-        },
-        {
-          "name": "무안오룡마을남악휴먼시아일반매각공고문(선착순동호지정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435915"
-        }
-      ],
-      "viewCount": 5955,
-      "rawPanId": "2015122300020606",
-      "contentHash": "e4c800366f1d8ce3d8008eb0228c161111d64fb2d20cbbb8934bc28643541022",
-      "isNew": false,
-      "lastChangedAt": "2026-09-16T12:31:28.916Z"
-    },
-    {
-      "id": "sale-0000061167",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061167",
-      "title": "인천계양 A6블록 공공분양주택 입주자모집공고",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "정정공고중",
-      "postedAt": "2026-08-31",
-      "deadlineAt": "2026-10-02",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061167&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "인천계양A6블록입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371532"
-        },
-        {
-          "name": "인천계양A6블록입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371539"
-        },
-        {
-          "name": "인천계양A-6블록공공분양_팜플렛(게시용).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371525"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68367427"
-        },
-        {
-          "name": "2-1.개인정보수집이용및제3자제공동의서(사전청약당첨자용).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371720"
-        },
-        {
-          "name": "2-2.개인정보수집이용및제3자제공동의서(본청약자용).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68371730"
-        }
-      ],
-      "viewCount": 60674,
-      "rawPanId": "0000061167",
-      "contentHash": "4171ede149795c8c30d6b15de76812066b5f1a2e205afdc107110cb9096c4a13",
-      "isNew": false,
-      "lastChangedAt": "2026-09-14T13:48:59.226Z"
-    },
-    {
-      "id": "sale-2015122300020425",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300020425",
-      "title": "광주전남혁신 빛가람LH3단지 잔여세대 일반매각 공고(상시, 선착순 동호지정)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "전남광주통합특별시",
-      "status": "공고중",
-      "postedAt": "2026-08-25",
-      "deadlineAt": "2026-10-07",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020425&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "광주전남혁신빛가람LH3단지잔여세대일반매각공고(선착순동호지정).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276093"
-        },
-        {
-          "name": "광주전남혁신빛가람LH3단지잔여세대일반매각공고(선착순동호지정).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276094"
-        },
-        {
-          "name": "(예시)토지거래계약허가신청서작성예시.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276115"
-        },
-        {
-          "name": "[팜플렛]빛가람LH3단지평면도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276116"
-        },
-        {
-          "name": "위임장양식(대리인계약시제출).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276117"
-        },
-        {
-          "name": "토지거래허가협의관련제출서류(양식).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68276095"
-        }
-      ],
-      "viewCount": 9367,
-      "rawPanId": "2015122300020425",
-      "contentHash": "7f7de2bd885d38ac2a8a52d85ec45f0e3ad6d7afa8da31b33576dabed08d58d2",
-      "isNew": false,
-      "lastChangedAt": "2026-10-01T07:04:45.307Z"
-    },
-    {
-      "id": "sale-2015122300020518",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300020518",
-      "title": "울산 중산디아채 잔여세대 일반매각 공고(선착순)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "울산광역시",
-      "status": "공고중",
-      "postedAt": "2026-08-19",
-      "deadlineAt": "2026-12-23",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300020518&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "울산중산디아채일반매각공고문(최종).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68108151"
-        },
-        {
-          "name": "울산중산디아채일반매각공고문(최종).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68108157"
-        },
-        {
-          "name": "울산중산디아채위치도및평면도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68108549"
-        }
-      ],
-      "viewCount": 11328,
-      "rawPanId": "2015122300020518",
-      "contentHash": "abe8dde506f5907cb279ca1e1697e061228379684f36964b70b689d6109fdeb4",
-      "isNew": false,
-      "lastChangedAt": "2026-08-19T05:35:33.011Z"
-    },
-    {
-      "id": "sale-0000061157",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061157",
-      "title": "울산다운2 A-9 신혼희망타운 선착순 동호지정 공고(5년무이자 할부 및 발코니비용 무상)",
-      "noticeType": "공공분양",
-      "noticeSubtype": "신혼희망",
-      "region": "울산광역시",
-      "status": "공고중",
-      "postedAt": "2026-08-14",
-      "deadlineAt": "2026-12-31",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061157&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
-      "attachments": [
-        {
-          "name": "(최종)울산다운2A-9블록신혼희망타운(공공분양)추가입주자모집공고문(안)('26.08.).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126489"
-        },
-        {
-          "name": "(최종)울산다운2A-9블록신혼희망타운(공공분양)추가입주자모집공고문(안)('26.08.).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126494"
-        },
-        {
-          "name": "0.울산다운2A-9블록신혼희망타운팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126507"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126584"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126689"
-        },
-        {
-          "name": "3.잔여세대동호배치도(26.08.14.기준).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126733"
-        },
-        {
-          "name": "4.해약세대옵션내역(2호).xlsx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126738"
-        },
-        {
-          "name": "5.분양유치확인서등서류(양식).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68126812"
-        }
-      ],
-      "viewCount": 126309,
-      "rawPanId": "0000061157",
-      "contentHash": "a2568b506327b2021bb6eafd091f19071813209c3424d73b7105a9d96990a80c",
-      "isNew": false,
-      "lastChangedAt": "2026-08-14T06:18:45.012Z"
-    },
-    {
-      "id": "sale-0000061155",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061155",
-      "title": "[정정공고]익산평화 공공분양주택 추가 입주자모집(5년 무이자할부)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "전북특별자치도",
-      "status": "정정공고중",
-      "postedAt": "2026-08-12",
-      "deadlineAt": "2027-09-16",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061155&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "(정정)익산평화공공분양무이자할부입주자모집공고문(안)_최종.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082609"
-        },
-        {
-          "name": "(정정)익산평화공공분양무이자할부입주자모집공고문(안)_최종.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082619"
-        },
-        {
-          "name": "위임장(공공분양양식).hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082630"
-        },
-        {
-          "name": "익산평화잔여해약세대목록(옵션내용포함).xls",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68082626"
-        }
-      ],
-      "viewCount": 67653,
-      "rawPanId": "0000061155",
-      "contentHash": "1cec38bae16f2f1616c64acff559efe9830ab3a33200aa34d2d34d6dece90e7e",
-      "isNew": false,
-      "lastChangedAt": "2026-09-18T05:44:00.855Z"
     }
   ]
 }
