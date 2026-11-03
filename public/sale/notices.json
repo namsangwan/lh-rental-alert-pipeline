@@ -1,9 +1,155 @@
 {
-  "generatedAt": "2026-11-03T07:45:21.920Z",
+  "generatedAt": "2026-11-03T16:55:58.081Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "sale-0000061192",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061192",
+      "title": "남양주왕숙 A-2블록 신혼희망타운[공공분양] 잔여세대 추가입주자모집공고",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-11-03",
+      "deadlineAt": "2026-11-12",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061192&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "(261103)남양주왕숙A-2블록신혼희망타운(공공분양)잔여세대추가입주자모집공고문(수정).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69279318"
+        },
+        {
+          "name": "(261103)남양주왕숙A-2블록신혼희망타운(공공분양)잔여세대추가입주자모집공고문(수정).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69279377"
+        },
+        {
+          "name": "1.위임장.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269190"
+        },
+        {
+          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269205"
+        },
+        {
+          "name": "3-1.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269206"
+        },
+        {
+          "name": "3-2.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서-작성방법.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269208"
+        },
+        {
+          "name": "4.자산보유사실확인서.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269211"
+        },
+        {
+          "name": "5.남양주왕숙A-2블록신희타팸플릿(최초모집기준).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269212"
+        },
+        {
+          "name": "붙임_남양주왕숙A-2블록잔여세대동호배치도.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269213"
+        }
+      ],
+      "viewCount": 1925,
+      "rawPanId": "0000061192",
+      "contentHash": "04f1228607bc7bde790b61d3f866a00d8b589614c03722494186ef6f9917e626",
+      "isNew": true,
+      "lastChangedAt": "2026-11-03T16:55:58.081Z"
+    },
+    {
+      "id": "sale-0000061200",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061200",
+      "title": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-11-03",
+      "deadlineAt": "2026-11-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(261103공고)고양지축B-1블록공공분양주택추가입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272971"
+        },
+        {
+          "name": "(261103공고)고양지축B-1블록공공분양주택추가입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272976"
+        },
+        {
+          "name": "(210929-최초공고)고양지축B-1블록팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272993"
+        },
+        {
+          "name": "개인정보수집이용및제3자제공동의서(추가모집).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69273047"
+        },
+        {
+          "name": "위임장(고양지축공공분양주택).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69273068"
+        }
+      ],
+      "viewCount": 2655,
+      "rawPanId": "0000061200",
+      "contentHash": "fc372a3591b5fc09cb326ca40b4230bf4a1e680d7a38afd9c2fc893b3589dcb2",
+      "isNew": true,
+      "lastChangedAt": "2026-11-03T16:55:58.081Z"
+    },
+    {
+      "id": "sale-0000061199",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061199",
+      "title": "고양장항 A-2, A-4, A-5블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고",
+      "noticeType": "공공분양",
+      "noticeSubtype": "신혼희망",
+      "region": "경기도",
+      "status": "공고중",
+      "postedAt": "2026-11-03",
+      "deadlineAt": "2026-11-13",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061199&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
+      "attachments": [
+        {
+          "name": "(261103공고)고양장항A-2,A-4,A-5블록신혼희망타운(공공분양)잔여세대추가입주자모집공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272294"
+        },
+        {
+          "name": "(261103공고)고양장항A-2,A-4,A-5블록신혼희망타운(공공분양)잔여세대추가입주자모집공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272304"
+        },
+        {
+          "name": "(201229-최초공고)고양장항A-4,A-5블록신혼희망타운(공공분양)_팜플렛.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272344"
+        },
+        {
+          "name": "(230915-최초공고)고양장항A-2블록팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272340"
+        },
+        {
+          "name": "개인정보수집이용및제3자제공동의서(추가모집).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272358"
+        },
+        {
+          "name": "위임장(고양장항신혼희망타운).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272356"
+        }
+      ],
+      "viewCount": 1776,
+      "rawPanId": "0000061199",
+      "contentHash": "05541229a39c06ecb577f3954b5bed0a778d93487f417447d75d245ca3b2befc",
+      "isNew": true,
+      "lastChangedAt": "2026-11-03T16:55:58.081Z"
+    },
     {
       "id": "sale-2015122300020994",
       "source": "lh-sale",
@@ -40,7 +186,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69214128"
         }
       ],
-      "viewCount": 1338,
+      "viewCount": 1495,
       "rawPanId": "2015122300020994",
       "contentHash": "2667990749b2193ed4d12fde93655ecc08c2f835add0383f021260028d7a2a7a",
       "isNew": false,
@@ -90,7 +236,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227264"
         }
       ],
-      "viewCount": 13659,
+      "viewCount": 14454,
       "rawPanId": "0000061196",
       "contentHash": "4db8c247569002ed608eb005eed6971efcefc018e1bddf04e45495f62ad096b2",
       "isNew": false,
@@ -132,7 +278,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224911"
         }
       ],
-      "viewCount": 7321,
+      "viewCount": 7916,
       "rawPanId": "0000061198",
       "contentHash": "6d0b0194ef694584426a6b5c6d38ab9e976ffe36a134478e919215b2da70180d",
       "isNew": false,
@@ -190,7 +336,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171767"
         }
       ],
-      "viewCount": 7801,
+      "viewCount": 8249,
       "rawPanId": "0000061189",
       "contentHash": "bfbb21e588257fa720c894f80ef63aa6f49dd085164ed0e9482ee0777f8e6d31",
       "isNew": false,
@@ -240,7 +386,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215169"
         }
       ],
-      "viewCount": 5993,
+      "viewCount": 6452,
       "rawPanId": "0000061197",
       "contentHash": "00f4fb91e2c1307f613c52389b85abd4fff2165dc51e2864cbe0d55ad831952e",
       "isNew": false,
@@ -286,7 +432,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69168041"
         }
       ],
-      "viewCount": 17003,
+      "viewCount": 17842,
       "rawPanId": "0000061195",
       "contentHash": "19218c46386d8efcf4d830593f5a2e052b2cab1b88dfa3e7da466ac3b55fafcc",
       "isNew": false,
@@ -320,7 +466,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69142993"
         }
       ],
-      "viewCount": 6712,
+      "viewCount": 6945,
       "rawPanId": "2015122300020961",
       "contentHash": "70d816a480bf83c246f95cb270827ad04f29578fab999c710f189b245d9bd496",
       "isNew": false,
@@ -366,69 +512,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69115658"
         }
       ],
-      "viewCount": 23194,
+      "viewCount": 23413,
       "rawPanId": "0000061186",
       "contentHash": "1da416c53c3e9e4057edb743c9a9d1ff3a000794034b3f3d68044a19a28971a3",
       "isNew": false,
       "lastChangedAt": "2026-11-01T13:44:02.000Z"
-    },
-    {
-      "id": "sale-0000061165",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061165",
-      "title": "시흥하중 A1블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고",
-      "noticeType": "공공분양",
-      "noticeSubtype": "신혼희망",
-      "region": "경기도",
-      "status": "접수중",
-      "postedAt": "2026-10-23",
-      "deadlineAt": "2026-11-03",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061165&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
-      "attachments": [
-        {
-          "name": "시흥하중A1블록신혼희망타운(공공분양)잔여세대추가입주자모집공고.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69083288"
-        },
-        {
-          "name": "시흥하중A1블록신혼희망타운(공공분양)잔여세대추가입주자모집공고.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69083286"
-        },
-        {
-          "name": "시흥하중A1블록신혼희망타운(공공분양)팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957484"
-        },
-        {
-          "name": "1.위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957502"
-        },
-        {
-          "name": "2.개인정보수집이용및제3자제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957506"
-        },
-        {
-          "name": "3-1.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957516"
-        },
-        {
-          "name": "3-2.금융정보등(금융ㆍ신용ㆍ보험정보)제공동의서-작성방법.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957522"
-        },
-        {
-          "name": "4.자산보유사실확인서.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957527"
-        },
-        {
-          "name": "시흥하중A1블록잔여세대동호배치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68957496"
-        }
-      ],
-      "viewCount": 20280,
-      "rawPanId": "0000061165",
-      "contentHash": "3bfa8c97f3004d3b53c4110643f507eadda4c68371f3cce7c785bfccc49629d4",
-      "isNew": false,
-      "lastChangedAt": "2026-11-02T07:31:04.770Z"
     },
     {
       "id": "sale-2015122300020906",
@@ -470,7 +558,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963719"
         }
       ],
-      "viewCount": 8221,
+      "viewCount": 8320,
       "rawPanId": "2015122300020906",
       "contentHash": "3580a969384c22dbacfc8e03fa2ad95af0e24605df5f5b0bf00123aa0731df7b",
       "isNew": false,
@@ -508,7 +596,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68731845"
         }
       ],
-      "viewCount": 10169,
+      "viewCount": 10266,
       "rawPanId": "2015122300020823",
       "contentHash": "451097da295e517555eb6a9fff3db9e54079a06d49b347f8e6c6bfe542617876",
       "isNew": false,
@@ -554,7 +642,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68655121"
         }
       ],
-      "viewCount": 13377,
+      "viewCount": 13451,
       "rawPanId": "2015122300020799",
       "contentHash": "c57552d177c6c9c68ee15efd1072eb2b7267006713a3e41058e8ee8e166df754",
       "isNew": false,
@@ -592,7 +680,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68652034"
         }
       ],
-      "viewCount": 20181,
+      "viewCount": 20375,
       "rawPanId": "0000061178",
       "contentHash": "14d8dddbb583918375d24af1bed5598d86d260caa4b5c54d08e754db695d3e95",
       "isNew": false,
@@ -638,7 +726,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68435576"
         }
       ],
-      "viewCount": 31446,
+      "viewCount": 31626,
       "rawPanId": "0000061171",
       "contentHash": "ed00349bdf7c2a7bc2bbe942feb19e3c07de19dc2613cecfda38cd09c4f7a8ff",
       "isNew": false,
