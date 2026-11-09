@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-08T15:52:49.088Z",
+  "generatedAt": "2026-11-09T07:48:31.847Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 22,
+  "count": 23,
   "items": [
+    {
+      "id": "sale-2015122300021000",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "2015122300021000",
+      "title": "서귀포혁신1 잔여세대 일반매각 공고 (무순위 공급)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "제주특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-11-09",
+      "deadlineAt": "2026-11-24",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300021000&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "서귀포혁신1잔여주택무순위일반매각공고문.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69252756"
+        },
+        {
+          "name": "서귀포혁신1잔여주택무순위일반매각공고문.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69252758"
+        }
+      ],
+      "viewCount": 705,
+      "rawPanId": "2015122300021000",
+      "contentHash": "cc1938a885224d9e983bad47b966ca2edda8532a3339313e49e9506258a8ff67",
+      "isNew": true,
+      "lastChangedAt": "2026-11-09T07:48:31.847Z"
+    },
     {
       "id": "sale-2015122300021006",
       "source": "lh-sale",
@@ -40,7 +70,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69274427"
         }
       ],
-      "viewCount": 2645,
+      "viewCount": 3485,
       "rawPanId": "2015122300021006",
       "contentHash": "1435dd2e6d8a275226b319bd7ad32ab044f8fa80130e9d0f8e60f78e6106c460",
       "isNew": false,
@@ -98,7 +128,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69312258"
         }
       ],
-      "viewCount": 5587,
+      "viewCount": 7528,
       "rawPanId": "0000061204",
       "contentHash": "59ca6620b424a6ebd8a2210b6e4493628db0b06057505f109cfc6dd68938b185",
       "isNew": false,
@@ -148,7 +178,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69315663"
         }
       ],
-      "viewCount": 10273,
+      "viewCount": 13722,
       "rawPanId": "2015122300021027",
       "contentHash": "a38e255b89f5a9d7d1379531936dbc731ebc5de0d21d3610f49c331be566d0d2",
       "isNew": false,
@@ -198,7 +228,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69291385"
         }
       ],
-      "viewCount": 11421,
+      "viewCount": 14238,
       "rawPanId": "2015122300021009",
       "contentHash": "b22b3d8253b1c44886c3335d4db870da07d1ad39f072ae3f148af191bf9d2509",
       "isNew": false,
@@ -248,7 +278,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286977"
         }
       ],
-      "viewCount": 6432,
+      "viewCount": 7832,
       "rawPanId": "2015122300021010",
       "contentHash": "d20ba74427b4415816d51ae6f44ffa68f8e67239a07bd93bb3b98357bceed0bf",
       "isNew": false,
@@ -294,7 +324,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69290762"
         }
       ],
-      "viewCount": 3120,
+      "viewCount": 3700,
       "rawPanId": "2015122300021015",
       "contentHash": "04dacd09fe09720f5fe66f0a8adadaae0eb072895ff2ddcd40dee8a05fa6fd7a",
       "isNew": false,
@@ -310,7 +340,7 @@
       "noticeType": "분양주택",
       "noticeSubtype": null,
       "region": "경기도",
-      "status": "공고중",
+      "status": "접수중",
       "postedAt": "2026-11-04",
       "deadlineAt": "2026-11-18",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061205&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
@@ -344,11 +374,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69296322"
         }
       ],
-      "viewCount": 7038,
+      "viewCount": 8807,
       "rawPanId": "0000061205",
-      "contentHash": "f1c48d900865465271c340ba55c4c3f78aa7a7e7e8fc2e45eb1bdff0286152ff",
+      "contentHash": "ae25c9ac8897278c0fd16ef029eac5f262424078095ce5018dc58c6f42d72aaa",
       "isNew": false,
-      "lastChangedAt": "2026-11-04T16:59:14.559Z"
+      "lastChangedAt": "2026-11-09T07:48:31.847Z"
     },
     {
       "id": "sale-0000061192",
@@ -402,7 +432,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269213"
         }
       ],
-      "viewCount": 19573,
+      "viewCount": 21970,
       "rawPanId": "0000061192",
       "contentHash": "04f1228607bc7bde790b61d3f866a00d8b589614c03722494186ef6f9917e626",
       "isNew": false,
@@ -444,7 +474,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69273068"
         }
       ],
-      "viewCount": 27313,
+      "viewCount": 30185,
       "rawPanId": "0000061200",
       "contentHash": "fc372a3591b5fc09cb326ca40b4230bf4a1e680d7a38afd9c2fc893b3589dcb2",
       "isNew": false,
@@ -490,7 +520,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272356"
         }
       ],
-      "viewCount": 18229,
+      "viewCount": 20166,
       "rawPanId": "0000061199",
       "contentHash": "05541229a39c06ecb577f3954b5bed0a778d93487f417447d75d245ca3b2befc",
       "isNew": false,
@@ -532,7 +562,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69214128"
         }
       ],
-      "viewCount": 3130,
+      "viewCount": 3392,
       "rawPanId": "2015122300020994",
       "contentHash": "2667990749b2193ed4d12fde93655ecc08c2f835add0383f021260028d7a2a7a",
       "isNew": false,
@@ -582,7 +612,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227264"
         }
       ],
-      "viewCount": 18698,
+      "viewCount": 19248,
       "rawPanId": "0000061196",
       "contentHash": "fabdd428d4e6a814276ce267aece27e2cc7c581e3655e92d7e9273d4d34d179d",
       "isNew": false,
@@ -598,7 +628,7 @@
       "noticeType": "분양주택",
       "noticeSubtype": null,
       "region": "인천광역시",
-      "status": "공고중",
+      "status": "접수중",
       "postedAt": "2026-10-30",
       "deadlineAt": "2026-11-10",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061198&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
@@ -624,11 +654,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224911"
         }
       ],
-      "viewCount": 13212,
+      "viewCount": 14681,
       "rawPanId": "0000061198",
-      "contentHash": "6d0b0194ef694584426a6b5c6d38ab9e976ffe36a134478e919215b2da70180d",
+      "contentHash": "1765eae3b35fcbab8dd90f78fd13faf4c3c64cd120911dbfdb935cb40f8393fc",
       "isNew": false,
-      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+      "lastChangedAt": "2026-11-09T07:48:31.847Z"
     },
     {
       "id": "sale-0000061189",
@@ -682,7 +712,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171767"
         }
       ],
-      "viewCount": 12603,
+      "viewCount": 13323,
       "rawPanId": "0000061189",
       "contentHash": "bfbb21e588257fa720c894f80ef63aa6f49dd085164ed0e9482ee0777f8e6d31",
       "isNew": false,
@@ -698,7 +728,7 @@
       "noticeType": "공공분양",
       "noticeSubtype": "신혼희망",
       "region": "인천광역시",
-      "status": "공고중",
+      "status": "접수중",
       "postedAt": "2026-10-30",
       "deadlineAt": "2026-11-09",
       "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061197&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39",
@@ -732,11 +762,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69215169"
         }
       ],
-      "viewCount": 10872,
+      "viewCount": 12634,
       "rawPanId": "0000061197",
-      "contentHash": "00f4fb91e2c1307f613c52389b85abd4fff2165dc51e2864cbe0d55ad831952e",
+      "contentHash": "7f7f56d73217d597addd4db9b85c07da72d7f6e4d410d0859c72b3bb61fee319",
       "isNew": false,
-      "lastChangedAt": "2026-11-01T13:44:02.000Z"
+      "lastChangedAt": "2026-11-09T07:48:31.847Z"
     },
     {
       "id": "sale-0000061195",
@@ -778,7 +808,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69168041"
         }
       ],
-      "viewCount": 26302,
+      "viewCount": 27674,
       "rawPanId": "0000061195",
       "contentHash": "19218c46386d8efcf4d830593f5a2e052b2cab1b88dfa3e7da466ac3b55fafcc",
       "isNew": false,
@@ -812,7 +842,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69142993"
         }
       ],
-      "viewCount": 9114,
+      "viewCount": 9577,
       "rawPanId": "2015122300020961",
       "contentHash": "70d816a480bf83c246f95cb270827ad04f29578fab999c710f189b245d9bd496",
       "isNew": false,
@@ -858,7 +888,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69115658"
         }
       ],
-      "viewCount": 26065,
+      "viewCount": 26506,
       "rawPanId": "0000061186",
       "contentHash": "1da416c53c3e9e4057edb743c9a9d1ff3a000794034b3f3d68044a19a28971a3",
       "isNew": false,
@@ -904,7 +934,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963719"
         }
       ],
-      "viewCount": 9450,
+      "viewCount": 9651,
       "rawPanId": "2015122300020906",
       "contentHash": "3580a969384c22dbacfc8e03fa2ad95af0e24605df5f5b0bf00123aa0731df7b",
       "isNew": false,
@@ -942,7 +972,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68731845"
         }
       ],
-      "viewCount": 11300,
+      "viewCount": 11476,
       "rawPanId": "2015122300020823",
       "contentHash": "451097da295e517555eb6a9fff3db9e54079a06d49b347f8e6c6bfe542617876",
       "isNew": false,
@@ -988,7 +1018,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68655121"
         }
       ],
-      "viewCount": 14376,
+      "viewCount": 14527,
       "rawPanId": "2015122300020799",
       "contentHash": "c57552d177c6c9c68ee15efd1072eb2b7267006713a3e41058e8ee8e166df754",
       "isNew": false,
@@ -1026,7 +1056,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68652034"
         }
       ],
-      "viewCount": 21573,
+      "viewCount": 21785,
       "rawPanId": "0000061178",
       "contentHash": "14d8dddbb583918375d24af1bed5598d86d260caa4b5c54d08e754db695d3e95",
       "isNew": false,
