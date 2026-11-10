@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-11-09T19:40:49.844Z",
+  "generatedAt": "2026-11-10T08:10:03.500Z",
   "category": "sale",
   "categoryLabel": "분양",
-  "count": 22,
+  "count": 21,
   "items": [
+    {
+      "id": "sale-0000061207",
+      "source": "lh-sale",
+      "category": "sale",
+      "categoryLabel": "분양",
+      "sourceNoticeKey": "0000061207",
+      "title": "원주무실 A-2블록 공공분양 잔여세대 추가 입주자모집 공고(순번추첨 동호지정 및 선착순)",
+      "noticeType": "분양주택",
+      "noticeSubtype": null,
+      "region": "강원특별자치도",
+      "status": "공고중",
+      "postedAt": "2026-11-10",
+      "deadlineAt": "2026-11-27",
+      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061207&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
+      "attachments": [
+        {
+          "name": "(공고문)원주무실A-2블록잔여세대추가입주자모집(순번추첨동호지정및선착순계약)20261110.hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69338538"
+        },
+        {
+          "name": "(공고문)원주무실A-2블록잔여세대추가입주자모집(순번추첨동호지정및선착순계약)20261110.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69338527"
+        },
+        {
+          "name": "(붙임1)원주무실A-2블록공공분양팸플릿.pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69338542"
+        },
+        {
+          "name": "(붙임2)위임장(원주무실A-2블록분양주택).hwpx",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69338548"
+        },
+        {
+          "name": "(붙임3)원주무실A-2블록잔여세대동호내역(26.11.10기준).pdf",
+          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69338554"
+        }
+      ],
+      "viewCount": 1000,
+      "rawPanId": "0000061207",
+      "contentHash": "0d95595ba39cb2f1449b3229786c46b8802dcdf697482897fde2d699b3388b5b",
+      "isNew": true,
+      "lastChangedAt": "2026-11-10T08:10:03.500Z"
+    },
     {
       "id": "sale-2015122300021000",
       "source": "lh-sale",
@@ -28,7 +70,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69252758"
         }
       ],
-      "viewCount": 1127,
+      "viewCount": 1630,
       "rawPanId": "2015122300021000",
       "contentHash": "cc1938a885224d9e983bad47b966ca2edda8532a3339313e49e9506258a8ff67",
       "isNew": false,
@@ -70,7 +112,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69274427"
         }
       ],
-      "viewCount": 3869,
+      "viewCount": 4387,
       "rawPanId": "2015122300021006",
       "contentHash": "1435dd2e6d8a275226b319bd7ad32ab044f8fa80130e9d0f8e60f78e6106c460",
       "isNew": false,
@@ -128,7 +170,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69312258"
         }
       ],
-      "viewCount": 8460,
+      "viewCount": 9828,
       "rawPanId": "0000061204",
       "contentHash": "59ca6620b424a6ebd8a2210b6e4493628db0b06057505f109cfc6dd68938b185",
       "isNew": false,
@@ -178,7 +220,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69315663"
         }
       ],
-      "viewCount": 16314,
+      "viewCount": 19508,
       "rawPanId": "2015122300021027",
       "contentHash": "a38e255b89f5a9d7d1379531936dbc731ebc5de0d21d3610f49c331be566d0d2",
       "isNew": false,
@@ -228,61 +270,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69291385"
         }
       ],
-      "viewCount": 16561,
+      "viewCount": 19352,
       "rawPanId": "2015122300021009",
       "contentHash": "b22b3d8253b1c44886c3335d4db870da07d1ad39f072ae3f148af191bf9d2509",
       "isNew": false,
       "lastChangedAt": "2026-11-05T07:49:29.405Z"
-    },
-    {
-      "id": "sale-2015122300021010",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "2015122300021010",
-      "title": "경기남부권(수원 광교) 공가세대 일반매각 공고(무순위, 무주택세대구성원)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "경기도",
-      "status": "정정공고중",
-      "postedAt": "2026-11-05",
-      "deadlineAt": "2026-11-24",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=2015122300021010&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "경기남부권(수원광교)공가세대일반매각공고문(85이하)_261105.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286739"
-        },
-        {
-          "name": "경기남부권(수원광교)공가세대일반매각공고문(85이하)_261105.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286740"
-        },
-        {
-          "name": "(붙임)개인정보수집이용및제3자제공동의서및무주택서약서(양식,필수).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286971"
-        },
-        {
-          "name": "(붙임)세대열람보안각서.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286972"
-        },
-        {
-          "name": "(붙임)토지거래계약허가신청제출서류(필수).zip",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286967"
-        },
-        {
-          "name": "(참고)위임장(양식).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286976"
-        },
-        {
-          "name": "(참고)주택상태확인서(계약시작성).pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69286977"
-        }
-      ],
-      "viewCount": 9232,
-      "rawPanId": "2015122300021010",
-      "contentHash": "d20ba74427b4415816d51ae6f44ffa68f8e67239a07bd93bb3b98357bceed0bf",
-      "isNew": false,
-      "lastChangedAt": "2026-11-05T17:14:54.002Z"
     },
     {
       "id": "sale-2015122300021015",
@@ -324,7 +316,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69290762"
         }
       ],
-      "viewCount": 4052,
+      "viewCount": 4532,
       "rawPanId": "2015122300021015",
       "contentHash": "04dacd09fe09720f5fe66f0a8adadaae0eb072895ff2ddcd40dee8a05fa6fd7a",
       "isNew": false,
@@ -374,7 +366,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69296322"
         }
       ],
-      "viewCount": 9829,
+      "viewCount": 11354,
       "rawPanId": "0000061205",
       "contentHash": "ae25c9ac8897278c0fd16ef029eac5f262424078095ce5018dc58c6f42d72aaa",
       "isNew": false,
@@ -432,7 +424,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69269213"
         }
       ],
-      "viewCount": 23268,
+      "viewCount": 25693,
       "rawPanId": "0000061192",
       "contentHash": "04f1228607bc7bde790b61d3f866a00d8b589614c03722494186ef6f9917e626",
       "isNew": false,
@@ -474,7 +466,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69273068"
         }
       ],
-      "viewCount": 31800,
+      "viewCount": 34300,
       "rawPanId": "0000061200",
       "contentHash": "fc372a3591b5fc09cb326ca40b4230bf4a1e680d7a38afd9c2fc893b3589dcb2",
       "isNew": false,
@@ -520,7 +512,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69272356"
         }
       ],
-      "viewCount": 21293,
+      "viewCount": 23093,
       "rawPanId": "0000061199",
       "contentHash": "05541229a39c06ecb577f3954b5bed0a778d93487f417447d75d245ca3b2befc",
       "isNew": false,
@@ -562,7 +554,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69214128"
         }
       ],
-      "viewCount": 3541,
+      "viewCount": 3757,
       "rawPanId": "2015122300020994",
       "contentHash": "2667990749b2193ed4d12fde93655ecc08c2f835add0383f021260028d7a2a7a",
       "isNew": false,
@@ -612,53 +604,11 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69227264"
         }
       ],
-      "viewCount": 19554,
+      "viewCount": 20005,
       "rawPanId": "0000061196",
       "contentHash": "fabdd428d4e6a814276ce267aece27e2cc7c581e3655e92d7e9273d4d34d179d",
       "isNew": false,
       "lastChangedAt": "2026-11-04T16:59:14.559Z"
-    },
-    {
-      "id": "sale-0000061198",
-      "source": "lh-sale",
-      "category": "sale",
-      "categoryLabel": "분양",
-      "sourceNoticeKey": "0000061198",
-      "title": "인천가정2 B2블록 공공분양 잔여세대 입주자모집공고(순번추첨 동호지정)",
-      "noticeType": "분양주택",
-      "noticeSubtype": null,
-      "region": "인천광역시",
-      "status": "접수중",
-      "postedAt": "2026-10-30",
-      "deadlineAt": "2026-11-10",
-      "detailUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?mi=1027&panId=0000061198&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05",
-      "attachments": [
-        {
-          "name": "인천가정2B2BL잔여세대추가모집(순번추첨동호지정)입주자모집공고문.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224852"
-        },
-        {
-          "name": "인천가정2B2BL잔여세대추가모집(순번추첨동호지정)입주자모집공고문.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224439"
-        },
-        {
-          "name": "인천가정2B2블록분양팸플릿.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224869"
-        },
-        {
-          "name": "위임장.hwpx",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224913"
-        },
-        {
-          "name": "인천가정2B2블록잔여세대배치도.pdf",
-          "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69224911"
-        }
-      ],
-      "viewCount": 15634,
-      "rawPanId": "0000061198",
-      "contentHash": "1765eae3b35fcbab8dd90f78fd13faf4c3c64cd120911dbfdb935cb40f8393fc",
-      "isNew": false,
-      "lastChangedAt": "2026-11-09T07:48:31.847Z"
     },
     {
       "id": "sale-0000061189",
@@ -712,7 +662,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69171767"
         }
       ],
-      "viewCount": 13756,
+      "viewCount": 14338,
       "rawPanId": "0000061189",
       "contentHash": "bfbb21e588257fa720c894f80ef63aa6f49dd085164ed0e9482ee0777f8e6d31",
       "isNew": false,
@@ -758,7 +708,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69168041"
         }
       ],
-      "viewCount": 28378,
+      "viewCount": 29472,
       "rawPanId": "0000061195",
       "contentHash": "19218c46386d8efcf4d830593f5a2e052b2cab1b88dfa3e7da466ac3b55fafcc",
       "isNew": false,
@@ -792,7 +742,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69142993"
         }
       ],
-      "viewCount": 9856,
+      "viewCount": 10251,
       "rawPanId": "2015122300020961",
       "contentHash": "70d816a480bf83c246f95cb270827ad04f29578fab999c710f189b245d9bd496",
       "isNew": false,
@@ -838,7 +788,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=69115658"
         }
       ],
-      "viewCount": 26755,
+      "viewCount": 27137,
       "rawPanId": "0000061186",
       "contentHash": "1da416c53c3e9e4057edb743c9a9d1ff3a000794034b3f3d68044a19a28971a3",
       "isNew": false,
@@ -884,7 +834,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68963719"
         }
       ],
-      "viewCount": 9760,
+      "viewCount": 9945,
       "rawPanId": "2015122300020906",
       "contentHash": "3580a969384c22dbacfc8e03fa2ad95af0e24605df5f5b0bf00123aa0731df7b",
       "isNew": false,
@@ -922,7 +872,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68731845"
         }
       ],
-      "viewCount": 11567,
+      "viewCount": 11716,
       "rawPanId": "2015122300020823",
       "contentHash": "451097da295e517555eb6a9fff3db9e54079a06d49b347f8e6c6bfe542617876",
       "isNew": false,
@@ -968,7 +918,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68655121"
         }
       ],
-      "viewCount": 14614,
+      "viewCount": 14754,
       "rawPanId": "2015122300020799",
       "contentHash": "c57552d177c6c9c68ee15efd1072eb2b7267006713a3e41058e8ee8e166df754",
       "isNew": false,
@@ -1006,7 +956,7 @@
           "url": "https://apply.lh.or.kr/lhapply/lhFile.do?fileid=68652034"
         }
       ],
-      "viewCount": 21906,
+      "viewCount": 22057,
       "rawPanId": "0000061178",
       "contentHash": "14d8dddbb583918375d24af1bed5598d86d260caa4b5c54d08e754db695d3e95",
       "isNew": false,
