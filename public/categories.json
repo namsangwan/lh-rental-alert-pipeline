@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T17:03:45.776Z",
+  "generatedAt": "2026-11-14T07:29:30.285Z",
   "categories": [
     {
       "key": "rental",
       "label": "임대",
       "noticeCount": 41,
-      "newNoticeCount": 2,
+      "newNoticeCount": 0,
       "updatedNoticeCount": 0,
       "noticesUrl": "/rental/notices.json",
       "metadataUrl": "/rental/metadata.json"
@@ -14,7 +14,7 @@
       "key": "sale",
       "label": "분양",
       "noticeCount": 19,
-      "newNoticeCount": 1,
+      "newNoticeCount": 0,
       "updatedNoticeCount": 0,
       "noticesUrl": "/sale/notices.json",
       "metadataUrl": "/sale/metadata.json"
